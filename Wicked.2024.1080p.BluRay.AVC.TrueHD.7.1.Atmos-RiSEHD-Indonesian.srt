@@ -1,0 +1,8472 @@
+﻿1
+00:00:26,403 --> 00:00:27,403
+<i>Glinda!</i>
+
+2
+00:00:27,404 --> 00:00:29,531
+<i>Apa dia benar-benar sudah mati?</i>
+
+3
+00:00:36,497 --> 00:00:40,000
+<i>Karena ada banyak rumor dan spekulasi...</i>
+
+4
+00:00:43,587 --> 00:00:45,839
+<i>biar kuceritakan seluruh kisahnya.</i>
+
+5
+00:00:50,385 --> 00:00:53,138
+<i>Menurut Jam Waktu Naga,</i>
+
+6
+00:00:54,056 --> 00:00:56,850
+<i>dia meleleh pada jam ke-13.</i>
+
+7
+00:01:00,062 --> 00:01:03,690
+<i>Akibat disiram seember air
+oleh seorang anak perempuan.</i>
+
+8
+00:01:15,369 --> 00:01:18,705
+<i>Ya, Penyihir Jahat dari Barat sudah mati.</i>
+
+9
+00:02:19,349 --> 00:02:21,643
+Berita baik! Si Penyihir! Dia mati!
+
+10
+00:02:27,232 --> 00:02:29,650
+Berita baik! Warga Munchkin, bangunlah!
+
+11
+00:02:29,651 --> 00:02:32,279
+Keluarlah! Dia sudah mati!
+
+12
+00:02:34,573 --> 00:02:37,074
+Berita baik! Penyihir Jahat sudah mati!
+
+13
+00:02:37,075 --> 00:02:41,746
+<i>Berita baik</i>
+
+14
+00:02:41,747 --> 00:02:44,582
+<i>Dia sudah mati</i>
+
+15
+00:02:44,583 --> 00:02:46,210
+<i>Penyihir dari Barat sudah mati</i>
+
+16
+00:02:47,002 --> 00:02:49,253
+<i>Penyihir yang paling jahat</i>
+
+17
+00:02:49,254 --> 00:02:51,881
+<i>Musuh seluruh Oz</i>
+
+18
+00:02:51,882 --> 00:02:55,843
+<i>Sudah mati</i>
+
+19
+00:02:55,844 --> 00:03:04,102
+<i>Berita baik</i>
+
+20
+00:03:06,605 --> 00:03:10,650
+<i>Mari kita berbahagia</i>
+
+21
+00:03:10,651 --> 00:03:13,028
+Lihat! Itu Glinda!
+
+22
+00:03:13,779 --> 00:03:17,658
+<i>Mari kita bersyukur</i>
+
+23
+00:03:20,661 --> 00:03:25,957
+<i>Mari kita bersukacita
+Bahwa Kebaikan bisa mengalahkan</i>
+
+24
+00:03:25,958 --> 00:03:33,048
+<i>Pekerjaan jahat kau-tahu-siapa</i>
+
+25
+00:03:43,183 --> 00:03:44,768
+- Hai!
+- Glinda!
+
+26
+00:03:46,395 --> 00:03:48,355
+Senang melihatku, bukan?
+
+27
+00:03:54,486 --> 00:03:58,073
+Warga Oz... biar kuperjelas kabarnya.
+
+28
+00:03:59,950 --> 00:04:01,034
+Ya...
+
+29
+00:04:03,412 --> 00:04:05,539
+Penyihir Jahat dari Barat sudah mati!
+
+30
+00:04:09,334 --> 00:04:14,130
+<i>Bukankah senang mengetahui</i>
+
+31
+00:04:14,131 --> 00:04:19,677
+<i>Bahwa kebaikan akan mengalahkan kejahatan?</i>
+
+32
+00:04:19,678 --> 00:04:23,431
+<i>Kebenaran yang kita percaya</i>
+
+33
+00:04:23,432 --> 00:04:28,644
+<i>Pada akhirnya</i>
+
+34
+00:04:28,645 --> 00:04:33,900
+<i>Akan mengalahkan kebohongan</i>
+
+35
+00:04:33,901 --> 00:04:37,069
+<i>Untukmu dan...</i>
+
+36
+00:04:37,070 --> 00:04:40,406
+<i>Tak seorang pun meratapi Si Jahat</i>
+
+37
+00:04:40,407 --> 00:04:43,659
+<i>Tak ada yang menangis,
+"Mereka tak akan kembali"</i>
+
+38
+00:04:43,660 --> 00:04:48,331
+<i>Tidak ada bunga di makam mereka</i>
+
+39
+00:04:48,332 --> 00:04:51,751
+<i>Orang-orang baik mencemooh Si Jahat</i>
+
+40
+00:04:51,752 --> 00:04:55,087
+<i>Lewat hidup mereka, anak-anak kita belajar</i>
+
+41
+00:04:55,088 --> 00:04:59,759
+<i>Kerugian kita kalau berbuat jahat</i>
+
+42
+00:04:59,760 --> 00:05:03,429
+<i>Dan Kebaikan tahu</i>
+
+43
+00:05:03,430 --> 00:05:07,600
+<i>Si Jahat hidup kesepian</i>
+
+44
+00:05:07,601 --> 00:05:10,144
+<i>Kebaikan tahu</i>
+
+45
+00:05:10,145 --> 00:05:14,607
+<i>Si Jahat mati sendirian</i>
+
+46
+00:05:14,608 --> 00:05:18,027
+<i>Terlihat kalau kau Jahat</i>
+
+47
+00:05:18,028 --> 00:05:20,572
+<i>Kau akan hidup</i>
+
+48
+00:05:21,448 --> 00:05:23,115
+<i>Sendirian</i>
+
+49
+00:05:23,116 --> 00:05:27,370
+<i>Ya, Kebaikan tahu</i>
+
+50
+00:05:27,371 --> 00:05:31,791
+<i>Si Jahat hidup kesepian</i>
+
+51
+00:05:31,792 --> 00:05:34,293
+<i>Kebaikan tahu</i>
+
+52
+00:05:34,294 --> 00:05:38,257
+<i>Si Jahat menangis sendirian</i>
+
+53
+00:05:38,757 --> 00:05:41,926
+<i>Tidak ada yang tumbuh untuk Si Jahat</i>
+
+54
+00:05:41,927 --> 00:05:46,722
+<i>Mereka menuai yang mereka tabur</i>
+
+55
+00:05:46,723 --> 00:05:48,934
+- Nona Glinda?
+- Ya?
+
+56
+00:05:49,685 --> 00:05:51,812
+Bagaimana Kejahatan bisa terjadi?
+
+57
+00:05:54,940 --> 00:05:56,441
+Itu pertanyaan bagus.
+
+58
+00:05:56,817 --> 00:05:59,820
+Banyak orang yang bingung tentang ini.
+
+59
+00:06:00,362 --> 00:06:02,405
+Apakah orang terlahir Jahat?
+
+60
+00:06:02,406 --> 00:06:04,825
+Atau mereka berubah menjadi Jahat?
+
+61
+00:06:06,118 --> 00:06:07,285
+Bagaimanapun,
+
+62
+00:06:07,286 --> 00:06:09,954
+Penyihir Jahat punya masa kecil.
+
+63
+00:06:09,955 --> 00:06:11,122
+<i>Dia punya ayah,</i>
+
+64
+00:06:11,123 --> 00:06:14,208
+<i>yang ditunjuk menjadi
+gubernur Munchkinland.</i>
+
+65
+00:06:14,209 --> 00:06:15,501
+Aku pergi ke Pertemuan, Sayang.
+
+66
+00:06:15,502 --> 00:06:18,004
+<i>Dia punya ibu, sama seperti orang lain.</i>
+
+67
+00:06:18,005 --> 00:06:22,091
+<i>Aku tak suka pergi
+Dan meninggalkanmu sendiri</i>
+
+68
+00:06:22,092 --> 00:06:25,929
+<i>Tidak apa-apa, hanya satu malam</i>
+
+69
+00:06:26,722 --> 00:06:29,849
+<i>Namun, ketahuilah kau ada di hatiku</i>
+
+70
+00:06:29,850 --> 00:06:36,940
+<i>Saat aku tidak di dekatmu</i>
+
+71
+00:06:38,275 --> 00:06:39,776
+<i>Seperti keluarga lainnya,</i>
+
+72
+00:06:40,569 --> 00:06:42,029
+<i>mereka punya rahasia.</i>
+
+73
+00:06:56,543 --> 00:06:59,629
+<i>Minumlah lagi, kekasih bermata hitamku</i>
+
+74
+00:06:59,630 --> 00:07:02,423
+<i>Aku masih satu malam lagi di kota ini</i>
+
+75
+00:07:02,424 --> 00:07:05,802
+<i>Minumlah segelas lagi ramuan hijau</i>
+
+76
+00:07:05,803 --> 00:07:09,096
+<i>Dan kita akan bersenang-senang</i>
+
+77
+00:07:09,097 --> 00:07:11,849
+<i>Minumlah sedikit lagi, Nona Kecil</i>
+
+78
+00:07:11,850 --> 00:07:15,562
+<i>Dan ikutlah aku</i>
+
+79
+00:07:16,605 --> 00:07:20,400
+Lalu hal yang tidak baik terjadi,
+seperti biasanya.
+
+80
+00:07:22,611 --> 00:07:24,737
+<i>Namun, sejak Penyihir lahir, dia...</i>
+
+81
+00:07:24,738 --> 00:07:26,490
+- Dulcibear!
+<i>- ...yah...</i>
+
+82
+00:07:27,741 --> 00:07:29,033
+<i>berbeda.</i>
+
+83
+00:07:29,034 --> 00:07:31,035
+- Bayinya akan lahir!
+- Sekarang?
+
+84
+00:07:31,036 --> 00:07:32,245
+Bayinya akan lahir!
+
+85
+00:07:32,246 --> 00:07:33,663
+Luar biasa!
+
+86
+00:07:33,664 --> 00:07:35,039
+<i>Aku melihat hidung</i>
+
+87
+00:07:35,040 --> 00:07:36,666
+<i>Aku melihat rambut ikal</i>
+
+88
+00:07:36,667 --> 00:07:41,254
+<i>Bayi sehat dan sempurna yang...</i>
+
+89
+00:07:41,255 --> 00:07:42,923
+Oh, demi Oz!
+
+90
+00:07:43,423 --> 00:07:45,007
+Ada apa?
+
+91
+00:07:45,008 --> 00:07:46,092
+<i>Kenapa bisa begini?</i>
+
+92
+00:07:46,093 --> 00:07:48,470
+<i>Apa artinya ini?</i>
+
+93
+00:07:49,179 --> 00:07:50,179
+<i>Ini aneh</i>
+
+94
+00:07:50,180 --> 00:07:53,808
+<i>Ini aib</i>
+
+95
+00:07:53,809 --> 00:07:56,435
+<i>Bagai kubis hijau mirip katak</i>
+
+96
+00:07:56,436 --> 00:07:59,148
+<i>Bayi ini secara tidak alami...</i>
+
+97
+00:08:01,984 --> 00:08:02,985
+Hijau.
+
+98
+00:08:14,705 --> 00:08:15,539
+Bawa pergi.
+
+99
+00:08:24,339 --> 00:08:25,549
+Bawa pergi!
+
+100
+00:08:35,684 --> 00:08:37,352
+Tenanglah, Nak.
+
+101
+00:08:39,855 --> 00:08:41,230
+Kami akan mengurusmu.
+
+102
+00:08:45,068 --> 00:08:47,905
+<i>Maka si pengasuh, Dulcibear, mengasuhnya.</i>
+
+103
+00:08:48,822 --> 00:08:52,284
+<i>Seiring dia bertumbuh,
+demikian juga tantangannya.</i>
+
+104
+00:08:53,035 --> 00:08:54,285
+Dulcibear.
+
+105
+00:08:54,286 --> 00:08:55,746
+Aku datang, Gubernur.
+
+106
+00:08:56,330 --> 00:08:58,456
+Nak, jaga adikmu.
+
+107
+00:08:58,457 --> 00:08:59,875
+Aku pergi sebentar.
+
+108
+00:09:02,002 --> 00:09:04,879
+Nessarose. Jangan khawatir.
+
+109
+00:09:04,880 --> 00:09:06,340
+Aku di sini.
+
+110
+00:09:06,882 --> 00:09:09,342
+Mau lihat sesuatu yang luar biasa?
+
+111
+00:09:09,343 --> 00:09:10,259
+Ya.
+
+112
+00:09:10,260 --> 00:09:14,597
+Ini tentang Ahli Sihir Oz yang hebat.
+
+113
+00:09:14,598 --> 00:09:16,557
+Tahu cara dia kemari?
+
+114
+00:09:16,558 --> 00:09:17,643
+Tidak.
+
+115
+00:09:18,310 --> 00:09:21,605
+Dari langit. Naik balon. Lihat?
+
+116
+00:09:22,314 --> 00:09:25,733
+Lalu, dia membangun kota
+terbuat dari zamrud,
+
+117
+00:09:25,734 --> 00:09:27,778
+karena dia menyukai zamrud.
+
+118
+00:09:28,320 --> 00:09:29,696
+Meskipun warnanya hijau.
+
+119
+00:09:30,322 --> 00:09:33,407
+Nessa, mau tahu sebuah rahasia?
+
+120
+00:09:33,408 --> 00:09:37,371
+Jika kau bisa menemuinya,
+dia akan mengabulkan keinginan hatimu.
+
+121
+00:09:38,330 --> 00:09:41,040
+Elphaba Thropp, warnanya hijau.
+
+122
+00:09:41,041 --> 00:09:44,419
+Tolong beri tahu dia
+semua orang bisa menciumnya.
+
+123
+00:09:44,962 --> 00:09:46,587
+Hijau dan jelek?
+
+124
+00:09:46,588 --> 00:09:48,548
+Kenapa dia hijau sekali?
+
+125
+00:09:48,549 --> 00:09:51,718
+Dari mana asalmu?
+Tempatmu bukan di sini.
+
+126
+00:09:55,139 --> 00:09:56,932
+Dia sehijau pepohonan!
+
+127
+00:10:07,025 --> 00:10:08,152
+Hentikan!
+
+128
+00:10:10,237 --> 00:10:11,487
+Elphaba.
+
+129
+00:10:11,488 --> 00:10:13,115
+Elphaba Thropp.
+
+130
+00:10:13,824 --> 00:10:15,367
+Apa lagi ulahmu sekarang?
+
+131
+00:10:15,868 --> 00:10:17,577
+Tidak apa-apa. Kemarilah.
+
+132
+00:10:17,578 --> 00:10:19,620
+Kau membuat adikmu menangis.
+
+133
+00:10:19,621 --> 00:10:23,499
+Mari kita ambil kue
+untuk anak yang cantik.
+
+134
+00:10:23,500 --> 00:10:27,337
+Tak apa-apa, Nak.
+Seharusnya dia tidak menyalahkanmu.
+
+135
+00:10:28,297 --> 00:10:29,297
+Dulcibear.
+
+136
+00:10:29,298 --> 00:10:30,466
+{\an8}KISAH OZ
+
+137
+00:10:35,846 --> 00:10:37,097
+<i>Maka...</i>
+
+138
+00:10:37,681 --> 00:10:39,349
+itu tidaklah mudah.
+
+139
+00:10:40,809 --> 00:10:43,686
+<i>Tak seorang pun meratapi Si Jahat</i>
+
+140
+00:10:43,687 --> 00:10:46,063
+BUNUH SI PENYIHIR
+
+141
+00:10:46,064 --> 00:10:51,402
+<i>Akhirnya, dia sudah tiada</i>
+
+142
+00:10:51,403 --> 00:10:56,908
+<i>Kini akhirnya
+Di seluruh negeri ada sukacita</i>
+
+143
+00:10:56,909 --> 00:11:03,498
+<i>- Dan Kebaikan tahu
+- Kebaikan tahu</i>
+
+144
+00:11:03,499 --> 00:11:07,168
+<i>Kita tahu apa itu Kebaikan</i>
+
+145
+00:11:07,169 --> 00:11:09,378
+<i>Kebaikan tahu</i>
+
+146
+00:11:09,379 --> 00:11:11,672
+<i>Si Jahat mati sendirian</i>
+
+147
+00:11:11,673 --> 00:11:13,299
+<i>Dia mati sendirian</i>
+
+148
+00:11:13,300 --> 00:11:17,470
+<i>Celakalah mereka</i>
+
+149
+00:11:17,471 --> 00:11:20,306
+<i>Bila menolak kebaikan</i>
+
+150
+00:11:20,307 --> 00:11:26,187
+{\an8}<i>Yang telah ditunjukkan kepada mereka</i>
+
+151
+00:11:26,188 --> 00:11:28,815
+<i>Tak seorang pun meratapi Si Jahat</i>
+
+152
+00:11:28,816 --> 00:11:32,236
+<i>Berita baik</i>
+
+153
+00:11:32,903 --> 00:11:35,404
+<i>Tak seorang pun meratapi Si Jahat</i>
+
+154
+00:11:35,405 --> 00:11:38,659
+<i>Berita baik</i>
+
+155
+00:11:40,035 --> 00:11:45,582
+<i>Tak seorang pun meratapi Si Jahat</i>
+
+156
+00:11:48,126 --> 00:11:50,337
+<i>Jahat</i>
+
+157
+00:11:53,298 --> 00:12:00,055
+<i>Jahat</i>
+
+158
+00:12:07,020 --> 00:12:08,021
+Ya.
+
+159
+00:12:09,439 --> 00:12:11,440
+Ini menyenangkan.
+
+160
+00:12:11,441 --> 00:12:12,525
+Kalian tentu tahu
+
+161
+00:12:12,526 --> 00:12:15,862
+banyak yang harus kukerjakan
+sehubungan kepergian Ahli Sihir.
+
+162
+00:12:15,863 --> 00:12:19,658
+Jika tak ada pertanyaan lain,
+aku mau pergi.
+
+163
+00:12:20,576 --> 00:12:21,993
+Glinda,
+
+164
+00:12:21,994 --> 00:12:24,036
+apa benar dahulu kau temannya?
+
+165
+00:12:24,037 --> 00:12:25,122
+Apa?
+
+166
+00:12:25,622 --> 00:12:27,082
+Maaf. Tunggu.
+
+167
+00:12:29,084 --> 00:12:29,918
+Apa?
+
+168
+00:12:30,461 --> 00:12:32,838
+Apa benar dahulu kau temannya?
+
+169
+00:12:36,508 --> 00:12:37,509
+Teman?
+
+170
+00:12:40,137 --> 00:12:41,138
+Ya.
+
+171
+00:12:43,056 --> 00:12:44,558
+Aku memang mengenalnya.
+
+172
+00:12:47,019 --> 00:12:48,020
+Maksudku,
+
+173
+00:12:49,229 --> 00:12:50,856
+kami memang pernah bertemu.
+
+174
+00:13:02,075 --> 00:13:03,076
+Saat kuliah.
+
+175
+00:13:07,539 --> 00:13:09,208
+<i>Namun, pahami,</i>
+
+176
+00:13:09,791 --> 00:13:11,293
+<i>itu sudah lama.</i>
+
+177
+00:13:41,824 --> 00:13:44,493
+{\an8}UNIVERSITAS SHIZ
+
+178
+00:14:00,259 --> 00:14:02,136
+- Hai!
+- Itu Galinda!
+
+179
+00:14:04,972 --> 00:14:06,806
+{\an8}Kami bangga kepadamu!
+
+180
+00:14:06,807 --> 00:14:09,392
+Terima kasih.
+Aku sayang kalian. Ingat,
+
+181
+00:14:09,393 --> 00:14:11,727
+- perpisahan ini sementara.
+- Kami menyayangimu.
+
+182
+00:14:11,728 --> 00:14:12,895
+- Sudah bawa semua?
+- Ya.
+
+183
+00:14:12,896 --> 00:14:14,272
+- Kau akan kirim surat?
+- Ya.
+
+184
+00:14:14,273 --> 00:14:15,899
+- Aku sayang kalian. Sudah waktunya.
+- Sayang!
+
+185
+00:14:16,441 --> 00:14:18,902
+Aku sudah merindukan kalian.
+Ayah, naik kapal.
+
+186
+00:14:19,528 --> 00:14:21,280
+Mereka akan sangat merindukanku.
+
+187
+00:14:21,864 --> 00:14:23,866
+Orang tuaku tak tahu aku pergi.
+
+188
+00:14:26,994 --> 00:14:27,995
+Aku Boq.
+
+189
+00:14:29,079 --> 00:14:30,455
+Aku dari Munchkinland.
+
+190
+00:14:31,832 --> 00:14:34,250
+Kita tak terlalu kenal, tetapi...
+
+191
+00:14:34,251 --> 00:14:35,961
+Tahu apa yang kupercayai, Bick?
+
+192
+00:14:36,837 --> 00:14:38,463
+Namaku Bick... Namaku Boq.
+
+193
+00:14:38,464 --> 00:14:40,215
+Orang-orang asing...
+
+194
+00:14:40,841 --> 00:14:42,468
+adalah orang tak kukenal.
+
+195
+00:14:46,388 --> 00:14:47,723
+Dah.
+
+196
+00:14:48,515 --> 00:14:53,269
+<i>Ruang-ruang suci
+Dan dinding dengan tanaman merambat</i>
+
+197
+00:14:53,270 --> 00:14:56,522
+<i>Pemandangan paling membanggakan
+Yang pernah ada</i>
+
+198
+00:14:56,523 --> 00:14:58,357
+<i>Pemandangan paling membanggakan</i>
+
+199
+00:14:58,358 --> 00:15:03,070
+<i>Ketika rambut kita sudah beruban</i>
+
+200
+00:15:03,071 --> 00:15:08,618
+<i>Kita akan tetap menghormati
+Pelajaran yang kita dapati</i>
+
+201
+00:15:08,619 --> 00:15:13,456
+<i>Pada masa-masa kita di Shiz tercinta</i>
+
+202
+00:15:13,457 --> 00:15:18,086
+<i>Masa-masa kita di...</i>
+
+203
+00:15:20,172 --> 00:15:25,302
+<i>Shiz</i>
+
+204
+00:15:26,512 --> 00:15:30,224
+<i>- Tercinta
+- Shiz tercinta</i>
+
+205
+00:15:35,229 --> 00:15:36,230
+Oh, Oz.
+
+206
+00:15:37,147 --> 00:15:39,149
+Apa? Kalian menatap apa?
+
+207
+00:15:40,776 --> 00:15:42,277
+Ada sesuatu di gigiku?
+
+208
+00:15:42,986 --> 00:15:44,071
+Tidak, hanya saja...
+
+209
+00:15:45,531 --> 00:15:46,532
+Kau hijau.
+
+210
+00:15:48,951 --> 00:15:49,952
+Benar.
+
+211
+00:15:56,500 --> 00:15:59,252
+Baik. Langsung saja biar cepat selesai.
+
+212
+00:15:59,253 --> 00:16:01,004
+Aku tidak mabuk laut.
+
+213
+00:16:01,547 --> 00:16:04,632
+Aku tidak makan rumput ketika kecil.
+
+214
+00:16:04,633 --> 00:16:07,636
+Dan ya, aku hijau sejak lahir.
+
+215
+00:16:11,431 --> 00:16:13,725
+Aku sangat prihatin
+
+216
+00:16:14,726 --> 00:16:17,604
+kau terpaksa menjalani hidup dengan...
+
+217
+00:16:19,231 --> 00:16:20,231
+ini.
+
+218
+00:16:20,232 --> 00:16:21,315
+Begitu?
+
+219
+00:16:21,316 --> 00:16:22,401
+Ya.
+
+220
+00:16:24,278 --> 00:16:27,573
+Aku berniat mengambil jurusan ilmu sihir.
+
+221
+00:16:28,532 --> 00:16:31,952
+Mungkin kelak kau ingin mengatasi...
+
+222
+00:16:33,537 --> 00:16:34,705
+masalah ini.
+
+223
+00:16:35,622 --> 00:16:36,456
+Masalah.
+
+224
+00:16:37,166 --> 00:16:38,333
+Mungkin aku bisa bantu.
+
+225
+00:16:40,127 --> 00:16:43,213
+- Dia sangat baik.
+- Kau sangat baik. Kami mencintaimu.
+
+226
+00:16:46,341 --> 00:16:47,342
+Terima kasih.
+
+227
+00:16:50,762 --> 00:16:51,763
+Baiklah.
+
+228
+00:16:52,514 --> 00:16:54,891
+Ingin menolong orang
+yang kau tidak kenal
+
+229
+00:16:54,892 --> 00:16:56,685
+dengan keterampilan
+yang tidak kau miliki.
+
+230
+00:16:57,269 --> 00:16:59,687
+Aku yakin semua orang terkesan.
+
+231
+00:16:59,688 --> 00:17:01,522
+Aku peduli pendapat orang.
+
+232
+00:17:01,523 --> 00:17:03,399
+- Tak peduli.
+- Apa?
+
+233
+00:17:03,400 --> 00:17:06,068
+Kau tak peduli apa pendapat orang.
+
+234
+00:17:06,612 --> 00:17:09,155
+Namun, aku meragukan itu.
+
+235
+00:17:10,031 --> 00:17:12,826
+Elphaba. Elphaba Thropp.
+
+236
+00:17:15,077 --> 00:17:16,537
+Ini adikku, Nessarose.
+
+237
+00:17:16,538 --> 00:17:18,999
+Seperti bisa kau lihat,
+warnanya bisa diterima.
+
+238
+00:17:22,169 --> 00:17:24,587
+Berhentilah menarik perhatian.
+
+239
+00:17:25,547 --> 00:17:27,715
+- Aku coba bersikap ramah.
+- Kau baik dan ramah.
+
+240
+00:17:27,716 --> 00:17:29,550
+- Apa aku buat salah?
+- Tidak.
+
+241
+00:17:29,551 --> 00:17:31,929
+- Kelihatannya bagaimana?
+- Aku tak lihat perbedaan warna.
+
+242
+00:17:33,555 --> 00:17:34,722
+Anakku sayang.
+
+243
+00:17:34,723 --> 00:17:36,183
+Ayah.
+
+244
+00:17:38,227 --> 00:17:39,812
+Hadiah perpisahan.
+
+245
+00:17:45,526 --> 00:17:47,653
+Sepatu permata ibu.
+
+246
+00:17:48,278 --> 00:17:53,908
+Agar mereka bisa melihat
+betapa cantiknya dirimu sampai ke kaki.
+
+247
+00:17:53,909 --> 00:17:55,494
+Terima kasih.
+
+248
+00:17:56,328 --> 00:17:58,621
+Terima kasih. Aku menyukainya.
+
+249
+00:17:58,622 --> 00:18:00,373
+Biar kutaruh di kotak-kotakmu.
+
+250
+00:18:00,374 --> 00:18:02,167
+Baik.
+
+251
+00:18:05,629 --> 00:18:07,297
+Seharusnya aku tidak lancang.
+
+252
+00:18:08,632 --> 00:18:10,425
+Tidak apa-apa.
+
+253
+00:18:12,261 --> 00:18:13,261
+Hari ini...
+
+254
+00:18:13,262 --> 00:18:15,097
+Awal dari hidupmu yang baru.
+
+255
+00:18:16,849 --> 00:18:18,016
+Teman-teman baru.
+
+256
+00:18:19,017 --> 00:18:20,185
+Buku-buku baru.
+
+257
+00:18:22,604 --> 00:18:23,605
+Aku turut senang.
+
+258
+00:18:24,189 --> 00:18:25,440
+Aku akan merindukanmu.
+
+259
+00:18:26,108 --> 00:18:27,192
+Tidak akan.
+
+260
+00:18:27,818 --> 00:18:29,236
+Kau akan bersenang-senang.
+
+261
+00:18:34,950 --> 00:18:38,327
+<i>Semua siswa Shiz
+harap melapor ke alun-alun.</i>
+
+262
+00:18:38,328 --> 00:18:39,872
+- Jangan bantu dia.
+- Jangan bantu aku.
+
+263
+00:18:43,292 --> 00:18:44,585
+Dia bisa.
+
+264
+00:18:45,794 --> 00:18:50,424
+<i>Semua siswa Shiz
+harap melapor ke alun-alun.</i>
+
+265
+00:18:54,595 --> 00:18:57,806
+- Senang bertemu denganmu.
+- Sama-sama.
+
+266
+00:18:58,390 --> 00:18:59,390
+Ayo kembali.
+
+267
+00:18:59,391 --> 00:19:01,601
+- Ikut dia.
+- Apa?
+
+268
+00:19:01,602 --> 00:19:03,936
+Sampai dia nyaman di kamarnya.
+
+269
+00:19:03,937 --> 00:19:06,856
+Pastikan semua keperluannya terpenuhi.
+
+270
+00:19:06,857 --> 00:19:08,232
+Ayah, biar dia mandiri.
+
+271
+00:19:08,233 --> 00:19:09,734
+- Aku tak bisa...
+- Berhenti mengoceh.
+
+272
+00:19:09,735 --> 00:19:11,195
+Patuhi saja.
+
+273
+00:19:13,530 --> 00:19:15,616
+Jika terjadi sesuatu kepadanya...
+
+274
+00:19:25,959 --> 00:19:29,170
+Terima kasih atas kontribusimu
+untuk universitas kami.
+
+275
+00:19:29,171 --> 00:19:34,217
+Melengkapi fakultas kita, ada dua sarjana
+
+276
+00:19:34,218 --> 00:19:39,473
+pakar di bidang kehutanan dan pertanian,
+
+277
+00:19:40,974 --> 00:19:44,268
+serta Profesor Mombi dari Seni Biologi,
+
+278
+00:19:44,269 --> 00:19:48,315
+dan tentunya kepala
+departemen Sejarah kita, Dr. Dillamond.
+
+279
+00:19:50,859 --> 00:19:54,070
+Kecuali Ahli Sihir kita yang hebat,
+
+280
+00:19:54,071 --> 00:19:56,989
+sihir asli sudah sangat langka,
+
+281
+00:19:56,990 --> 00:20:03,371
+karena itu kita beruntung memiliki
+Dekan Studi Ilmu Sihir kita yang terhomat,
+
+282
+00:20:03,372 --> 00:20:04,998
+Madam Morrible.
+
+283
+00:20:21,974 --> 00:20:23,016
+Kau bisa...
+
+284
+00:20:25,310 --> 00:20:26,185
+Aku tidak...
+
+285
+00:20:26,186 --> 00:20:28,063
+Astaga, benar dia.
+
+286
+00:20:37,573 --> 00:20:39,407
+Selamat datang, para murid baru.
+
+287
+00:20:39,408 --> 00:20:43,495
+Selamat telah diterima di Shiz.
+
+288
+00:20:44,204 --> 00:20:48,625
+Baik itu belajar hukum, logika,
+atau linguistik,
+
+289
+00:20:49,168 --> 00:20:52,671
+aku tahu aku bicara mewakili
+rekan-rekan anggota fakultas
+
+290
+00:20:53,380 --> 00:20:59,051
+bahwa kami sungguh punya harapan besar
+
+291
+00:20:59,052 --> 00:21:01,138
+untuk beberapa dari kalian.
+
+292
+00:21:03,807 --> 00:21:06,726
+Nah, Nona Coddle, silakan.
+
+293
+00:21:06,727 --> 00:21:10,605
+Aku Nona Coddle, Rektor Shiz.
+
+294
+00:21:10,606 --> 00:21:14,192
+Ini asramamu dan penempatan kamar.
+
+295
+00:21:14,193 --> 00:21:15,319
+{\an8}ASRAMA BARAT
+
+296
+00:21:15,903 --> 00:21:17,153
+{\an8}ASRAMA TIMUR
+
+297
+00:21:17,154 --> 00:21:20,824
+{\an8}Semoga berhasil
+dan selamat datang di Shiz.
+
+298
+00:21:31,752 --> 00:21:33,252
+Madam Morrible, hai.
+
+299
+00:21:33,253 --> 00:21:37,882
+Aku Galinda Upland dari Upper Uplands.
+
+300
+00:21:37,883 --> 00:21:40,134
+Jika ini soal penempatan kamar...
+
+301
+00:21:40,135 --> 00:21:43,429
+Terima kasih, tetapi aku sudah
+dapat kamar pribadi.
+
+302
+00:21:43,430 --> 00:21:46,224
+Ini soal pendaftaranku
+untuk seminar sihirmu.
+
+303
+00:21:46,225 --> 00:21:50,686
+Mungkin kau ingat esaiku,
+"Tongkat Sihir, perlu ada sasaran?"
+
+304
+00:21:50,687 --> 00:21:54,607
+Sayang, aku tidak mengadakan seminar
+di tiap semester.
+
+305
+00:21:54,608 --> 00:21:58,153
+Kecuali jika ada seseorang
+yang istimewa muncul...
+
+306
+00:21:59,029 --> 00:22:01,448
+Tepat.
+Karena itu aku ingin bicara denganmu.
+
+307
+00:22:02,574 --> 00:22:03,826
+Nanti kita bicara.
+
+308
+00:22:04,868 --> 00:22:05,869
+Kau di sini.
+
+309
+00:22:08,121 --> 00:22:09,831
+- Nona Nessarose, benar?
+- Ya.
+
+310
+00:22:09,832 --> 00:22:11,166
+Putri Gubernur?
+
+311
+00:22:12,125 --> 00:22:15,629
+Begitu cantik meski kondisimu tragis.
+
+312
+00:22:16,171 --> 00:22:18,715
+Sebuah kehormatan bisa...
+
+313
+00:22:19,967 --> 00:22:21,134
+Aku anak satunya lagi.
+
+314
+00:22:21,135 --> 00:22:22,844
+Tidak cantik, hanya tragis.
+
+315
+00:22:22,845 --> 00:22:25,471
+Putri lainnya?
+
+316
+00:22:25,472 --> 00:22:27,640
+Elphaba. Apa yang kau lakukan?
+
+317
+00:22:27,641 --> 00:22:30,893
+Aku tidak tahu.
+
+318
+00:22:30,894 --> 00:22:33,229
+- Aku tahu. Aku hanya...
+- Jangan takut.
+
+319
+00:22:33,230 --> 00:22:35,524
+Hanya persoalan ringan.
+
+320
+00:22:36,567 --> 00:22:39,068
+Kami akan cari tempat
+untuk menyembunyikanmu.
+
+321
+00:22:39,069 --> 00:22:41,822
+Maksudku kamarmu.
+
+322
+00:22:42,489 --> 00:22:44,615
+Tidak perlu.
+
+323
+00:22:44,616 --> 00:22:46,618
+- Aku tidak mendaftar.
+- Baguslah.
+
+324
+00:22:47,202 --> 00:22:48,369
+Kenapa masih di sini?
+
+325
+00:22:48,370 --> 00:22:49,912
+Maaf, Nessa. Ayah bersikeras...
+
+326
+00:22:49,913 --> 00:22:52,623
+Gubernur tentu mencemaskan adikmu.
+
+327
+00:22:52,624 --> 00:22:53,541
+Tunggu.
+
+328
+00:22:53,542 --> 00:22:56,252
+Sampaikan kepada ayahmu
+aku akan senang menolong anaknya.
+
+329
+00:22:56,253 --> 00:22:59,213
+- Dia tak butuh bantuanmu.
+- Hentikan. Aku ingin cari kamarku.
+
+330
+00:22:59,214 --> 00:23:02,216
+- Biar kuantar.
+- Nona Coddle, aku...
+
+331
+00:23:02,217 --> 00:23:04,969
+- Seluruh staf...
+- Nona Coddle, aku janji kepada ayahku.
+
+332
+00:23:04,970 --> 00:23:07,513
+- ...siap bantu 24 jam...
+- Berhenti, Nona Coddle...
+
+333
+00:23:07,514 --> 00:23:08,931
+- ...tiap hari...
+- Dia bisa sendiri.
+
+334
+00:23:08,932 --> 00:23:10,766
+- ...365 hari...
+- Kau tak mengerti.
+
+335
+00:23:10,767 --> 00:23:11,977
+Berhenti!
+
+336
+00:23:12,603 --> 00:23:13,812
+Lepaskan dia!
+
+337
+00:23:25,991 --> 00:23:27,159
+Tidak!
+
+338
+00:23:51,433 --> 00:23:54,436
+Ini peluangku, awal baruku.
+
+339
+00:23:55,354 --> 00:23:56,939
+Maaf, Nessa. Aku hanya...
+
+340
+00:23:58,232 --> 00:23:59,315
+Aku tidak...
+
+341
+00:23:59,316 --> 00:24:02,986
+Sihir hanyalah upaya pikiran
+
+342
+00:24:03,487 --> 00:24:06,907
+untuk memahami yang mustahil.
+
+343
+00:24:07,491 --> 00:24:10,410
+Ya, aku yang melakukannya.
+
+344
+00:24:12,454 --> 00:24:19,002
+Untuk menyiapkan kalian
+akan hal-hal tak terduga di Shiz.
+
+345
+00:24:25,801 --> 00:24:27,343
+- Kau melihatnya?
+- Ya.
+
+346
+00:24:27,344 --> 00:24:29,095
+Aku harus ikut seminarnya.
+
+347
+00:24:29,096 --> 00:24:33,267
+Bicara soal hal tak terduga.
+
+348
+00:24:40,524 --> 00:24:44,027
+Siapa yang mau berbagi kamar dengan...
+
+349
+00:24:45,654 --> 00:24:47,155
+Madam Morrible...
+
+350
+00:24:47,156 --> 00:24:48,448
+Terima kasih, Sayang.
+
+351
+00:24:49,283 --> 00:24:50,992
+Kau baik sekali.
+
+352
+00:24:50,993 --> 00:24:52,077
+Apa?
+
+353
+00:24:52,703 --> 00:24:54,955
+- Nona?
+- Elphaba.
+
+354
+00:24:58,292 --> 00:24:59,293
+Elphaba.
+
+355
+00:25:01,462 --> 00:25:03,379
+Kau bisa sekamar dengan Nona Galinda.
+
+356
+00:25:03,380 --> 00:25:05,548
+Apa? Aku... Apa?
+
+357
+00:25:05,549 --> 00:25:08,135
+Sekarang, pergilah. Kalian semua, pergi.
+
+358
+00:25:10,220 --> 00:25:11,263
+Pergi.
+
+359
+00:25:12,014 --> 00:25:13,557
+Kau.
+
+360
+00:25:14,433 --> 00:25:16,350
+- Ikut aku.
+- Baik.
+
+361
+00:25:16,351 --> 00:25:17,686
+Bukan kau.
+
+362
+00:25:20,647 --> 00:25:21,815
+Kau.
+
+363
+00:25:32,034 --> 00:25:36,371
+Aku ingin mengajarimu secara pribadi
+dan tidak menerima siswa lain.
+
+364
+00:25:36,872 --> 00:25:38,415
+Terima kasih.
+
+365
+00:25:41,210 --> 00:25:43,336
+- Apa yang terjadi?
+- Apa yang terjadi?
+
+366
+00:25:43,337 --> 00:25:45,546
+Ada yang tidak beres.
+
+367
+00:25:45,547 --> 00:25:47,174
+Keinginanku tidak terkabul.
+
+368
+00:25:47,966 --> 00:25:49,425
+- Aku perlu berbaring.
+- Ya.
+
+369
+00:25:49,426 --> 00:25:50,676
+- Aku perlu berbaring.
+- Bawa dia.
+
+370
+00:25:50,677 --> 00:25:52,053
+- Ayo.
+- Bawa dia.
+
+371
+00:25:52,054 --> 00:25:53,721
+- Kenapa?
+- Kita butuh kue kering.
+
+372
+00:25:53,722 --> 00:25:54,847
+Kita butuh kue kering.
+
+373
+00:25:54,848 --> 00:25:56,808
+Terima kasih sudah melindungiku.
+
+374
+00:25:56,809 --> 00:25:59,268
+Aku tersanjung oleh tawaranmu yang baik,
+
+375
+00:25:59,269 --> 00:26:01,062
+tetapi ayahku tak akan izinkan.
+
+376
+00:26:01,063 --> 00:26:04,566
+Serahkan ayahmu kepadaku.
+Aku akan bicara kepadanya.
+
+377
+00:26:05,067 --> 00:26:09,321
+Sudah berapa lama
+kau memiliki bakat ini?
+
+378
+00:26:09,988 --> 00:26:11,489
+Bakat?
+
+379
+00:26:11,490 --> 00:26:12,574
+Tidak.
+
+380
+00:26:13,367 --> 00:26:14,701
+Sesuatu...
+
+381
+00:26:15,911 --> 00:26:18,080
+Sesuatu menguasaiku dan...
+
+382
+00:26:19,289 --> 00:26:20,791
+Tak bisa kukendalikan.
+
+383
+00:26:21,458 --> 00:26:22,459
+Saat berlangsung,
+
+384
+00:26:23,210 --> 00:26:24,628
+hal buruk terjadi.
+
+385
+00:26:30,509 --> 00:26:35,013
+Jika kau bisa belajar
+menggunakan kekuatanmu dengan benar...
+
+386
+00:26:37,766 --> 00:26:39,184
+Nona Elphaba...
+
+387
+00:26:40,435 --> 00:26:45,899
+<i>Bertahun-tahun aku menunggu
+Agar muncul bakat sepertimu</i>
+
+388
+00:26:46,608 --> 00:26:53,364
+<i>Kutebak Ahli Sihir akan menjadikanmu
+Penasihat Sihir Yang Agung</i>
+
+389
+00:26:53,365 --> 00:26:54,907
+Ahli Sihir?
+
+390
+00:26:54,908 --> 00:27:00,164
+<i>Sayangku,
+Aku akan menyurati Ahli Sihir</i>
+
+391
+00:27:00,789 --> 00:27:04,208
+<i>Mengabarinya tentang dirimu</i>
+
+392
+00:27:04,209 --> 00:27:10,298
+<i>Dengan bakat sepertimu, Sayang
+Ada sebuah peluang</i>
+
+393
+00:27:10,299 --> 00:27:14,636
+<i>Jika kau berusaha sebagaimana mestinya</i>
+
+394
+00:27:15,262 --> 00:27:20,392
+<i>Kau pasti akan berhasil</i>
+
+395
+00:27:23,896 --> 00:27:25,189
+Selamat datang di Shiz.
+
+396
+00:27:28,567 --> 00:27:30,068
+Sampai jumpa di kelas.
+
+397
+00:27:36,950 --> 00:27:38,911
+<i>Apa tadi sungguh terjadi?</i>
+
+398
+00:27:39,953 --> 00:27:42,664
+<i>Apa aku sungguh memahaminya?</i>
+
+399
+00:27:43,499 --> 00:27:48,170
+<i>Sisi misteri yang kucoba
+Untuk kupendam dan sembunyikan</i>
+
+400
+00:27:48,921 --> 00:27:55,886
+<i>Adalah bakat yang bisa menolongku
+Bertemu Ahli Sihir</i>
+
+401
+00:27:57,554 --> 00:28:02,642
+<i>Jika aku berusaha</i>
+
+402
+00:28:02,643 --> 00:28:09,733
+<i>Maka aku pasti bisa...</i>
+
+403
+00:28:13,362 --> 00:28:16,572
+<i>Saat aku bertemu Ahli Sihir</i>
+
+404
+00:28:16,573 --> 00:28:18,742
+<i>Begitu kubuktikan diriku pantas</i>
+
+405
+00:28:19,618 --> 00:28:22,245
+<i>Maka aku akan bertemu Ahli Sihir</i>
+
+406
+00:28:22,246 --> 00:28:25,456
+<i>Aku telah menantikannya sejak lahir</i>
+
+407
+00:28:25,457 --> 00:28:28,751
+<i>Dan dengan segala kebijaksanaannya</i>
+
+408
+00:28:28,752 --> 00:28:32,421
+<i>Dia tidak akan dibutakan oleh rupaku</i>
+
+409
+00:28:32,422 --> 00:28:35,716
+<i>Kau pikir Ahli Sihir bodoh?</i>
+
+410
+00:28:35,717 --> 00:28:39,137
+<i>Atau seperti warga Munchkins
+Berpikiran sempit? Tidak</i>
+
+411
+00:28:39,138 --> 00:28:45,560
+<i>Dia akan berkata, "Aku tahu siapa dirimu
+Gadis yang bisa kuandalkan!"</i>
+
+412
+00:28:45,561 --> 00:28:48,479
+<i>Begitulah kami akan memulai</i>
+
+413
+00:28:48,480 --> 00:28:53,235
+<i>Ahli Sihir dan aku...</i>
+
+414
+00:28:56,738 --> 00:29:03,035
+<i>Begitu aku bersama Ahli Sihir
+Seluruh hidupku akan berubah</i>
+
+415
+00:29:03,036 --> 00:29:08,791
+<i>Karena saat bersama Ahli Sihir
+Tak ada yang menganggapmu aneh</i>
+
+416
+00:29:08,792 --> 00:29:12,253
+<i>Tidak ada ayah yang tidak bangga kepadamu</i>
+
+417
+00:29:12,254 --> 00:29:16,048
+<i>Tidak ada saudari akan bersikap malu</i>
+
+418
+00:29:16,049 --> 00:29:22,346
+<i>Seluruh Oz akan mencintaimu
+Ketika Ahli Sihir ada bersamamu</i>
+
+419
+00:29:22,347 --> 00:29:28,895
+<i>Bakat atau kutukan dalam diriku ini
+Mungkin akhirnya aku akan tahu alasannya</i>
+
+420
+00:29:28,896 --> 00:29:31,898
+<i>Saat kami bekerja sama</i>
+
+421
+00:29:31,899 --> 00:29:35,985
+<i>Ahli Sihir dan aku</i>
+
+422
+00:29:35,986 --> 00:29:42,533
+<i>Kelak, dia akan berkata kepadaku
+"Elphaba, gadis yang begitu unggul</i>
+
+423
+00:29:42,534 --> 00:29:48,540
+<i>Bukankah gadis dengan hati yang elok
+Punya rupa yang sepadan?</i>
+
+424
+00:29:48,874 --> 00:29:55,422
+<i>Karena orang-orang begitu
+Terpaku pada warna hijaumu</i>
+
+425
+00:29:56,006 --> 00:30:00,051
+<i>Apa kau keberatan</i>
+
+426
+00:30:00,052 --> 00:30:05,431
+<i>Jika kubuat kau tidak hijau lagi?</i>
+
+427
+00:30:05,432 --> 00:30:08,851
+<i>Walaupun, tentunya
+Itu tidak penting bagiku</i>
+
+428
+00:30:08,852 --> 00:30:12,188
+<i>"Baiklah, kenapa tidak?" Jawabku</i>
+
+429
+00:30:12,189 --> 00:30:14,816
+<i>Oh, kami akan jadi pasangan dahsyat</i>
+
+430
+00:30:14,817 --> 00:30:18,945
+<i>Ahli Sihir dan aku</i>
+
+431
+00:30:18,946 --> 00:30:21,739
+<i>Ya, kami akan jadi pasangan dahsyat</i>
+
+432
+00:30:21,740 --> 00:30:23,408
+<i>Ahli Sihir dan...</i>
+
+433
+00:30:35,546 --> 00:30:39,215
+<i>Tak terbatas</i>
+
+434
+00:30:39,216 --> 00:30:44,137
+<i>Masa depanku tak terbatas</i>
+
+435
+00:30:44,138 --> 00:30:49,100
+<i>Aku baru dapat bayangan
+Hampir seperti ramalan</i>
+
+436
+00:30:49,101 --> 00:30:53,438
+<i>Aku tahu... Sepertinya tidak masuk akal</i>
+
+437
+00:30:54,565 --> 00:30:57,900
+<i>Dan benar, bayangan ini tidak jelas</i>
+
+438
+00:30:57,901 --> 00:31:04,991
+<i>Tapi sumpah, kelak akan ada
+Perayaan di seluruh Oz</i>
+
+439
+00:31:04,992 --> 00:31:07,202
+<i>Dan semua itu berkaitan</i>
+
+440
+00:31:08,036 --> 00:31:13,750
+<i>Denganku</i>
+
+441
+00:31:15,669 --> 00:31:21,048
+<i>Aku akan berdiri bersama Ahli Sihir</i>
+
+442
+00:31:21,049 --> 00:31:25,428
+<i>Merasakan yang tak pernah kurasakan</i>
+
+443
+00:31:25,429 --> 00:31:31,726
+<i>Meski tak pernah kutunjukkan
+Aku akan begitu senang tak terbayangkan</i>
+
+444
+00:31:31,727 --> 00:31:35,062
+<i>Demikianlah begitu seumur hidupku</i>
+
+445
+00:31:35,063 --> 00:31:37,773
+<i>Aku tak menginginkan hal lain sampai mati</i>
+
+446
+00:31:37,774 --> 00:31:40,152
+<i>Aku begitu dijunjung tinggi</i>
+
+447
+00:31:42,738 --> 00:31:45,615
+<i>Ketika orang melihatku, mereka histeris</i>
+
+448
+00:31:45,616 --> 00:31:52,039
+<i>Untuk separuh tim favorit Oz</i>
+
+449
+00:31:54,458 --> 00:31:56,376
+<i>Ahli Sihir</i>
+
+450
+00:31:57,252 --> 00:32:04,259
+<i>Dan aku</i>
+
+451
+00:32:33,247 --> 00:32:34,248
+Masuklah.
+
+452
+00:32:41,421 --> 00:32:43,674
+Sisa barangku akan segera tiba.
+
+453
+00:32:48,220 --> 00:32:50,055
+Menurutmu ini adil?
+
+454
+00:32:50,722 --> 00:32:54,226
+Tidak. Aku dijanjikan kamar pribadi.
+
+455
+00:32:54,977 --> 00:32:56,478
+Terima kasih sudah bertanya.
+
+456
+00:32:59,815 --> 00:33:00,940
+- Tunggu.
+- Apa?
+
+457
+00:33:00,941 --> 00:33:02,401
+- Apa?
+- Aku...
+
+458
+00:33:02,943 --> 00:33:05,195
+Aku mau menutup pintunya.
+
+459
+00:33:08,157 --> 00:33:12,161
+Bisa biarkan saja? Maaf.
+Aku menikmati udaranya.
+
+460
+00:33:15,414 --> 00:33:16,832
+Paham maksudku?
+
+461
+00:33:21,128 --> 00:33:22,838
+Aku menyisakan ruang untukmu.
+
+462
+00:33:24,882 --> 00:33:27,258
+<i>Ini dia!</i>
+
+463
+00:33:27,259 --> 00:33:28,635
+Di dalam sini.
+
+464
+00:33:35,309 --> 00:33:37,895
+INI BAGUS!
+
+465
+00:33:40,022 --> 00:33:41,106
+Ini bagus.
+
+466
+00:33:43,817 --> 00:33:45,651
+Tak perlu berterima kasih.
+
+467
+00:33:45,652 --> 00:33:47,863
+Teman sekamar biasa melakukan ini.
+
+468
+00:33:48,530 --> 00:33:49,907
+Kudengar begitu.
+
+469
+00:33:54,536 --> 00:33:57,955
+Sebagai imbalan, mungkin kau bisa...
+
+470
+00:33:57,956 --> 00:33:59,081
+Coba kupikir.
+
+471
+00:33:59,082 --> 00:34:02,377
+Bicara baik tentang diriku
+kepada Madam Morrible? Setuju?
+
+472
+00:34:05,506 --> 00:34:07,882
+Kaulah yang melakukan itu.
+
+473
+00:34:07,883 --> 00:34:09,258
+Aku tahu.
+
+474
+00:34:09,259 --> 00:34:10,761
+Kau dengar Madam Morrible.
+
+475
+00:34:14,723 --> 00:34:15,724
+Bagaimana caranya?
+
+476
+00:34:16,391 --> 00:34:18,393
+Tolong katakan. Aku bisa simpan rahasia.
+
+477
+00:34:20,270 --> 00:34:21,355
+Baiklah.
+
+478
+00:34:22,356 --> 00:34:23,564
+Jika itu maumu.
+
+479
+00:34:23,565 --> 00:34:25,316
+Namun, kau egois.
+
+480
+00:34:25,317 --> 00:34:27,859
+Aku sudah minta baik-baik,
+dan kusisakan laci ini...
+
+481
+00:34:27,860 --> 00:34:29,570
+Aku tak tahu. Tak pernah tahu!
+
+482
+00:34:39,956 --> 00:34:42,125
+Nah. Nikmati udaranya.
+
+483
+00:34:47,464 --> 00:34:49,715
+<i>Ayah dan Ibu tercinta...</i>
+
+484
+00:34:50,676 --> 00:34:51,884
+Ayahku sayang.
+
+485
+00:34:51,885 --> 00:34:54,553
+Terima kasih sudah mengizinkanku tinggal.
+
+486
+00:34:54,554 --> 00:34:56,222
+Coba tebak?
+
+487
+00:34:56,223 --> 00:34:59,976
+Mengenai permintaan kita
+agar aku sekamar dengan Nessa...
+
+488
+00:34:59,977 --> 00:35:06,859
+Aku tak bisa dengar tebakanmu
+karena ini sebuah surat.
+
+489
+00:35:07,401 --> 00:35:09,987
+Aku tahu betapa dia ingin...
+
+490
+00:35:13,782 --> 00:35:15,284
+Jadi, kukatakan saja.
+
+491
+00:35:16,743 --> 00:35:21,080
+<i>Ada semacam kesalahan
+Untuk penempatan kamar di Shiz</i>
+
+492
+00:35:21,081 --> 00:35:23,666
+<i>Tentunya aku akan mengurus Nessa</i>
+
+493
+00:35:23,667 --> 00:35:27,628
+<i>Tentunya aku akan atasi persoalan ini</i>
+
+494
+00:35:27,629 --> 00:35:31,716
+<i>Karena aku tahu
+Itulah yang kau harapkan dariku</i>
+
+495
+00:35:31,717 --> 00:35:35,386
+<i>Ya, ada kesalahan</i>
+
+496
+00:35:35,387 --> 00:35:39,475
+<i>Karena teman sekamarku</i>
+
+497
+00:35:41,018 --> 00:35:45,771
+<i>Tidak biasa dan sangat aneh</i>
+
+498
+00:35:45,772 --> 00:35:52,237
+<i>Secara keseluruhan
+Sangat mustahil untuk dijelaskan</i>
+
+499
+00:35:53,697 --> 00:35:54,698
+Pirang.
+
+500
+00:36:02,873 --> 00:36:04,248
+<i>Perasaan apa ini</i>
+
+501
+00:36:04,249 --> 00:36:05,751
+<i>Begitu mendadak dan baru?</i>
+
+502
+00:36:06,335 --> 00:36:09,003
+<i>Kurasakan sejak aku melihatmu</i>
+
+503
+00:36:09,004 --> 00:36:10,588
+<i>Nadiku berdenyut kencang</i>
+
+504
+00:36:10,589 --> 00:36:11,923
+<i>Kepalaku pening</i>
+
+505
+00:36:11,924 --> 00:36:13,841
+<i>Ya, wajahku merona</i>
+
+506
+00:36:13,842 --> 00:36:15,551
+<i>Perasaan apakah ini?</i>
+
+507
+00:36:15,552 --> 00:36:18,638
+<i>Membara bagaikan api</i>
+
+508
+00:36:18,639 --> 00:36:21,891
+<i>Apakah ada namanya?</i>
+
+509
+00:36:21,892 --> 00:36:28,189
+<i>Ya</i>
+
+510
+00:36:28,190 --> 00:36:29,565
+<i>Kebencian</i>
+
+511
+00:36:29,566 --> 00:36:32,693
+<i>Kebencian murni</i>
+
+512
+00:36:32,694 --> 00:36:33,820
+<i>Karena wajahmu</i>
+
+513
+00:36:33,821 --> 00:36:35,863
+<i>- Suaramu
+- Pakaianmu</i>
+
+514
+00:36:35,864 --> 00:36:39,076
+<i>Katakan saja, aku benci semuanya</i>
+
+515
+00:36:39,952 --> 00:36:45,832
+<i>Setiap hal kecil, betapa pun kecilnya
+Membuatku muak</i>
+
+516
+00:36:45,833 --> 00:36:48,251
+<i>Dengan ucapan kebencian yang sederhana</i>
+
+517
+00:36:48,252 --> 00:36:54,466
+<i>Ada kegembiraan yang asing
+Dalam kebencian yang paling</i>
+
+518
+00:36:55,342 --> 00:36:58,886
+<i>Begitu murni, begitu kuat</i>
+
+519
+00:36:58,887 --> 00:37:02,014
+<i>Walau kuakui ini terjadi begitu cepat</i>
+
+520
+00:37:02,015 --> 00:37:05,184
+<i>Tetap kuyakin ini akan bertahan lama</i>
+
+521
+00:37:05,185 --> 00:37:07,395
+<i>Dan aku akan membenci</i>
+
+522
+00:37:07,396 --> 00:37:08,938
+<i>Membencimu</i>
+
+523
+00:37:08,939 --> 00:37:12,650
+<i>Sepanjang hidupku</i>
+
+524
+00:37:12,651 --> 00:37:15,862
+<i>Galinda, kau terlalu baik</i>
+
+525
+00:37:15,863 --> 00:37:18,447
+<i>Bagaimana kau bisa tahan?
+Kurasa aku tak bisa</i>
+
+526
+00:37:18,448 --> 00:37:20,158
+<i>Dia parah! Dia pemarah!</i>
+
+527
+00:37:20,159 --> 00:37:23,703
+<i>Kami tak mau bersikap bias
+Tapi Galinda, kau seorang martir</i>
+
+528
+00:37:23,704 --> 00:37:25,413
+<i>Nah</i>
+
+529
+00:37:25,414 --> 00:37:32,504
+<i>Hal-hal ini terjadi untuk menguji kita</i>
+
+530
+00:37:40,387 --> 00:37:45,850
+<i>Kasihan Galinda, terpaksa sekamar
+Dengan orang yang menjijikkan</i>
+
+531
+00:37:45,851 --> 00:37:51,230
+<i>Kami hanya ingin mengatakan
+Kami semua mendukungmu</i>
+
+532
+00:37:51,231 --> 00:37:54,192
+<i>- Kami merasakan kebencianmu
+- Perasaan apa ini</i>
+
+533
+00:37:54,193 --> 00:37:56,027
+<i>- Begitu mendadak dan baru?
+- Kebencian murni</i>
+
+534
+00:37:56,028 --> 00:37:59,113
+<i>- Kurasakan sejak aku melihatmu
+- Wajahnya, suaranya, pakaiannya</i>
+
+535
+00:37:59,114 --> 00:38:02,200
+<i>- Nadiku berdenyut kencang, kepalaku pening
+- Katakan saja</i>
+
+536
+00:38:02,201 --> 00:38:05,578
+<i>- Kami benci semuanya
+- Oh, perasaan apa ini?</i>
+
+537
+00:38:05,579 --> 00:38:08,581
+<i>- Setiap hal kecil, betapa pun kecilnya
+- Apa ada namanya?</i>
+
+538
+00:38:08,582 --> 00:38:12,085
+<i>- Membuat kami muak
+- Ya</i>
+
+539
+00:38:15,214 --> 00:38:16,547
+<i>- Membenci
+- Membenci</i>
+
+540
+00:38:16,548 --> 00:38:19,759
+<i>- Ada kegembiraan yang asing
+- Membenci</i>
+
+541
+00:38:19,760 --> 00:38:23,179
+<i>- Dalam kebencian yang paling
+- Membenci</i>
+
+542
+00:38:23,180 --> 00:38:26,808
+<i>- Begitu murni, begitu kuat
+- Begitu kuat</i>
+
+543
+00:38:26,809 --> 00:38:29,435
+<i>Walau kuakui ini terjadi begitu cepat</i>
+
+544
+00:38:29,436 --> 00:38:32,980
+<i>Tetap kuyakin ini akan bertahan lama</i>
+
+545
+00:38:32,981 --> 00:38:37,068
+<i>- Aku akan membenci selamanya
+- Membenci</i>
+
+546
+00:38:37,069 --> 00:38:40,154
+<i>- Amat sangat membenci
+- Membenci</i>
+
+547
+00:38:40,155 --> 00:38:45,326
+<i>- Membencimu
+- Membencimu</i>
+
+548
+00:38:45,327 --> 00:38:50,499
+<i>- Seumur hidupku
+- Membenci! Kebencian murni</i>
+
+549
+00:39:16,942 --> 00:39:19,652
+Baik, Anak-anak. Tenanglah.
+
+550
+00:39:19,653 --> 00:39:21,946
+Anak-anak, harap tenang.
+
+551
+00:39:21,947 --> 00:39:24,032
+Tenanglah! Anak-anak, tenang.
+
+552
+00:39:25,033 --> 00:39:26,033
+Sekarang,
+
+553
+00:39:26,034 --> 00:39:29,036
+aku sudah baca
+sebagian besar esai kalian,
+
+554
+00:39:29,037 --> 00:39:32,540
+dan aku kagum dengan beberapa kemajuan.
+
+555
+00:39:32,541 --> 00:39:33,624
+Terima kasih.
+
+556
+00:39:33,625 --> 00:39:38,630
+Walau masih ada yang lebih
+mementingkan bentuk dari isi, Nona Glinda.
+
+557
+00:39:40,299 --> 00:39:43,552
+Yang benar Galinda. Dengan "Ga."
+
+558
+00:39:44,052 --> 00:39:46,305
+Ya, tentu.
+
+559
+00:39:46,847 --> 00:39:48,598
+Glinda.
+
+560
+00:39:48,599 --> 00:39:50,391
+- Bukan.
+- Mendekati pun tidak.
+
+561
+00:39:50,392 --> 00:39:52,101
+Aku tak paham apa masalahnya.
+
+562
+00:39:52,102 --> 00:39:55,272
+Semua profesor lain
+bisa mengucapkan namaku.
+
+563
+00:39:55,856 --> 00:39:58,107
+Mungkin cara pengucapan namamu
+yang berharga
+
+564
+00:39:58,108 --> 00:40:00,693
+bukan satu-satunya fokus Dr. Dillamond.
+
+565
+00:40:00,694 --> 00:40:03,864
+Mungkin Dr. Dillamond
+tidak seperti profesor lain.
+
+566
+00:40:04,364 --> 00:40:06,867
+Mungkin beberapa dari kita
+memang berbeda.
+
+567
+00:40:08,160 --> 00:40:11,580
+Tampaknya ada articok panas.
+
+568
+00:40:12,164 --> 00:40:16,292
+- Astaga.
+- Cara terburuk untuk memasak articok.
+
+569
+00:40:16,293 --> 00:40:18,670
+Tenanglah. Tenang!
+
+570
+00:40:19,296 --> 00:40:22,715
+Kami kambing tidak punya gigi atas depan,
+
+571
+00:40:22,716 --> 00:40:26,845
+sehingga terjadi
+salah pengucapan, Nona Glinda.
+
+572
+00:40:28,889 --> 00:40:31,517
+Dan memang benar,
+
+573
+00:40:32,059 --> 00:40:33,685
+beberapa dari kita memang berbeda.
+
+574
+00:40:35,062 --> 00:40:40,441
+Mungkin kau tahu aku salah satu
+profesor hewan terakhir di Shiz.
+
+575
+00:40:40,442 --> 00:40:44,403
+Tidak dianjurkan
+untuk membahas ini di kelas,
+
+576
+00:40:44,404 --> 00:40:48,157
+tetapi ada beberapa
+perubahan besar di Oz
+
+577
+00:40:48,158 --> 00:40:50,869
+yang menolak budaya hewan.
+
+578
+00:40:51,870 --> 00:40:54,706
+Namun, ada suatu masa,
+sebelum kalian lahir
+
+579
+00:40:55,207 --> 00:40:57,918
+ketika kehidupan di Oz berbeda.
+
+580
+00:41:00,170 --> 00:41:01,921
+Dahulu ketika berjalan di lorong
+
+581
+00:41:01,922 --> 00:41:05,174
+kita bisa dengar macan tutul salju
+menyelesaikan persamaan,
+
+582
+00:41:05,175 --> 00:41:08,136
+atau antelop menjelaskan soneta.
+
+583
+00:41:08,137 --> 00:41:12,849
+Kapan dan kenapa ini berubah?
+
+584
+00:41:12,850 --> 00:41:14,601
+Kubaca akibat Kekeringan Besar.
+
+585
+00:41:15,561 --> 00:41:17,813
+- Permisi.
+- Angkat tanganmu.
+
+586
+00:41:18,355 --> 00:41:19,356
+Tepat.
+
+587
+00:41:20,482 --> 00:41:21,649
+Makanan jadi langka.
+
+588
+00:41:21,650 --> 00:41:24,485
+Ketika orang merasa lapar dan marah,
+
+589
+00:41:24,486 --> 00:41:27,364
+- mereka mulai...
+- Menyalahkan yang lain.
+
+590
+00:41:28,699 --> 00:41:30,951
+Benar, Nona Elphaba.
+
+591
+00:41:34,746 --> 00:41:37,456
+Ya, Nona Glinda?
+
+592
+00:41:37,457 --> 00:41:39,876
+Namaku Galinda.
+
+593
+00:41:39,877 --> 00:41:42,211
+Galinda.
+
+594
+00:41:42,212 --> 00:41:44,380
+Kenapa kau tak mengajarkan sejarah
+
+595
+00:41:44,381 --> 00:41:46,633
+ketimbang terus membahas masa lalu?
+
+596
+00:41:47,634 --> 00:41:50,137
+Karena kita tak bisa lari dari masa lalu,
+
+597
+00:41:50,679 --> 00:41:53,098
+dan ada akibat jika kita mengabaikannya.
+
+598
+00:41:54,057 --> 00:41:57,226
+Masa lalu bantu menjelaskan
+keadaan kita saat ini.
+
+599
+00:41:57,227 --> 00:42:00,898
+Contoh, jika kita perhatikan
+garis waktu ini...
+
+600
+00:42:02,441 --> 00:42:04,067
+HEWAN UNTUK DILIHAT
+BUKAN DIDENGAR
+
+601
+00:42:16,622 --> 00:42:18,832
+Ulah siapa ini?
+
+602
+00:42:25,088 --> 00:42:29,092
+Kutanya, ini ulah siapa?
+
+603
+00:42:33,680 --> 00:42:35,974
+Baiklah. Kelas selesai.
+
+604
+00:42:38,352 --> 00:42:40,437
+Kataku, kelas selesai.
+
+605
+00:42:51,949 --> 00:42:52,950
+Dr. Dillamond.
+
+606
+00:42:54,076 --> 00:42:55,327
+Nona Elphaba.
+
+607
+00:42:58,330 --> 00:43:00,082
+Nona Elphaba, kau tak perlu...
+
+608
+00:43:02,459 --> 00:43:04,753
+Terima kasih. Kau baik sekali.
+
+609
+00:43:12,803 --> 00:43:13,804
+Lumayan.
+
+610
+00:43:18,684 --> 00:43:20,602
+Bunga popi adalah favoritku.
+
+611
+00:43:21,270 --> 00:43:22,312
+Aku juga.
+
+612
+00:43:23,730 --> 00:43:26,191
+Mereka membuatku tetap ceria
+di masa-masa kelam ini.
+
+613
+00:43:29,069 --> 00:43:32,113
+Nona Elphaba,
+bergabunglah dengan teman-temanmu.
+
+614
+00:43:32,114 --> 00:43:34,324
+Tidak apa-apa. Aku tak punya teman.
+
+615
+00:43:34,825 --> 00:43:37,119
+Mungkin ada satu.
+
+616
+00:43:53,051 --> 00:43:54,011
+<i>Coba lagi.</i>
+
+617
+00:43:56,138 --> 00:43:57,556
+Tutup matamu.
+
+618
+00:43:58,432 --> 00:44:00,100
+Jari kaki mengepal.
+
+619
+00:44:01,852 --> 00:44:02,853
+Sekarang...
+
+620
+00:44:04,396 --> 00:44:06,148
+buat koinnya melayang.
+
+621
+00:44:33,175 --> 00:44:35,177
+STUDI SIHIR
+
+622
+00:44:44,561 --> 00:44:46,230
+Tidak apa-apa.
+
+623
+00:44:47,105 --> 00:44:48,607
+Ini butuh waktu.
+
+624
+00:44:56,240 --> 00:45:00,451
+Kudengar ada gangguan yang disesalkan
+
+625
+00:45:00,452 --> 00:45:02,913
+di kelas Dr. Dillamond hari ini.
+
+626
+00:45:07,584 --> 00:45:10,003
+Itu pasti membuatmu gundah.
+
+627
+00:45:10,671 --> 00:45:11,672
+Begini,
+
+628
+00:45:12,381 --> 00:45:14,383
+seseorang menulis kata-kata kejam itu,
+
+629
+00:45:15,134 --> 00:45:17,386
+dengan sengaja agar dia melihatnya.
+
+630
+00:45:20,764 --> 00:45:21,849
+Andai aku bisa...
+
+631
+00:45:22,558 --> 00:45:23,642
+Apa?
+
+632
+00:45:24,351 --> 00:45:25,602
+Andai apa?
+
+633
+00:45:26,311 --> 00:45:28,730
+Andai ada yang bisa kulakukan.
+Karena tak ada yang...
+
+634
+00:45:30,816 --> 00:45:33,318
+Tak ada yang... Berbuat apa?
+
+635
+00:45:37,489 --> 00:45:38,991
+Tak ada yang pantas dicemooh
+
+636
+00:45:40,325 --> 00:45:41,493
+atau ditertawakan.
+
+637
+00:45:45,164 --> 00:45:46,498
+Atau diremehkan
+
+638
+00:45:48,292 --> 00:45:52,421
+atau disuruh berhenti bicara
+dan tutup mulut.
+
+639
+00:45:58,677 --> 00:45:59,761
+Luar biasa.
+
+640
+00:46:00,846 --> 00:46:02,681
+Sungguh luar biasa.
+
+641
+00:46:04,558 --> 00:46:07,186
+Setelah kau belajar
+untuk mengendalikan emosimu...
+
+642
+00:46:08,979 --> 00:46:10,522
+langit batasnya.
+
+643
+00:46:11,273 --> 00:46:13,984
+Bisa membuatmu bertemu Ahli Sihir.
+
+644
+00:46:22,576 --> 00:46:26,079
+- Selamat malam, Dr. Dillamond.
+- Dah, Dr. Dillamond.
+
+645
+00:46:28,081 --> 00:46:30,083
+UNIVERSITAS SHIZ
+
+646
+00:46:32,169 --> 00:46:33,295
+Dr. Dillamond.
+
+647
+00:46:34,588 --> 00:46:35,756
+Kau tahu siapa yang...
+
+648
+00:46:45,140 --> 00:46:47,559
+...insiden lain di Shiz.
+
+649
+00:46:48,060 --> 00:46:52,522
+Kita hewan disalahkan
+untuk setiap kejadian buruk.
+
+650
+00:46:52,523 --> 00:46:55,733
+Dipecat, disuruh tutup mulut.
+
+651
+00:46:55,734 --> 00:46:59,529
+Ini lebih penting
+dari sekadar kata-kata di papan tulis.
+
+652
+00:46:59,530 --> 00:47:02,740
+Syukurlah kita masih bisa
+bertemu secara pribadi.
+
+653
+00:47:02,741 --> 00:47:04,325
+Temanku...
+
+654
+00:47:04,326 --> 00:47:06,161
+- Rusa?
+- Sapi.
+
+655
+00:47:06,703 --> 00:47:08,830
+Dia melakukan unjuk rasa.
+
+656
+00:47:08,831 --> 00:47:11,750
+Baru-baru ini dia kirim pesan
+ingin bertemu di kafe.
+
+657
+00:47:12,417 --> 00:47:13,918
+Katanya penting.
+
+658
+00:47:13,919 --> 00:47:15,503
+Dia bilang apa?
+
+659
+00:47:15,504 --> 00:47:18,464
+Dia tak muncul.
+Sejak itu tak ada yang melihatnya.
+
+660
+00:47:18,465 --> 00:47:21,968
+Banyak hewan menghilang atau pergi.
+
+661
+00:47:21,969 --> 00:47:25,096
+Kemarin, teman luak, si pengacara,
+
+662
+00:47:25,097 --> 00:47:28,141
+dipecat karena memperdebatkan
+sebuah kasus.
+
+663
+00:47:28,142 --> 00:47:29,600
+Setidaknya sempat berdebat.
+
+664
+00:47:29,601 --> 00:47:31,019
+Maksudmu?
+
+665
+00:47:31,562 --> 00:47:32,563
+Biar kutunjukkan.
+
+666
+00:47:35,607 --> 00:47:36,607
+<i>Kudengar seekor lembu</i>
+
+667
+00:47:36,608 --> 00:47:38,192
+<i>Dia profesor dari Quox</i>
+
+668
+00:47:38,193 --> 00:47:40,319
+<i>Tidak boleh mengajar lagi</i>
+
+669
+00:47:40,320 --> 00:47:42,530
+<i>Dia kehilangan hak untuk bicara</i>
+
+670
+00:47:42,531 --> 00:47:44,323
+- Tidak.
+- Tak bisa bicara.
+
+671
+00:47:44,324 --> 00:47:46,534
+<i>Burung hantu di Munchkin Rock</i>
+
+672
+00:47:46,535 --> 00:47:49,120
+<i>Pendeta dengan kawanan yang bertumbuh</i>
+
+673
+00:47:49,121 --> 00:47:50,496
+<i>Dilarang berkhotbah</i>
+
+674
+00:47:50,497 --> 00:47:51,581
+Tidak!
+
+675
+00:47:51,582 --> 00:47:53,500
+<i>Kini dia hanya bisa memekik</i>
+
+676
+00:47:54,376 --> 00:47:57,128
+<i>Hanya rumor
+Tapi cukup menggelisahkan</i>
+
+677
+00:47:57,129 --> 00:47:59,505
+<i>Bagi semua hewan</i>
+
+678
+00:47:59,506 --> 00:48:03,260
+<i>Sesuatu yang buruk terjadi pada Oz</i>
+
+679
+00:48:04,261 --> 00:48:07,346
+<i>Sesuatu yang buruk terjadi pada...</i>
+
+680
+00:48:07,347 --> 00:48:11,350
+Cukup. Kutinggal Oz mumpung masih bisa
+berkata "selamat tinggal."
+
+681
+00:48:11,351 --> 00:48:13,228
+- Jangan.
+- Meninggalkan Oz?
+
+682
+00:48:15,731 --> 00:48:16,772
+Bawa pergi!
+
+683
+00:48:16,773 --> 00:48:17,691
+<i>Berhenti mengoceh.</i>
+
+684
+00:48:22,738 --> 00:48:23,571
+Ada orang.
+
+685
+00:48:23,572 --> 00:48:24,864
+Siapa?
+
+686
+00:48:24,865 --> 00:48:27,367
+Nona Elphaba, sedang apa di sini?
+
+687
+00:48:27,868 --> 00:48:29,077
+Aku hanya...
+
+688
+00:48:29,912 --> 00:48:30,912
+Tidak apa-apa.
+
+689
+00:48:30,913 --> 00:48:33,081
+Cepat, masuklah.
+
+690
+00:48:43,091 --> 00:48:44,259
+Jangan takut.
+
+691
+00:48:46,178 --> 00:48:47,721
+Biar kuambilkan teh.
+
+692
+00:48:48,847 --> 00:48:51,266
+Dr. Dillamond,
+apa yang kau katakan tadi...
+
+693
+00:48:52,601 --> 00:48:54,102
+apa itu bisa terjadi?
+
+694
+00:48:54,978 --> 00:48:56,188
+Itu sudah terjadi.
+
+695
+00:48:57,231 --> 00:49:00,358
+Kau akan mendapati
+bahwa dengan cukup intimidasi,
+
+696
+00:49:00,359 --> 00:49:03,237
+kau bisa membungkam siapa pun.
+
+697
+00:49:11,787 --> 00:49:14,540
+Namun, jika para hewan
+kehilangan hak bicara,
+
+698
+00:49:15,123 --> 00:49:16,374
+meninggalkan Oz,
+
+699
+00:49:16,375 --> 00:49:18,417
+maka Ahli Sihir harus dikabari.
+
+700
+00:49:18,418 --> 00:49:20,128
+Dengarkan.
+
+701
+00:49:20,129 --> 00:49:22,922
+Jangan beri tahu siapa pun
+tentang malam ini.
+
+702
+00:49:22,923 --> 00:49:24,800
+Namun, karena itu ada Ahli Sihir.
+
+703
+00:49:25,843 --> 00:49:27,218
+<i>Agar tidak ada hal buruk</i>
+
+704
+00:49:27,219 --> 00:49:29,053
+HILANG
+TEROWONGAN KE LUAR OZ
+
+705
+00:49:29,054 --> 00:49:30,388
+Mungkin kau benar.
+
+706
+00:49:30,389 --> 00:49:32,682
+<i>Tidak ada hal seburuk itu</i>
+
+707
+00:49:32,683 --> 00:49:34,977
+KOTA SAPPHIRE - GUNUNG MUNCH
+LUAR OZ - GURUN TAK TERLINTASI
+
+708
+00:49:35,519 --> 00:49:38,730
+<i>Tidak ada hal yang benar-benar buruk</i>
+
+709
+00:49:41,692 --> 00:49:42,693
+Maaf.
+
+710
+00:49:43,777 --> 00:49:44,778
+Buruk.
+
+711
+00:49:45,487 --> 00:49:47,406
+Aku pasti kena pilek.
+
+712
+00:49:51,535 --> 00:49:53,328
+Lekas sembuh, Dr. Dillamond.
+
+713
+00:49:59,918 --> 00:50:02,588
+Sebaiknya kau pergi. Bawa lenteranya.
+
+714
+00:50:18,103 --> 00:50:20,606
+Berhenti.
+
+715
+00:50:21,398 --> 00:50:24,275
+- Berhenti!
+- Aku tak melihatnya.
+
+716
+00:50:24,276 --> 00:50:25,652
+Ya, aku juga tidak.
+
+717
+00:50:27,112 --> 00:50:30,574
+- Mungkin kau mau...
+- Serahkan kepadaku.
+
+718
+00:50:31,241 --> 00:50:34,328
+Maaf, Nona.
+Kami tak melihatmu. Kau pasti...
+
+719
+00:50:36,163 --> 00:50:37,622
+tersamar dedaunan.
+
+720
+00:50:37,623 --> 00:50:39,415
+Begini caramu hidup,
+
+721
+00:50:39,416 --> 00:50:41,960
+menabrak siapa pun
+yang menghalangimu?
+
+722
+00:50:42,753 --> 00:50:43,837
+Tidak.
+
+723
+00:50:44,963 --> 00:50:46,924
+Tidak. Terkadang aku tidur.
+
+724
+00:50:50,677 --> 00:50:51,804
+Baiklah.
+
+725
+00:50:52,429 --> 00:50:54,722
+Dengarkan. Tidak, aku tidak mabuk laut.
+
+726
+00:50:54,723 --> 00:50:55,890
+Aku juga tidak.
+
+727
+00:50:55,891 --> 00:50:57,600
+Aku tak makan rumput saat kecil.
+
+728
+00:50:57,601 --> 00:50:58,684
+Aku makan.
+
+729
+00:50:58,685 --> 00:51:01,480
+Ya, aku hijau sejak lahir.
+
+730
+00:51:02,105 --> 00:51:04,399
+Sikap defensifmu
+baru muncul belakangan ini?
+
+731
+00:51:15,494 --> 00:51:16,495
+Tidak.
+
+732
+00:51:20,290 --> 00:51:22,667
+Aku ingin melanjutkan perjalanan.
+Mau kuantar?
+
+733
+00:51:22,668 --> 00:51:24,795
+Tidak, terima kasih. Pergilah.
+
+734
+00:51:26,505 --> 00:51:27,506
+Wah.
+
+735
+00:51:28,298 --> 00:51:30,843
+Feldspur, kita ditolak oleh seorang gadis.
+
+736
+00:51:31,468 --> 00:51:32,802
+Benar.
+
+737
+00:51:32,803 --> 00:51:34,680
+Segala sesuatu ada pertama kalinya.
+
+738
+00:51:36,431 --> 00:51:39,517
+<i>Perhatian, para siswa.
+Kehormatan bagiku untuk mengumumkan</i>
+
+739
+00:51:39,518 --> 00:51:44,857
+<i>Pangeran Fiyero Tigelaar
+dari Winkie Country akan bergabung,</i>
+
+740
+00:51:45,691 --> 00:51:48,735
+<i>karena dipindahkan dari
+Akademi Royal Winkie.</i>
+
+741
+00:51:50,445 --> 00:51:52,281
+<i>Buat dia merasa disambut</i>
+
+742
+00:51:52,823 --> 00:51:54,950
+<i>tanpa melakukan kontak mata.</i>
+
+743
+00:52:07,379 --> 00:52:09,213
+- Hai.
+- Hai.
+
+744
+00:52:09,214 --> 00:52:10,299
+Hai.
+
+745
+00:52:12,134 --> 00:52:13,135
+Hai.
+
+746
+00:52:21,101 --> 00:52:22,852
+Kau sering kemari?
+
+747
+00:52:22,853 --> 00:52:24,605
+Boleh kuminta...
+
+748
+00:52:25,481 --> 00:52:27,691
+Apa pun yang kau inginkan.
+
+749
+00:52:28,233 --> 00:52:29,358
+...untuk minggir?
+
+750
+00:52:29,359 --> 00:52:31,445
+Tentu, ya, apa saja.
+
+751
+00:52:32,488 --> 00:52:34,907
+- Apa kabar?
+- Hai. Ya.
+
+752
+00:52:47,503 --> 00:52:50,130
+Kau mencari sesuatu? Atau...
+
+753
+00:52:51,924 --> 00:52:52,924
+seseorang?
+
+754
+00:52:52,925 --> 00:52:54,593
+Tidak, aku...
+
+755
+00:52:57,346 --> 00:52:58,597
+Aku sedang apa?
+
+756
+00:52:59,807 --> 00:53:01,016
+Mana kutahu?
+
+757
+00:53:01,558 --> 00:53:02,976
+Pertengkaran pertama kita.
+
+758
+00:53:11,276 --> 00:53:12,277
+Masih di sini.
+
+759
+00:53:14,279 --> 00:53:18,075
+Aku janji mengajak siswa baru
+untuk melihat-lihat, jadi...
+
+760
+00:53:20,869 --> 00:53:24,872
+Tunggu. Kau siswa barunya?
+
+761
+00:53:24,873 --> 00:53:26,374
+Benar, ya.
+
+762
+00:53:26,375 --> 00:53:28,167
+Aku tidak tahu.
+
+763
+00:53:28,168 --> 00:53:32,214
+Aku ragu akan di sini lebih lama
+dari universitas sebelumnya.
+
+764
+00:53:32,840 --> 00:53:36,343
+Namun, aku tidak ada
+di universitas sebelumnya.
+
+765
+00:54:06,498 --> 00:54:08,500
+Dan ini...
+
+766
+00:54:09,293 --> 00:54:10,377
+ruang buku.
+
+767
+00:54:11,795 --> 00:54:15,548
+Ada kumpulan buku langka
+di sekitar sini,
+
+768
+00:54:15,549 --> 00:54:17,384
+dan juga yang agak langka.
+
+769
+00:54:18,177 --> 00:54:19,970
+Banyak sekali pilihannya.
+
+770
+00:54:20,554 --> 00:54:21,555
+Benar.
+
+771
+00:54:35,736 --> 00:54:37,654
+Apa yang menarik di tempat ini?
+
+772
+00:54:38,155 --> 00:54:39,530
+Tidak ada.
+
+773
+00:54:39,531 --> 00:54:40,781
+Baru sekarang ada.
+
+774
+00:54:40,782 --> 00:54:42,450
+Kau pernah ke Ozdust Ballroom?
+
+775
+00:54:42,451 --> 00:54:44,535
+Ozdust Ballroom?
+
+776
+00:54:44,536 --> 00:54:46,622
+Bukankah tempat itu ilegal?
+
+777
+00:54:47,122 --> 00:54:48,581
+Dan memikat?
+
+778
+00:54:48,582 --> 00:54:50,417
+Ya, dua-duanya.
+
+779
+00:54:50,959 --> 00:54:53,712
+Juga tak jauh dari sini,
+kelebihan lainnya.
+
+780
+00:54:56,965 --> 00:54:57,966
+Kau baik-baik saja?
+
+781
+00:54:59,551 --> 00:55:00,511
+Ya.
+
+782
+00:55:02,679 --> 00:55:04,056
+Aku Fiyero Tigelaar.
+
+783
+00:55:05,808 --> 00:55:06,849
+Winkie Country.
+
+784
+00:55:06,850 --> 00:55:08,519
+Oh, Oz.
+
+785
+00:55:09,061 --> 00:55:10,270
+Boq Woodsman...
+
+786
+00:55:12,356 --> 00:55:13,690
+dari Munchkinland.
+
+787
+00:55:15,818 --> 00:55:16,984
+Baiklah.
+
+788
+00:55:16,985 --> 00:55:19,111
+Permisi. Senang mengetahuinya.
+
+789
+00:55:19,112 --> 00:55:24,242
+Apa katamu tadi soal Ozdust,
+senang-senang, kau dan aku?
+
+790
+00:55:24,243 --> 00:55:27,161
+Peraturan Shiz melarang kita
+ke kota pada malam hari.
+
+791
+00:55:27,162 --> 00:55:31,834
+Lagi-lagi tanggung jawab
+untuk merusak siswa jatuh ke tanganku.
+
+792
+00:55:33,252 --> 00:55:34,670
+Permisi.
+
+793
+00:55:45,514 --> 00:55:47,182
+Persoalan perguruan tinggi adalah...
+
+794
+00:55:47,724 --> 00:55:51,103
+<i>Mereka selalu mengajarkan yang salah</i>
+
+795
+00:55:56,316 --> 00:55:57,817
+<i>Percayalah</i>
+
+796
+00:55:57,818 --> 00:56:01,280
+<i>Aku sudah cukup sering dikeluarkan
+Untuk mengetahuinya</i>
+
+797
+00:56:03,657 --> 00:56:05,867
+<i>Mereka ingin kau punya pengalaman</i>
+
+798
+00:56:05,868 --> 00:56:07,286
+<i>Lebih bijak</i>
+
+799
+00:56:08,996 --> 00:56:13,876
+<i>Menurutku, untuk apa kita harus stres?</i>
+
+800
+00:56:20,340 --> 00:56:22,759
+<i>Berhentilah rajin belajar</i>
+
+801
+00:56:25,721 --> 00:56:29,057
+<i>Dan belajarlah menikmati hidup</i>
+
+802
+00:56:30,476 --> 00:56:37,483
+<i>Kehidupan yang bebas</i>
+
+803
+00:56:43,655 --> 00:56:45,531
+<i>Menari setiap saat</i>
+
+804
+00:56:45,532 --> 00:56:47,283
+<i>Tidak ambil pusing</i>
+
+805
+00:56:47,284 --> 00:56:51,621
+<i>Mencari hal-hal yang menyenangkan</i>
+
+806
+00:56:51,622 --> 00:56:53,789
+<i>Hidup akan lebih ringan</i>
+
+807
+00:56:53,790 --> 00:56:55,541
+<i>Bagi yang bodoh</i>
+
+808
+00:56:55,542 --> 00:56:57,710
+<i>Untuk apa berpikir keras</i>
+
+809
+00:56:57,711 --> 00:56:59,670
+<i>Kapan kau akan tenang?</i>
+
+810
+00:56:59,671 --> 00:57:01,380
+<i>Menari setiap saat</i>
+
+811
+00:57:01,381 --> 00:57:03,424
+<i>Tak perlu membuatnya jadi sulit</i>
+
+812
+00:57:03,425 --> 00:57:07,428
+<i>Saat kau bisa menghindarinya seperti aku</i>
+
+813
+00:57:07,429 --> 00:57:09,222
+<i>Semua tidak penting lagi</i>
+
+814
+00:57:09,223 --> 00:57:11,849
+<i>Tapi mengetahui tidak ada yang penting</i>
+
+815
+00:57:11,850 --> 00:57:13,559
+<i>Itulah hidup</i>
+
+816
+00:57:13,560 --> 00:57:18,315
+<i>Maka teruslah menari</i>
+
+817
+00:57:30,786 --> 00:57:32,787
+<i>Menari setiap saat</i>
+
+818
+00:57:32,788 --> 00:57:34,413
+<i>Bergoyang dan meluncur</i>
+
+819
+00:57:34,414 --> 00:57:38,751
+<i>Dan selalu bersikap tenang</i>
+
+820
+00:57:38,752 --> 00:57:40,628
+<i>Hidup terasa mudah</i>
+
+821
+00:57:40,629 --> 00:57:42,380
+<i>Saat kau tidak banyak pikiran</i>
+
+822
+00:57:42,381 --> 00:57:44,007
+<i>Bagi yang tak berusaha</i>
+
+823
+00:57:44,550 --> 00:57:46,384
+<i>Jangan terlihat bodoh</i>
+
+824
+00:57:46,385 --> 00:57:48,136
+<i>Menari setiap saat</i>
+
+825
+00:57:48,137 --> 00:57:50,138
+<i>Tak peduli dan berbuat sesuka hati</i>
+
+826
+00:57:50,139 --> 00:57:53,558
+<i>Pastikan kau berada
+Di tempat persoalan tidak ada</i>
+
+827
+00:57:53,559 --> 00:57:55,726
+<i>Penderitaan akan pergi</i>
+
+828
+00:57:55,727 --> 00:57:58,146
+<i>Masalah akan berlalu</i>
+
+829
+00:57:58,147 --> 00:58:05,237
+<i>Saat kau menari setiap saat</i>
+
+830
+00:58:12,035 --> 00:58:13,203
+Hei!
+
+831
+00:58:21,628 --> 00:58:23,672
+Aku mau belajar di luar. Aku tak bisa...
+
+832
+00:58:35,017 --> 00:58:38,352
+<i>Mari kita pergi ke Ozdust Ballroom</i>
+
+833
+00:58:38,353 --> 00:58:41,273
+<i>Kita bertemu di sana malam ini</i>
+
+834
+00:58:42,483 --> 00:58:45,610
+<i>Kita bisa menari sampai pagi</i>
+
+835
+00:58:45,611 --> 00:58:47,987
+<i>Mencari gadis tercantik</i>
+
+836
+00:58:47,988 --> 00:58:50,198
+<i>Ajak dia menari</i>
+
+837
+00:58:50,199 --> 00:58:54,619
+<i>Persis di Ozdust Ballroom</i>
+
+838
+00:58:54,620 --> 00:58:58,080
+<i>Ayo, ikut aku</i>
+
+839
+00:58:58,081 --> 00:59:01,751
+<i>Kau akan senang berada di sana</i>
+
+840
+00:59:01,752 --> 00:59:03,753
+<i>Menari setiap saat</i>
+
+841
+00:59:03,754 --> 00:59:05,546
+<i>Di Ozdust</i>
+
+842
+00:59:05,547 --> 00:59:09,425
+<i>Jika pada akhirnya kita menjadi debu</i>
+
+843
+00:59:09,426 --> 00:59:13,555
+<i>Tak ada yang penting
+Tapi mengetahui tidak ada yang penting</i>
+
+844
+00:59:14,306 --> 00:59:23,564
+<i>Itulah hidup</i>
+
+845
+00:59:23,565 --> 00:59:29,029
+<i>Maka teruslah menari</i>
+
+846
+00:59:32,282 --> 00:59:33,950
+Galinda.
+
+847
+00:59:33,951 --> 00:59:35,160
+Hei. Di sini.
+
+848
+00:59:38,747 --> 00:59:39,915
+Simpanlah.
+
+849
+00:59:40,415 --> 00:59:41,666
+Aku punya banyak.
+
+850
+00:59:41,667 --> 00:59:43,085
+Aku sering menangis.
+
+851
+00:59:43,836 --> 00:59:44,877
+Terima kasih.
+
+852
+00:59:44,878 --> 00:59:47,630
+Semoga kau mau menari denganku malam ini.
+
+853
+00:59:47,631 --> 00:59:49,967
+Aku akan di sana, menunggu.
+
+854
+00:59:50,509 --> 00:59:53,178
+- Semalaman.
+- Kau baik sekali.
+
+855
+00:59:53,720 --> 00:59:55,388
+Tahu apa yang lebih baik lagi?
+
+856
+00:59:55,389 --> 00:59:58,432
+<i>Lihat gadis cantik yang tragis itu</i>
+
+857
+00:59:58,433 --> 01:00:00,060
+<i>Yang di kursi roda</i>
+
+858
+01:00:01,687 --> 01:00:03,354
+<i>Tampaknya tidak adil</i>
+
+859
+01:00:03,355 --> 01:00:05,523
+<i>Kita bisa bersenang-senang</i>
+
+860
+01:00:05,524 --> 01:00:07,859
+<i>Tapi dia tidak</i>
+
+861
+01:00:07,860 --> 01:00:10,778
+<i>Seseorang akan jadi pahlawanku</i>
+
+862
+01:00:10,779 --> 01:00:13,282
+<i>Jika orang tersebut</i>
+
+863
+01:00:13,991 --> 01:00:16,869
+<i>Mau mengajaknya</i>
+
+864
+01:00:17,953 --> 01:00:20,622
+Mungkin aku bisa mengajaknya.
+
+865
+01:00:22,207 --> 01:00:23,876
+Bick, sungguh?
+
+866
+01:00:24,501 --> 01:00:27,129
+<i>Kau mau melakukannya untukku?</i>
+
+867
+01:00:30,883 --> 01:00:32,801
+Kulakukan apa pun untukmu.
+
+868
+01:00:33,343 --> 01:00:34,344
+Bagaimana?
+
+869
+01:00:35,345 --> 01:00:36,637
+- Sekarang?
+- Kenapa tidak?
+
+870
+01:00:36,638 --> 01:00:37,930
+Ajak dia sekarang?
+
+871
+01:00:37,931 --> 01:00:39,433
+Kenapa tidak? Dia di situ.
+
+872
+01:00:50,444 --> 01:00:52,738
+- Hei, Nessa.
+- Hai.
+
+873
+01:00:56,658 --> 01:00:57,743
+Kau lihai.
+
+874
+01:00:59,620 --> 01:01:00,954
+Aku tak mengerti.
+
+875
+01:01:02,080 --> 01:01:03,415
+Aku senang membantu.
+
+876
+01:01:05,751 --> 01:01:08,170
+Kebetulan aku bebas malam ini.
+Lagi pula...
+
+877
+01:01:09,213 --> 01:01:12,757
+<i>Karena kita sudah saling kenal</i>
+
+878
+01:01:12,758 --> 01:01:16,719
+<i>Jelas bahwa kita cocok bersama</i>
+
+879
+01:01:16,720 --> 01:01:18,304
+- Kau sempurna.
+- Kau sempurna.
+
+880
+01:01:18,305 --> 01:01:21,349
+<i>Kita sempurna bersama</i>
+
+881
+01:01:21,350 --> 01:01:24,477
+<i>Dilahirkan untuk abadi</i>
+
+882
+01:01:24,478 --> 01:01:28,774
+<i>Menari setiap saat</i>
+
+883
+01:01:35,405 --> 01:01:37,323
+Kau tak akan menebak
+apa yang barusan terjadi.
+
+884
+01:01:37,324 --> 01:01:38,407
+Apa?
+
+885
+01:01:38,408 --> 01:01:42,370
+Pemuda Munchkin yang sempurna itu
+mengajakku kencan.
+
+886
+01:01:42,371 --> 01:01:47,041
+Katanya dia malu mengajakku,
+tetapi Galinda membujuknya.
+
+887
+01:01:47,042 --> 01:01:49,169
+- Tunggu. Galinda?
+- Jangan.
+
+888
+01:01:49,586 --> 01:01:52,589
+Jangan bicara buruk lagi tentang dia.
+
+889
+01:01:53,340 --> 01:01:56,468
+Ini akan menjadi malam terindah
+dalam hidupku,
+
+890
+01:01:57,553 --> 01:01:59,179
+berkat Galinda.
+
+891
+01:02:01,390 --> 01:02:03,891
+<i>Akhirnya untuk satu malam ini</i>
+
+892
+01:02:03,892 --> 01:02:07,436
+<i>Aku akan bersenang-senang</i>
+
+893
+01:02:07,437 --> 01:02:12,275
+<i>Bersama pemuda Munchkin
+Yang Galinda temukan untukku</i>
+
+894
+01:02:12,276 --> 01:02:15,027
+<i>Aku hanya berharap ada</i>
+
+895
+01:02:15,028 --> 01:02:21,076
+<i>Yang bisa kulakukan untuk membalasnya</i>
+
+896
+01:02:21,577 --> 01:02:24,328
+<i>Elphaba, mengerti?</i>
+
+897
+01:02:24,329 --> 01:02:26,539
+<i>Kami cocok bersama</i>
+
+898
+01:02:26,540 --> 01:02:30,043
+<i>Galinda bantu mewujudkannya</i>
+
+899
+01:02:31,086 --> 01:02:34,798
+<i>Kami cocok bersama, aku dan Boq</i>
+
+900
+01:02:35,340 --> 01:02:38,301
+Kumohon, Elphaba, cobalah untuk mengerti.
+
+901
+01:02:38,302 --> 01:02:41,722
+<i>Aku mengerti</i>
+
+902
+01:02:42,973 --> 01:02:44,223
+Satu, dua, tiga!
+
+903
+01:02:44,224 --> 01:02:46,392
+- Cukup.
+- Pas.
+
+904
+01:02:46,393 --> 01:02:48,227
+- Sempurna.
+- Demi Oz.
+
+905
+01:02:48,228 --> 01:02:50,897
+Bukankah aku ikan kecil
+paling memikat di laut?
+
+906
+01:02:50,898 --> 01:02:55,568
+Paling memikat. Fiyero akan terkesima.
+
+907
+01:02:55,569 --> 01:02:57,403
+Kita melakukannya dengan baik.
+
+908
+01:02:57,404 --> 01:02:59,697
+- Cepatlah.
+- Mungkin aku harus...
+
+909
+01:02:59,698 --> 01:03:02,533
+Aku tak percaya dia tahu cara
+masuk ke Ozdust Ballroom.
+
+910
+01:03:02,534 --> 01:03:03,618
+Aku tahu.
+
+911
+01:03:03,619 --> 01:03:06,747
+Kebetulan sekali
+hari ini kami berpapasan. Benar?
+
+912
+01:03:10,626 --> 01:03:11,918
+Itu apa?
+
+913
+01:03:11,919 --> 01:03:13,128
+Galinda?
+
+914
+01:03:15,088 --> 01:03:16,757
+Apa alasanmu?
+
+915
+01:03:17,424 --> 01:03:19,383
+Aku tahu. Ini karena nenekku.
+
+916
+01:03:19,384 --> 01:03:21,637
+Dia selalu membuatkanku topi terjelek.
+
+917
+01:03:22,179 --> 01:03:25,808
+Aku mau berikan,
+tapi tidak ada orang yang terlalu kubenci.
+
+918
+01:03:28,769 --> 01:03:29,853
+Aku tak bisa.
+
+919
+01:03:31,605 --> 01:03:32,689
+Apa aku bisa?
+
+920
+01:03:34,274 --> 01:03:35,526
+Tidak.
+
+921
+01:03:38,070 --> 01:03:39,613
+- Hei.
+- Hai.
+
+922
+01:03:40,531 --> 01:03:43,241
+- Kita harus pergi.
+- Ya, kami harus merona lutut kami.
+
+923
+01:03:43,242 --> 01:03:44,367
+- Aku tahu.
+- Lakukan.
+
+924
+01:03:44,368 --> 01:03:46,619
+- Ya.
+- Sangat merona. Kulakukan tiap hari.
+
+925
+01:03:46,620 --> 01:03:48,746
+Elphaba, aku suka bantalan bahumu...
+
+926
+01:03:48,747 --> 01:03:51,415
+Ya. Kau selalu tampak riang...
+
+927
+01:03:51,416 --> 01:03:53,252
+Baik dan riang.
+
+928
+01:03:56,672 --> 01:03:58,047
+Galinda...
+
+929
+01:03:58,048 --> 01:03:59,090
+STUDI ILMU SIHIR
+
+930
+01:03:59,091 --> 01:04:01,509
+...Nessa dan aku baru saja
+membicarakanmu, dan...
+
+931
+01:04:01,510 --> 01:04:03,262
+Kami baru saja membicarakanmu
+
+932
+01:04:03,804 --> 01:04:05,347
+agar kau ikut malam ini.
+
+933
+01:04:06,849 --> 01:04:07,850
+Aku tak mengerti.
+
+934
+01:04:08,475 --> 01:04:11,854
+Bergabunglah dengan kami di Ozdust.
+
+935
+01:04:12,396 --> 01:04:13,563
+Aku mengajakmu.
+
+936
+01:04:13,564 --> 01:04:14,647
+Kenapa?
+
+937
+01:04:14,648 --> 01:04:17,233
+Karena semua akan hadir.
+
+938
+01:04:17,234 --> 01:04:20,027
+Jangan bilang
+kau tak punya busana yang tepat,
+
+939
+01:04:20,028 --> 01:04:21,613
+karena kau boleh memakai ini.
+
+940
+01:04:23,782 --> 01:04:26,869
+Cocok dengan semua pakaianmu.
+
+941
+01:04:28,078 --> 01:04:31,164
+<i>Ini sangat mencolok, bukan?</i>
+
+942
+01:04:31,165 --> 01:04:33,750
+<i>Hitam sedang tren tahun ini</i>
+
+943
+01:04:34,501 --> 01:04:38,004
+<i>Kalian cocok bersama, topi ini dan kau</i>
+
+944
+01:04:38,005 --> 01:04:40,007
+<i>Kalian berdua sangat pintar</i>
+
+945
+01:04:40,841 --> 01:04:44,135
+<i>Kalian cocok bersama, ini</i>
+
+946
+01:04:44,136 --> 01:04:47,598
+<i>Dari Kebaikan hatiku</i>
+
+947
+01:05:03,822 --> 01:05:05,157
+Kita akan ditangkap.
+
+948
+01:05:06,241 --> 01:05:07,784
+Terlalu terang.
+
+949
+01:05:08,535 --> 01:05:10,704
+Cepat. Ayo.
+
+950
+01:05:15,751 --> 01:05:19,713
+Maaf mengganggu, Madam Morrible,
+tetapi aku ingin minta tolong.
+
+951
+01:05:58,710 --> 01:06:00,586
+Ini dia. Ayo. Siap?
+
+952
+01:06:00,587 --> 01:06:01,672
+Ya!
+
+953
+01:06:04,174 --> 01:06:05,800
+Hei!
+
+954
+01:06:05,801 --> 01:06:07,136
+Ya! Ayo!
+
+955
+01:06:38,417 --> 01:06:39,250
+<i>Dengarkan, Nessa</i>
+
+956
+01:06:39,251 --> 01:06:40,418
+Ya?
+
+957
+01:06:40,419 --> 01:06:41,544
+<i>Nessa</i>
+
+958
+01:06:41,545 --> 01:06:44,130
+<i>Aku ingin mengakui sesuatu</i>
+
+959
+01:06:44,131 --> 01:06:46,966
+<i>Alasan kenapa, yah</i>
+
+960
+01:06:46,967 --> 01:06:49,594
+<i>Kenapa aku mengajakmu kemari</i>
+
+961
+01:06:49,595 --> 01:06:52,221
+<i>Aku tahu ini tidak adil</i>
+
+962
+01:06:52,222 --> 01:06:53,848
+Boq, aku tahu kenapa.
+
+963
+01:06:53,849 --> 01:06:55,392
+Benarkah?
+
+964
+01:06:56,018 --> 01:06:59,103
+<i>Karena aku di kursi ini</i>
+
+965
+01:06:59,104 --> 01:07:01,148
+<i>Dan kau kasihan kepadaku</i>
+
+966
+01:07:02,649 --> 01:07:03,691
+Benar, bukan?
+
+967
+01:07:03,692 --> 01:07:05,776
+Tidak.
+
+968
+01:07:05,777 --> 01:07:07,695
+Aku tidak mengasihanimu.
+
+969
+01:07:07,696 --> 01:07:09,865
+Kau luar biasa. Aku mengajakmu karena...
+
+970
+01:07:11,325 --> 01:07:12,326
+karena...
+
+971
+01:07:14,411 --> 01:07:17,747
+<i>Karena kau begitu cantik</i>
+
+972
+01:07:17,748 --> 01:07:21,209
+<i>Boq, menurutku kau luar biasa</i>
+
+973
+01:07:21,210 --> 01:07:23,628
+<i>Dan kita cocok bersama</i>
+
+974
+01:07:23,629 --> 01:07:26,924
+<i>Kau tidak lihat, ini kesempatan kita?</i>
+
+975
+01:07:28,008 --> 01:07:30,092
+<i>Kita cocok bersama</i>
+
+976
+01:07:30,093 --> 01:07:31,553
+<i>Benar, Boq?</i>
+
+977
+01:07:32,471 --> 01:07:33,721
+Kau tahu?
+
+978
+01:07:33,722 --> 01:07:35,307
+<i>Mari menari</i>
+
+979
+01:07:36,183 --> 01:07:37,059
+Apa?
+
+980
+01:07:37,893 --> 01:07:41,980
+<i>Mari menari</i>
+
+981
+01:07:53,116 --> 01:07:53,951
+Ya!
+
+982
+01:08:07,881 --> 01:08:10,259
+Apa semua Tigelaar sangat lincah?
+
+983
+01:08:11,051 --> 01:08:12,385
+Kau.
+
+984
+01:08:12,386 --> 01:08:13,427
+Aku?
+
+985
+01:08:13,428 --> 01:08:16,806
+Dan kau bisa kembali
+melakukan apa pun ini.
+
+986
+01:08:17,933 --> 01:08:18,933
+Pergi.
+
+987
+01:08:18,934 --> 01:08:19,935
+Pergilah.
+
+988
+01:08:21,728 --> 01:08:23,814
+Madam Morrible, kau...
+
+989
+01:08:24,523 --> 01:08:27,192
+- Serius, aku mengagumimu...
+- Cukup.
+
+990
+01:08:30,028 --> 01:08:31,446
+Tongkat sihir?
+
+991
+01:08:32,156 --> 01:08:33,488
+Ini tongkat latihan.
+
+992
+01:08:33,489 --> 01:08:36,450
+Tongkat latihan? Untukku?
+
+993
+01:08:36,451 --> 01:08:39,246
+Madam Morrible, bagaimana aku bisa
+mengucapkan terima kasih?
+
+994
+01:08:40,080 --> 01:08:42,415
+Aku memang ingin menjadi penyihir.
+
+995
+01:08:42,416 --> 01:08:45,835
+Terima kasih sudah percaya kepadaku.
+
+996
+01:08:45,836 --> 01:08:48,547
+Sebenarnya, aku tak percaya kepadamu.
+
+997
+01:08:49,297 --> 01:08:52,551
+Ini ide teman sekamarmu, bukan aku.
+
+998
+01:08:54,136 --> 01:08:55,261
+Aku bingung.
+
+999
+01:08:55,761 --> 01:09:00,808
+Nona Elphaba minta agar aku menyertakanmu
+dalam seminar ilmu sihir kami
+
+1000
+01:09:00,809 --> 01:09:04,979
+dan memaksaku mengatakannya malam ini
+atau dia berhenti.
+
+1001
+01:09:04,980 --> 01:09:06,064
+Elphaba melakukan itu?
+
+1002
+01:09:07,649 --> 01:09:09,234
+Kenapa?
+
+1003
+01:09:09,734 --> 01:09:13,571
+Aku penyihir, bukan pembaca pikiran.
+Aku tak tahu alasannya.
+
+1004
+01:09:13,572 --> 01:09:16,032
+Namun, aku tak mau kehilangan dia,
+
+1005
+01:09:16,033 --> 01:09:17,367
+maka di sinilah aku.
+
+1006
+01:09:18,493 --> 01:09:22,997
+Menurutku kau tidak berbakat, Sayang.
+
+1007
+01:09:23,540 --> 01:09:25,167
+Buktikan aku salah.
+
+1008
+01:09:26,251 --> 01:09:27,544
+Aku ragu kau berhasil.
+
+1009
+01:09:30,005 --> 01:09:32,256
+Mungkin kau ingin berterima kasih.
+Dia baru saja tiba.
+
+1010
+01:09:33,008 --> 01:09:34,009
+Apa?
+
+1011
+01:10:13,799 --> 01:10:15,717
+Dia pakai apa?
+
+1012
+01:10:19,638 --> 01:10:21,265
+Topinya aneh.
+
+1013
+01:11:11,106 --> 01:11:13,275
+Topinya jelek sekali.
+
+1014
+01:11:17,613 --> 01:11:18,697
+Lihat dia.
+
+1015
+01:11:21,992 --> 01:11:23,409
+Dia sedang apa?
+
+1016
+01:11:23,410 --> 01:11:24,912
+Dia sedang menari?
+
+1017
+01:12:22,761 --> 01:12:23,928
+Ini pendapatku,
+
+1018
+01:12:23,929 --> 01:12:26,181
+dia tidak peduli apa pendapat orang.
+
+1019
+01:12:26,765 --> 01:12:27,850
+Tentu dia peduli.
+
+1020
+01:12:29,476 --> 01:12:30,978
+Dia hanya pura-pura tak peduli.
+
+1021
+01:12:39,403 --> 01:12:40,487
+Aku tak sanggup melihatnya.
+
+1022
+01:12:43,073 --> 01:12:44,241
+Aku merasa bersalah.
+
+1023
+01:12:44,783 --> 01:12:45,868
+Kenapa?
+
+1024
+01:12:46,535 --> 01:12:48,120
+Ini bukan salahmu.
+
+1025
+01:12:58,297 --> 01:12:59,298
+Permisi.
+
+1026
+01:13:52,351 --> 01:13:53,936
+- Kau sedang apa?
+- Hentikan.
+
+1027
+01:13:58,190 --> 01:13:59,191
+Tidak.
+
+1028
+01:15:14,391 --> 01:15:15,392
+Tidak apa-apa.
+
+1029
+01:16:12,074 --> 01:16:13,866
+<i>Menari setiap saat</i>
+
+1030
+01:16:13,867 --> 01:16:15,743
+<i>Di Ozdust</i>
+
+1031
+01:16:15,744 --> 01:16:20,248
+<i>Jika kelak kita akan menjadi debu</i>
+
+1032
+01:16:20,249 --> 01:16:22,083
+<i>Dan inilah anehnya</i>
+
+1033
+01:16:22,084 --> 01:16:24,294
+<i>Hidupmu bisa berubah</i>
+
+1034
+01:16:24,837 --> 01:16:28,631
+<i>Ketika kau menari</i>
+
+1035
+01:16:28,632 --> 01:16:34,138
+<i>Setiap saat</i>
+
+1036
+01:16:41,311 --> 01:16:43,479
+Tunggu.
+
+1037
+01:16:43,480 --> 01:16:47,150
+Maksudmu itu pesta pertamamu?
+
+1038
+01:16:47,151 --> 01:16:48,569
+Pemakaman termasuk?
+
+1039
+01:16:51,071 --> 01:16:52,280
+Itu lucu.
+
+1040
+01:16:52,281 --> 01:16:53,365
+Terima kasih.
+
+1041
+01:16:54,408 --> 01:16:57,160
+- Aku tak bisa tidur.
+- Aku juga.
+
+1042
+01:16:57,161 --> 01:17:00,913
+Aku tahu.
+Mari kita saling berbagi rahasia.
+
+1043
+01:17:00,914 --> 01:17:02,583
+Baik. Aku dahulu.
+
+1044
+01:17:05,627 --> 01:17:07,337
+Fiyero dan aku akan menikah.
+
+1045
+01:17:10,799 --> 01:17:11,883
+Dia sudah melamarmu?
+
+1046
+01:17:11,884 --> 01:17:13,343
+Dia belum tahu.
+
+1047
+01:17:14,636 --> 01:17:15,596
+Baik.
+
+1048
+01:17:16,346 --> 01:17:17,889
+Katakan rahasiamu.
+
+1049
+01:17:17,890 --> 01:17:19,933
+- Contohnya?
+- Contohnya...
+
+1050
+01:17:21,268 --> 01:17:22,436
+Contohnya...
+
+1051
+01:17:23,270 --> 01:17:26,314
+kenapa kau tidur dengan
+botol kecil hijau di bawah bantalmu?
+
+1052
+01:17:26,315 --> 01:17:28,274
+- Kembalikan.
+- Apa ini? Aku ingin tahu.
+
+1053
+01:17:28,275 --> 01:17:29,859
+- Kembalikan.
+- Aku ingin tahu.
+
+1054
+01:17:29,860 --> 01:17:31,528
+- Serius...
+- Kembalikan!
+
+1055
+01:17:34,490 --> 01:17:36,200
+Ini punya ibuku.
+
+1056
+01:17:39,077 --> 01:17:40,495
+Itu tidak adil.
+
+1057
+01:17:40,496 --> 01:17:42,247
+Aku memberimu rahasia bagus.
+
+1058
+01:18:04,853 --> 01:18:06,021
+Ayahku membenciku.
+
+1059
+01:18:06,939 --> 01:18:07,980
+Apa?
+
+1060
+01:18:07,981 --> 01:18:09,566
+Itu bukan rahasianya.
+
+1061
+01:18:11,401 --> 01:18:13,487
+Rahasianya adalah
+
+1062
+01:18:14,363 --> 01:18:15,697
+dia punya alasan kuat.
+
+1063
+01:18:25,457 --> 01:18:27,000
+Itu salahku.
+
+1064
+01:18:28,126 --> 01:18:29,378
+Apa?
+
+1065
+01:18:33,674 --> 01:18:35,425
+Kondisi adikku.
+
+1066
+01:18:39,471 --> 01:18:41,139
+Ketika ibuku mengandung Nessa,
+
+1067
+01:18:41,140 --> 01:18:44,350
+ayahku khawatir dia akan lahir...
+
+1068
+01:18:44,351 --> 01:18:45,686
+- Hijau.
+- ...hijau.
+
+1069
+01:18:47,980 --> 01:18:52,401
+Begitu khawatir sampai memaksa ibuku
+mengunyah bunga susu siang dan malam.
+
+1070
+01:18:54,820 --> 01:18:55,821
+Hanya saja,
+
+1071
+01:18:57,114 --> 01:18:59,741
+bunga susu membuat Nessa
+lahir prematur, dan...
+
+1072
+01:19:02,077 --> 01:19:03,579
+dan kaki kecilnya...
+
+1073
+01:19:07,082 --> 01:19:08,417
+Dan ibuku...
+
+1074
+01:19:12,004 --> 01:19:13,547
+Dia tak pernah bangun.
+
+1075
+01:19:15,007 --> 01:19:17,384
+Semua itu tak akan terjadi jika bukan...
+
+1076
+01:19:19,678 --> 01:19:20,637
+karena aku.
+
+1077
+01:19:22,514 --> 01:19:23,515
+Jadi...
+
+1078
+01:19:24,933 --> 01:19:26,101
+ini salahku.
+
+1079
+01:19:27,728 --> 01:19:29,396
+Apa? Tidak.
+
+1080
+01:19:30,397 --> 01:19:34,568
+Itu salah bunga susu, bukan kau.
+
+1081
+01:19:36,612 --> 01:19:39,531
+Mungkin itu rahasiamu, Elphaba,
+tetapi bukan berarti benar.
+
+1082
+01:19:44,411 --> 01:19:45,870
+Lihat.
+
+1083
+01:19:45,871 --> 01:19:47,372
+Sudah pagi.
+
+1084
+01:19:52,252 --> 01:19:53,629
+Dan, Elphie...
+
+1085
+01:19:54,505 --> 01:19:56,923
+- Boleh kupanggil "Elphie"?
+- Itu terdengar riang.
+
+1086
+01:19:56,924 --> 01:19:59,843
+- Aku tahu. Kupanggil kau begitu.
+- Aku tidak...
+
+1087
+01:20:01,303 --> 01:20:03,179
+Kau boleh memanggilku...
+
+1088
+01:20:03,180 --> 01:20:04,263
+Galinda.
+
+1089
+01:20:04,264 --> 01:20:05,515
+Itu namamu.
+
+1090
+01:20:05,516 --> 01:20:06,600
+Mari jangan bertengkar.
+
+1091
+01:20:08,352 --> 01:20:09,353
+Elphie?
+
+1092
+01:20:10,229 --> 01:20:11,480
+Setelah kita berteman,
+
+1093
+01:20:12,856 --> 01:20:15,107
+kuputuskan untuk menjadikanmu
+proyek baruku.
+
+1094
+01:20:15,108 --> 01:20:16,818
+Tidak perlu.
+
+1095
+01:20:16,819 --> 01:20:18,153
+Aku tahu.
+
+1096
+01:20:18,654 --> 01:20:20,364
+Itu yang membuatku sangat baik.
+
+1097
+01:20:22,324 --> 01:20:26,994
+<i>Setiap kali kulihat seseorang
+Yang tidak seberuntung aku</i>
+
+1098
+01:20:26,995 --> 01:20:28,621
+<i>Hadapi saja</i>
+
+1099
+01:20:28,622 --> 01:20:31,875
+<i>Semua orang tidak seberuntung aku</i>
+
+1100
+01:20:32,459 --> 01:20:36,087
+<i>Hatiku yang lembut pasti tersentuh</i>
+
+1101
+01:20:36,088 --> 01:20:37,797
+<i>Ketika seseorang butuh didandani</i>
+
+1102
+01:20:37,798 --> 01:20:39,841
+<i>Aku harus ambil alih</i>
+
+1103
+01:20:39,842 --> 01:20:42,594
+<i>Aku tahu</i>
+
+1104
+01:20:45,139 --> 01:20:50,184
+<i>Persis yang mereka perlukan</i>
+
+1105
+01:20:50,185 --> 01:20:53,397
+<i>Bahkan dalam kasusmu</i>
+
+1106
+01:21:00,237 --> 01:21:01,238
+Sudahlah.
+
+1107
+01:21:01,780 --> 01:21:04,992
+- Aku harus... Baik.
+- Ya. Pakai ini kembali.
+
+1108
+01:21:06,994 --> 01:21:10,080
+<i>Walau ini kasus yang terberat</i>
+
+1109
+01:21:10,622 --> 01:21:13,040
+<i>Yang pernah kuhadapi</i>
+
+1110
+01:21:13,041 --> 01:21:17,171
+<i>Tenang, aku bertekad untuk berhasil</i>
+
+1111
+01:21:17,963 --> 01:21:21,799
+<i>Ikuti arahanku</i>
+
+1112
+01:21:21,800 --> 01:21:24,761
+<i>Dan ya, pasti</i>
+
+1113
+01:21:25,596 --> 01:21:27,013
+<i>Kau</i>
+
+1114
+01:21:27,014 --> 01:21:28,639
+<i>Akan</i>
+
+1115
+01:21:28,640 --> 01:21:31,059
+<i>Jadi</i>
+
+1116
+01:21:40,736 --> 01:21:41,862
+<i>Populer</i>
+
+1117
+01:21:42,362 --> 01:21:45,156
+<i>Kau akan populer</i>
+
+1118
+01:21:45,157 --> 01:21:47,074
+<i>Aku akan mengajarimu cara yang tepat</i>
+
+1119
+01:21:47,075 --> 01:21:48,618
+<i>Saat berbicara dengan lelaki</i>
+
+1120
+01:21:48,619 --> 01:21:50,703
+<i>Cara untuk menggoda dan merayu</i>
+
+1121
+01:21:50,704 --> 01:21:53,998
+<i>Kuajarkan cara pakai sepatu
+Cara menata rambut</i>
+
+1122
+01:21:53,999 --> 01:21:56,876
+<i>Semua yang kau perlukan untuk menjadi</i>
+
+1123
+01:21:56,877 --> 01:21:58,336
+<i>Populer</i>
+
+1124
+01:21:58,337 --> 01:22:01,297
+<i>Aku akan menolongmu jadi populer</i>
+
+1125
+01:22:01,298 --> 01:22:04,675
+<i>Kau akan punya kelompok yang tepat
+Kau akan pandai olahraga</i>
+
+1126
+01:22:04,676 --> 01:22:07,303
+<i>Mengetahui istilah-istilah gaul</i>
+
+1127
+01:22:07,304 --> 01:22:08,513
+<i>Jadi mari mulai</i>
+
+1128
+01:22:08,514 --> 01:22:13,852
+<i>Karena banyak sekali
+Yang perlu diperbaiki</i>
+
+1129
+01:22:15,979 --> 01:22:18,648
+<i>Jangan tersinggung oleh analisisku
+Yang terang-terangan</i>
+
+1130
+01:22:18,649 --> 01:22:21,400
+<i>Anggap sebagai dialisis kepribadian</i>
+
+1131
+01:22:21,401 --> 01:22:24,987
+<i>Karena aku memilih untuk menjadi sahabat
+Saudara dan penasihat</i>
+
+1132
+01:22:24,988 --> 01:22:26,656
+<i>Tak ada yang lebih bijak</i>
+
+1133
+01:22:26,657 --> 01:22:28,199
+<i>Dalam hal</i>
+
+1134
+01:22:28,200 --> 01:22:29,284
+<i>Popularitas</i>
+
+1135
+01:22:29,827 --> 01:22:32,370
+<i>Aku tahu tentang populer</i>
+
+1136
+01:22:32,371 --> 01:22:34,413
+<i>Dengan bantuan dariku</i>
+
+1137
+01:22:34,414 --> 01:22:35,790
+<i>Kau akan berubah</i>
+
+1138
+01:22:35,791 --> 01:22:38,668
+<i>Alih-alih dirimu yang sebelumnya suram
+Tepatnya sampai sekarang</i>
+
+1139
+01:22:38,669 --> 01:22:42,005
+<i>Tak ada yang dapat menghentikanmu
+Untuk menjadi popular</i>
+
+1140
+01:22:43,257 --> 01:22:44,258
+<i>Ler</i>
+
+1141
+01:22:45,008 --> 01:22:50,346
+<i>La, la, la, la</i>
+
+1142
+01:22:50,347 --> 01:22:53,475
+<i>Kami akan membuatmu populer</i>
+
+1143
+01:22:55,811 --> 01:22:57,062
+Tidak akan berhasil.
+
+1144
+01:22:58,063 --> 01:22:58,896
+Apa?
+
+1145
+01:22:58,897 --> 01:23:02,316
+Elphie, jangan berpikir begitu.
+
+1146
+01:23:02,317 --> 01:23:06,446
+Seluruh hidupmu akan berubah,
+dan semua karena aku.
+
+1147
+01:23:07,614 --> 01:23:08,615
+Ayo.
+
+1148
+01:23:09,324 --> 01:23:11,534
+<i>Ketika melihat makhluk yang depresi</i>
+
+1149
+01:23:11,535 --> 01:23:14,662
+<i>Dengan banyak kekurangan</i>
+
+1150
+01:23:14,663 --> 01:23:17,373
+<i>Kuingatkan untuk kebaikan mereka</i>
+
+1151
+01:23:17,374 --> 01:23:19,667
+- Turun.
+<i>- Untuk memikirkan</i>
+
+1152
+01:23:19,668 --> 01:23:25,756
+<i>Para kepala negara yang terkenal
+Atau khususnya komunikator yang hebat</i>
+
+1153
+01:23:25,757 --> 01:23:27,925
+<i>Apa mereka punya otak atau pengetahuan?</i>
+
+1154
+01:23:27,926 --> 01:23:30,344
+- Sebenarnya...
+- Jangan buat aku tertawa!
+
+1155
+01:23:30,345 --> 01:23:31,804
+- Mereka...
+- Populer.
+
+1156
+01:23:31,805 --> 01:23:32,722
+Benar!
+
+1157
+01:23:32,723 --> 01:23:35,183
+<i>Yang penting populer</i>
+
+1158
+01:23:35,184 --> 01:23:38,769
+<i>Bukan soal kecakapan
+Intinya caramu dipandang</i>
+
+1159
+01:23:38,770 --> 01:23:41,481
+<i>Jadi penting untuk menjadi</i>
+
+1160
+01:23:41,482 --> 01:23:43,691
+<i>Sangat populer</i>
+
+1161
+01:23:43,692 --> 01:23:45,027
+<i>Seperti aku</i>
+
+1162
+01:23:48,447 --> 01:23:49,572
+Kemarilah.
+
+1163
+01:23:49,573 --> 01:23:51,450
+Pertama, rambut.
+
+1164
+01:23:52,117 --> 01:23:53,744
+Kita mengibaskan rambut.
+
+1165
+01:23:54,328 --> 01:23:55,537
+Siap?
+
+1166
+01:23:56,079 --> 01:23:57,164
+Kibaskan.
+
+1167
+01:24:00,501 --> 01:24:01,585
+Kibaskan.
+
+1168
+01:24:04,838 --> 01:24:05,839
+Begitu juga boleh.
+
+1169
+01:24:07,257 --> 01:24:11,135
+Berikutnya, aku akan mengubah
+baju/mantel sederhana ini,
+
+1170
+01:24:11,136 --> 01:24:14,640
+"bantel" sederhana ini
+menjadi gaun pesta yang megah.
+
+1171
+01:24:16,767 --> 01:24:17,768
+Gaun pesta.
+
+1172
+01:24:22,481 --> 01:24:23,482
+Gaun pesta.
+
+1173
+01:24:24,149 --> 01:24:25,150
+Gaun pesta.
+
+1174
+01:24:25,651 --> 01:24:26,652
+Ayolah!
+
+1175
+01:24:27,194 --> 01:24:29,071
+Ayo. Aku mengandalkanmu.
+
+1176
+01:24:39,832 --> 01:24:41,166
+Gaun pesta.
+
+1177
+01:24:43,168 --> 01:24:44,627
+- Serius?
+- Butuh bantuanku?
+
+1178
+01:24:44,628 --> 01:24:46,922
+Tidak! Pakai saja "bantel." Itu cantik.
+
+1179
+01:24:49,591 --> 01:24:52,009
+Mari mulai dengan sesuatu yang kecil.
+
+1180
+01:24:52,010 --> 01:24:53,512
+Silakan, Madam.
+
+1181
+01:24:54,346 --> 01:24:55,430
+- Coba kulihat.
+- Terima kasih.
+
+1182
+01:25:00,978 --> 01:25:01,979
+Mungkin...
+
+1183
+01:25:03,647 --> 01:25:05,065
+hanya ini.
+
+1184
+01:25:10,195 --> 01:25:11,822
+Merah muda cocok dengan hijau.
+
+1185
+01:25:12,364 --> 01:25:13,823
+"Serasi" dengan hijau.
+
+1186
+01:25:13,824 --> 01:25:15,701
+Benar.
+
+1187
+01:25:31,967 --> 01:25:33,469
+Wah, Nona Elphaba...
+
+1188
+01:25:36,263 --> 01:25:37,514
+lihat dirimu.
+
+1189
+01:25:41,226 --> 01:25:42,478
+Kau cantik.
+
+1190
+01:25:46,607 --> 01:25:47,774
+Aku harus pergi.
+
+1191
+01:25:48,358 --> 01:25:49,526
+Apa...
+
+1192
+01:25:56,533 --> 01:25:57,618
+Sama-sama.
+
+1193
+01:25:59,953 --> 01:26:01,455
+Halo.
+
+1194
+01:26:02,414 --> 01:26:04,166
+Wah.
+
+1195
+01:26:06,794 --> 01:26:09,588
+<i>Meskipun kau protes</i>
+
+1196
+01:26:10,464 --> 01:26:14,425
+<i>Ketidaktertarikanmu</i>
+
+1197
+01:26:14,426 --> 01:26:21,475
+<i>Diam-diam aku mengetahui</i>
+
+1198
+01:26:23,310 --> 01:26:25,394
+<i>Kau akan tersenyum dan menyukai</i>
+
+1199
+01:26:25,395 --> 01:26:27,981
+<i>Popularitas barumu</i>
+
+1200
+01:26:29,233 --> 01:26:39,233
+<i>La, la, la, la</i>
+
+1201
+01:26:39,284 --> 01:26:41,912
+<i>La, la</i>
+
+1202
+01:26:47,084 --> 01:26:49,837
+<i>Kau akan populer</i>
+
+1203
+01:26:53,132 --> 01:27:00,139
+<i>Namun, tidak sepopuler aku</i>
+
+1204
+01:27:09,982 --> 01:27:11,816
+- Hai, Elphaba.
+- Hei.
+
+1205
+01:27:11,817 --> 01:27:13,152
+Hei, Elphaba.
+
+1206
+01:27:19,908 --> 01:27:21,577
+Kibaskan.
+
+1207
+01:27:22,244 --> 01:27:23,245
+Tidak.
+
+1208
+01:27:35,132 --> 01:27:36,550
+Galinda telah mengubahmu.
+
+1209
+01:27:40,762 --> 01:27:42,514
+Kau tak perlu melakukan itu.
+
+1210
+01:27:45,893 --> 01:27:47,728
+Ayo masuk kelas.
+
+1211
+01:27:49,354 --> 01:27:51,606
+- Dr. Dilly.
+- Dr. Dilly, karena kau tak bisa...
+
+1212
+01:27:51,607 --> 01:27:53,274
+- Dia memanggilku...
+- Dr. Dillamond.
+
+1213
+01:27:53,275 --> 01:27:54,942
+- Bukan salahnya.
+- Dia harus menerimanya.
+
+1214
+01:27:54,943 --> 01:27:56,403
+Dia tak punya gigi atas depan.
+
+1215
+01:27:58,822 --> 01:28:00,490
+Dr. Dillamond, kubawakan bunga popi.
+
+1216
+01:28:00,491 --> 01:28:02,451
+Jangan sekarang, Nona Elphaba.
+
+1217
+01:28:02,993 --> 01:28:05,828
+Semuanya, mohon duduk.
+
+1218
+01:28:05,829 --> 01:28:08,332
+Ada yang ingin kukatakan
+dan waktuku singkat.
+
+1219
+01:28:10,375 --> 01:28:12,210
+Murid-muridku,
+
+1220
+01:28:12,211 --> 01:28:15,005
+ini hari terakhirku di Shiz.
+
+1221
+01:28:15,631 --> 01:28:19,300
+Hewan tidak lagi diizinkan untuk mengajar.
+
+1222
+01:28:19,301 --> 01:28:20,384
+Apa?
+
+1223
+01:28:20,385 --> 01:28:23,472
+Tidak apa-apa, Nona Elphaba.
+Aku akan baik-baik saja.
+
+1224
+01:28:31,355 --> 01:28:35,024
+Tetap tenang, Murid-murid.
+Tidak perlu panik.
+
+1225
+01:28:35,025 --> 01:28:36,526
+Ada apa ini?
+
+1226
+01:28:36,527 --> 01:28:37,778
+Ayo, Kambing.
+
+1227
+01:28:40,072 --> 01:28:40,905
+Hei!
+
+1228
+01:28:40,906 --> 01:28:41,989
+Jangan biarkan ini.
+
+1229
+01:28:41,990 --> 01:28:44,158
+Nona Elphaba, ini di luar kemampuan kami.
+
+1230
+01:28:44,159 --> 01:28:45,743
+Mereka boleh ambil pekerjaanku,
+
+1231
+01:28:45,744 --> 01:28:48,246
+- tetapi aku akan terus bicara!
+- Dr. Dillamond.
+
+1232
+01:28:48,247 --> 01:28:52,334
+Dengarkan!
+Kalian tidak tahu cerita selengkapnya!
+
+1233
+01:28:56,797 --> 01:28:59,049
+Kita akan diam saja?
+
+1234
+01:29:01,301 --> 01:29:04,680
+Cukup, Nona Elphaba.
+
+1235
+01:29:06,765 --> 01:29:07,850
+Duduklah.
+
+1236
+01:29:24,658 --> 01:29:25,659
+Murid-murid...
+
+1237
+01:29:26,243 --> 01:29:27,243
+Kau baik-baik saja?
+
+1238
+01:29:27,244 --> 01:29:31,623
+...profesor sejarah yang baru
+telah menyiapkan presentasi khusus.
+
+1239
+01:29:47,764 --> 01:29:50,350
+Selamat sore, Murid-murid.
+
+1240
+01:29:53,479 --> 01:29:55,897
+- Selamat sore.
+- Selamat sore.
+
+1241
+01:29:55,898 --> 01:29:57,648
+Pada masa seperti ini,
+
+1242
+01:29:57,649 --> 01:30:02,153
+penting bagi kita untuk tidak hanya
+mempelajari masa lalu,
+
+1243
+01:30:02,154 --> 01:30:05,073
+melainkan juga masa depan.
+
+1244
+01:30:09,077 --> 01:30:12,748
+Ini disebut kandang.
+
+1245
+01:30:18,712 --> 01:30:21,714
+Inovasi yang luar biasa ini
+adalah untuk kebaikan Oz,
+
+1246
+01:30:21,715 --> 01:30:24,175
+juga untuk kebaikan hewan-hewan. Begini...
+
+1247
+01:30:24,176 --> 01:30:26,261
+Jika baik, kenapa dia gemetar?
+
+1248
+01:30:31,016 --> 01:30:33,101
+Dia hanya senang bisa di sini.
+
+1249
+01:30:34,853 --> 01:30:37,688
+Salah satu manfaat
+mengurung hewan sekecil ini
+
+1250
+01:30:37,689 --> 01:30:40,651
+adalah kemungkinan besar
+dia tidak akan belajar berbicara.
+
+1251
+01:30:41,235 --> 01:30:42,235
+Tidak.
+
+1252
+01:30:42,236 --> 01:30:45,112
+Dimensi kandang akan bervariasi
+tergantung ukuran hewan,
+
+1253
+01:30:45,113 --> 01:30:47,448
+tetapi desainnya tetap sama.
+
+1254
+01:30:47,449 --> 01:30:49,201
+Biar kuperlihatkan.
+
+1255
+01:30:52,204 --> 01:30:54,622
+Bisa bayangkan
+hewan-hewan dikurung dalam kandang
+
+1256
+01:30:54,623 --> 01:30:56,290
+dan mereka tak belajar bicara?
+
+1257
+01:30:56,291 --> 01:30:58,043
+Singa kecil ini ketakutan.
+
+1258
+01:30:58,710 --> 01:30:59,919
+Kita harus apa?
+
+1259
+01:30:59,920 --> 01:31:01,587
+Maaf, "kita"?
+
+1260
+01:31:01,588 --> 01:31:03,507
+Harus ada yang bertindak.
+
+1261
+01:31:35,372 --> 01:31:38,208
+Hei, kemarilah.
+
+1262
+01:31:40,752 --> 01:31:41,795
+Apa yang terjadi?
+
+1263
+01:31:43,046 --> 01:31:44,882
+Entahlah. Aku marah dan...
+
+1264
+01:31:47,134 --> 01:31:48,719
+Fiyero, apa yang kau lakukan?
+
+1265
+01:31:50,637 --> 01:31:52,473
+Kau ikut?
+
+1266
+01:31:53,223 --> 01:31:54,391
+Ayo.
+
+1267
+01:31:56,643 --> 01:31:58,479
+UNIVERSITAS SHIZ
+
+1268
+01:31:59,480 --> 01:32:00,480
+Lihat.
+
+1269
+01:32:00,481 --> 01:32:01,565
+Ayo.
+
+1270
+01:32:03,484 --> 01:32:05,152
+Ayo. Bagus.
+
+1271
+01:32:05,777 --> 01:32:08,447
+- Benar begitu.
+- Baiklah.
+
+1272
+01:32:33,305 --> 01:32:34,640
+Apa-apaan ini?
+
+1273
+01:32:59,164 --> 01:33:00,498
+PENTING
+
+1274
+01:33:00,499 --> 01:33:03,585
+AHLI SIHIR OZ
+EMERALD CITY
+
+1275
+01:33:11,426 --> 01:33:13,220
+Aku tak bermaksud menakutimu.
+
+1276
+01:33:15,514 --> 01:33:18,349
+Kenapa kau selalu menimbulkan keributan?
+
+1277
+01:33:18,350 --> 01:33:20,518
+Aku tak menimbulkan keributan.
+Akulah keributan.
+
+1278
+01:33:20,519 --> 01:33:22,562
+Ya. Itu jelas.
+
+1279
+01:33:22,563 --> 01:33:25,648
+Jadi aku harus tutup mulut? Itu maksudmu?
+
+1280
+01:33:25,649 --> 01:33:27,191
+Apa? Bukan. Maksudku...
+
+1281
+01:33:27,192 --> 01:33:28,985
+- Pikirmu aku ingin begini?
+- Aku...
+
+1282
+01:33:28,986 --> 01:33:31,195
+- Pikirmu aku ingin peduli?
+- Maksudku...
+
+1283
+01:33:31,196 --> 01:33:33,239
+Hidupku akan mudah jika aku tak peduli...
+
+1284
+01:33:33,240 --> 01:33:35,075
+Bisa biarkan aku bicara?
+
+1285
+01:33:37,411 --> 01:33:38,412
+Maaf.
+
+1286
+01:33:40,164 --> 01:33:42,124
+- Aku...
+- Boleh kukatakan satu hal lagi?
+
+1287
+01:33:44,001 --> 01:33:45,878
+Kau bisa saja tidak menolongku.
+
+1288
+01:33:46,420 --> 01:33:47,462
+Lalu?
+
+1289
+01:33:47,463 --> 01:33:50,840
+Meski kau pura-pura
+berpikiran sempit dan egois...
+
+1290
+01:33:50,841 --> 01:33:53,009
+Maaf. Aku tak berpura-pura.
+
+1291
+01:33:53,010 --> 01:33:55,178
+Aku memang egois dan berpikiran sempit.
+
+1292
+01:33:55,179 --> 01:33:57,180
+Yang benar. Kau tidak begitu.
+
+1293
+01:33:57,181 --> 01:33:58,974
+Jika itu benar, kau tak akan sedih.
+
+1294
+01:34:08,442 --> 01:34:09,443
+Baik.
+
+1295
+01:34:11,862 --> 01:34:14,198
+- Kalau kau tak mau bantuanku...
+- Aku mau.
+
+1296
+01:35:02,120 --> 01:35:03,872
+Apa yang tadi kau lakukan?
+
+1297
+01:35:06,625 --> 01:35:08,877
+Kenapa kau tidak melakukannya kepadaku?
+
+1298
+01:35:15,634 --> 01:35:16,635
+Kau berdarah.
+
+1299
+01:35:17,970 --> 01:35:18,971
+Benarkah?
+
+1300
+01:35:34,987 --> 01:35:35,988
+Nah.
+
+1301
+01:35:40,993 --> 01:35:42,785
+Kau tergores.
+
+1302
+01:35:42,786 --> 01:35:43,871
+Ya.
+
+1303
+01:35:47,207 --> 01:35:49,376
+Mungkin tercakar atau apalah.
+
+1304
+01:35:52,671 --> 01:35:53,839
+Aku harus ke tempat aman.
+
+1305
+01:35:54,965 --> 01:35:55,966
+Anak singa itu.
+
+1306
+01:35:57,134 --> 01:35:59,511
+- Bawa dia ke tempat aman.
+- Tentu.
+
+1307
+01:36:06,810 --> 01:36:07,811
+Fiyero.
+
+1308
+01:36:18,739 --> 01:36:20,824
+<i>Tangan bersentuhan</i>
+
+1309
+01:36:23,785 --> 01:36:26,205
+<i>Mata bertatapan</i>
+
+1310
+01:36:29,082 --> 01:36:32,252
+<i>Tiba-tiba terdiam</i>
+
+1311
+01:36:33,003 --> 01:36:36,048
+<i>Tiba-tiba bahagia</i>
+
+1312
+01:36:37,549 --> 01:36:44,348
+<i>Jantung berdegup cepat</i>
+
+1313
+01:36:45,057 --> 01:36:51,396
+<i>Mungkin dialah pria yang tepat</i>
+
+1314
+01:36:52,689 --> 01:36:58,445
+<i>Tapi aku bukan gadis yang tepat</i>
+
+1315
+01:36:59,112 --> 01:37:05,035
+<i>Jangan bermimpi terlalu jauh</i>
+
+1316
+01:37:05,744 --> 01:37:11,541
+<i>Jangan lupa akan siapa dirimu</i>
+
+1317
+01:37:11,542 --> 01:37:18,256
+<i>Jangan mengingat kebahagiaan itu</i>
+
+1318
+01:37:18,257 --> 01:37:24,679
+<i>Mungkin dialah pria yang tepat</i>
+
+1319
+01:37:24,680 --> 01:37:30,059
+<i>Tapi aku bukan gadis yang tepat</i>
+
+1320
+01:37:30,060 --> 01:37:34,188
+<i>Seringkali kita ingin sekali pergi</i>
+
+1321
+01:37:34,189 --> 01:37:38,526
+<i>Ke negeri yang penuh kemungkinan</i>
+
+1322
+01:37:38,527 --> 01:37:43,573
+<i>Tapi itu tidak meredakan sakit yang terasa</i>
+
+1323
+01:37:43,574 --> 01:37:49,329
+<i>Ketika kita kembali kepada kenyataan</i>
+
+1324
+01:37:51,165 --> 01:37:57,337
+<i>Senyum riang, tubuh menari-nari</i>
+
+1325
+01:37:57,963 --> 01:38:03,427
+<i>Dia yang menawan, dia yang memenangkannya</i>
+
+1326
+01:38:04,136 --> 01:38:10,224
+<i>Rambut emas dengan ikal lembut</i>
+
+1327
+01:38:10,225 --> 01:38:15,939
+<i>Itulah gadis yang dia pilih</i>
+
+1328
+01:38:16,565 --> 01:38:21,904
+<i>Dan surga tahu</i>
+
+1329
+01:38:22,905 --> 01:38:28,744
+<i>Aku bukan gadis yang tepat</i>
+
+1330
+01:38:32,706 --> 01:38:33,707
+Sayang!
+
+1331
+01:38:34,541 --> 01:38:36,668
+Astaga. Aku sangat khawatir.
+
+1332
+01:38:38,337 --> 01:38:42,800
+<i>Jangan berharap, jangan mulai</i>
+
+1333
+01:38:44,593 --> 01:38:49,765
+<i>Berharap hanya melukai hati</i>
+
+1334
+01:38:50,557 --> 01:38:57,564
+<i>Aku tidak ditakdirkan
+Untuk bunga dan perhiasan</i>
+
+1335
+01:38:59,274 --> 01:39:05,280
+<i>Ada seorang gadis yang kukenal</i>
+
+1336
+01:39:05,823 --> 01:39:10,160
+<i>Dia amat mencintainya</i>
+
+1337
+01:39:17,918 --> 01:39:24,424
+<i>Aku bukan gadis yang tepat</i>
+
+1338
+01:39:37,479 --> 01:39:39,022
+<i>Nona Elphaba!</i>
+
+1339
+01:39:39,648 --> 01:39:40,649
+<i>Kemari!</i>
+
+1340
+01:39:47,573 --> 01:39:48,740
+Di sana!
+
+1341
+01:39:51,285 --> 01:39:53,704
+Elphie, cepat ke sana. Ayo.
+
+1342
+01:39:58,292 --> 01:40:01,669
+Nona Elphaba,
+akhirnya ada kabar dari Ahli Sihir.
+
+1343
+01:40:01,670 --> 01:40:03,046
+Lihat!
+
+1344
+01:40:11,472 --> 01:40:12,972
+- Berhenti.
+- Aku tahu.
+
+1345
+01:40:12,973 --> 01:40:15,809
+Aku... tidak bisa.
+
+1346
+01:40:25,027 --> 01:40:26,236
+NONA ELPHABA THROPP
+
+1347
+01:40:27,237 --> 01:40:29,072
+Itu untukmu. Bukalah.
+
+1348
+01:40:35,829 --> 01:40:39,374
+"Oz Mulia,
+Ahli Sihir Oz Yang Hebat,
+
+1349
+01:40:40,375 --> 01:40:42,835
+memanggilmu untuk upacara
+paling bergengsi
+
+1350
+01:40:42,836 --> 01:40:46,048
+di istana pribadinya di Emerald City."
+
+1351
+01:40:46,673 --> 01:40:48,008
+Tunggu.
+
+1352
+01:40:48,550 --> 01:40:50,135
+"Undangan tak dapat dipindahtangankan."
+
+1353
+01:41:01,605 --> 01:41:04,525
+Ini kesempatanmu untuk sukses.
+
+1354
+01:41:05,818 --> 01:41:09,070
+Tentunya, kau harus
+membuktikan dirimu dahulu.
+
+1355
+01:41:09,071 --> 01:41:10,321
+Membuktikan diriku?
+
+1356
+01:41:10,322 --> 01:41:11,989
+Buktikan bahwa kau pantas.
+
+1357
+01:41:11,990 --> 01:41:15,786
+Sayang, ini adalah Ahli Sihir Oz.
+
+1358
+01:41:16,537 --> 01:41:18,704
+Jika dia akan
+mewujudkan keinginan hatimu...
+
+1359
+01:41:18,705 --> 01:41:20,874
+Bagaimana caranya? Aku...
+
+1360
+01:41:21,667 --> 01:41:23,501
+Aku belum siap. Ini terlalu cepat.
+
+1361
+01:41:23,502 --> 01:41:25,294
+Jangan pesimistis.
+
+1362
+01:41:25,295 --> 01:41:28,674
+Aku pun harus buktikan kekuatanku
+saat bertemu Ahli Sihir.
+
+1363
+01:41:29,216 --> 01:41:31,969
+Kau akan menemukan jalan.
+Aku percaya kepadamu.
+
+1364
+01:41:36,890 --> 01:41:40,102
+Jangan takut. Cuaca adalah keahlianku.
+
+1365
+01:41:43,147 --> 01:41:44,690
+Jangan sampai kau basah.
+
+1366
+01:41:45,357 --> 01:41:46,899
+Biar tanganku jadi payungmu.
+
+1367
+01:41:46,900 --> 01:41:49,069
+Rambutku. Terima kasih.
+
+1368
+01:41:57,452 --> 01:42:00,205
+Karena kau berada di puncak kejayaan.
+
+1369
+01:42:31,653 --> 01:42:35,156
+Naiklah untuk ke Emerald City!
+
+1370
+01:42:35,157 --> 01:42:37,910
+Ayah, ini Boq, pria yang kuceritakan.
+
+1371
+01:42:38,952 --> 01:42:41,954
+Ya. Gubernur Thropp, senang berkenalan.
+
+1372
+01:42:41,955 --> 01:42:44,248
+Aku banyak dengar tentang dirimu.
+
+1373
+01:42:44,249 --> 01:42:47,335
+Nessarose sangat berarti bagiku,
+
+1374
+01:42:47,336 --> 01:42:49,922
+jadi pastikan kau menjaganya.
+
+1375
+01:42:52,216 --> 01:42:53,592
+Aku mengerti.
+
+1376
+01:42:54,676 --> 01:42:55,719
+Bagus.
+
+1377
+01:42:57,554 --> 01:42:58,888
+Elphie!
+
+1378
+01:42:58,889 --> 01:43:00,348
+Elphie, keretanya tiba.
+
+1379
+01:43:00,349 --> 01:43:03,435
+Ada pria kecil berkumis yang lucu.
+Kau harus melihatnya.
+
+1380
+01:43:04,269 --> 01:43:06,230
+Elphie. Apa jadinya kami tanpamu?
+
+1381
+01:43:06,772 --> 01:43:08,189
+Kepergianku tak akan terasa.
+
+1382
+01:43:08,190 --> 01:43:09,274
+Ada Fiyero.
+
+1383
+01:43:10,192 --> 01:43:11,901
+Bicara soal Fiyero, di mana dia?
+
+1384
+01:43:11,902 --> 01:43:13,986
+Aku tak berharap dia datang,
+
+1385
+01:43:13,987 --> 01:43:16,489
+kami tidak terlalu saling kenal.
+
+1386
+01:43:16,490 --> 01:43:18,741
+Aku juga tidak mengenalinya lagi.
+
+1387
+01:43:18,742 --> 01:43:20,244
+Dia berbeda.
+
+1388
+01:43:21,453 --> 01:43:23,497
+Dia menutup diri dan murung.
+
+1389
+01:43:25,040 --> 01:43:27,292
+Dia sedang berpikir,
+
+1390
+01:43:28,043 --> 01:43:29,294
+dan itu membuatku cemas.
+
+1391
+01:43:30,212 --> 01:43:32,046
+Dimulai sejak Dr. Dillamond dipecat.
+
+1392
+01:43:32,047 --> 01:43:34,716
+Siapa menduga dia peduli kambing tua itu?
+
+1393
+01:43:35,759 --> 01:43:37,343
+Lihat. Dia datang.
+
+1394
+01:43:37,344 --> 01:43:38,594
+Kekasihku.
+
+1395
+01:43:38,595 --> 01:43:41,682
+Kami di sini, Sayang. Kemarilah.
+
+1396
+01:43:42,224 --> 01:43:43,225
+Hai.
+
+1397
+01:43:45,144 --> 01:43:47,229
+- Elphaba.
+- Fiyero.
+
+1398
+01:43:49,106 --> 01:43:50,274
+Aku turut senang.
+
+1399
+01:43:50,858 --> 01:43:51,859
+Terima kasih.
+
+1400
+01:43:52,484 --> 01:43:55,319
+Ya. Kami sangat bahagia.
+
+1401
+01:43:55,320 --> 01:43:58,698
+- Aku sedang berpikir...
+- Ya. Kudengar begitu.
+
+1402
+01:43:58,699 --> 01:44:01,660
+...tentang anak singa dan Dr. Dillamond.
+
+1403
+01:44:03,579 --> 01:44:05,080
+Aku memikirkan hari itu.
+
+1404
+01:44:06,206 --> 01:44:07,499
+Aku juga.
+
+1405
+01:44:14,256 --> 01:44:15,466
+Aku juga.
+
+1406
+01:44:16,300 --> 01:44:17,676
+Aku juga.
+
+1407
+01:44:18,719 --> 01:44:20,304
+Aku terus memikirkannya.
+
+1408
+01:44:20,804 --> 01:44:22,514
+Dr. Dillamond yang malang.
+
+1409
+01:44:23,432 --> 01:44:25,350
+Membuatku jadi ingin...
+
+1410
+01:44:27,186 --> 01:44:28,562
+buka suara.
+
+1411
+01:44:30,105 --> 01:44:32,356
+Bahkan, permisi.
+
+1412
+01:44:32,357 --> 01:44:36,028
+Teman-teman. Aku punya pengumuman.
+
+1413
+01:44:40,491 --> 01:44:42,618
+Aku mengganti namaku.
+
+1414
+01:44:43,911 --> 01:44:44,912
+- Apa?
+- Apa?
+
+1415
+01:44:45,621 --> 01:44:47,246
+- Namamu?
+- Ya.
+
+1416
+01:44:47,247 --> 01:44:49,081
+- Kau yakin?
+- Ya.
+
+1417
+01:44:49,082 --> 01:44:53,961
+Karena Dr. Dillamond punya cara sendiri
+untuk mengucapkan namaku,
+
+1418
+01:44:53,962 --> 01:44:55,463
+sebagai bentuk solidaritas
+
+1419
+01:44:55,464 --> 01:44:58,966
+dan untuk mengungkapkan kemarahanku,
+
+1420
+01:44:58,967 --> 01:45:02,763
+mulai sekarang namaku
+bukan lagi "Galinda,"
+
+1421
+01:45:04,223 --> 01:45:05,390
+melainkan cukup...
+
+1422
+01:45:08,435 --> 01:45:09,603
+Glinda.
+
+1423
+01:45:10,437 --> 01:45:11,438
+Tepuk tangan!
+
+1424
+01:45:12,147 --> 01:45:14,232
+- Dia baik sekali.
+- Benar.
+
+1425
+01:45:14,233 --> 01:45:16,443
+Sungguh pemberani.
+
+1426
+01:45:19,321 --> 01:45:20,155
+Glinda!
+
+1427
+01:45:21,490 --> 01:45:24,992
+Bukan lagi Galinda, mulai sekarang Glinda!
+
+1428
+01:45:24,993 --> 01:45:26,870
+Glinda, kau luar biasa!
+
+1429
+01:45:29,373 --> 01:45:30,374
+Glinda!
+
+1430
+01:45:44,388 --> 01:45:45,556
+Semoga berhasil.
+
+1431
+01:45:52,980 --> 01:45:54,898
+Lihat? Itu.
+
+1432
+01:45:55,816 --> 01:45:57,150
+Apa itu?
+
+1433
+01:45:57,151 --> 01:45:58,234
+Jangan marah, Galinda.
+
+1434
+01:45:58,235 --> 01:46:01,154
+Sekarang "Glinda." Bodoh.
+Entah kenapa aku mengatakan itu.
+
+1435
+01:46:01,155 --> 01:46:02,530
+Namamu tak penting.
+
+1436
+01:46:02,531 --> 01:46:04,782
+- Semua menyukaimu.
+- Aku tak peduli.
+
+1437
+01:46:04,783 --> 01:46:06,034
+Aku menginginkan dia.
+
+1438
+01:46:07,202 --> 01:46:09,830
+Dia tidak lagi sempurna,
+tapi aku masih menginginkannya.
+
+1439
+01:46:10,581 --> 01:46:12,666
+Ini pasti yang dirasakan orang lain.
+
+1440
+01:46:13,750 --> 01:46:14,960
+Bagaimana cara menanggungnya?
+
+1441
+01:46:16,420 --> 01:46:19,714
+Naiklah untuk ke Emerald City!
+
+1442
+01:46:19,715 --> 01:46:20,966
+Pria berkumis.
+
+1443
+01:46:21,717 --> 01:46:23,468
+Ayo. Keretanya.
+
+1444
+01:46:23,469 --> 01:46:25,637
+BUAT SHIZ BANGGA!
+
+1445
+01:46:26,763 --> 01:46:27,723
+Terima kasih.
+
+1446
+01:46:33,896 --> 01:46:35,731
+Ya! Kami mencintaimu!
+
+1447
+01:46:49,536 --> 01:46:51,829
+- Menjauh dari pintu!
+- Selamat jalan!
+
+1448
+01:46:51,830 --> 01:46:54,458
+NIKMATI PERJALANANMU!
+
+1449
+01:46:58,629 --> 01:47:00,380
+Tunggu. Permisi.
+
+1450
+01:47:01,423 --> 01:47:03,884
+Elphie, ini. Aku lupa memberimu ini.
+
+1451
+01:47:05,928 --> 01:47:07,179
+Selamat jalan.
+
+1452
+01:47:09,932 --> 01:47:13,685
+{\an8}SEMOGA KEINGINAN HATIMU TERWUJUD
+- GALINDA
+
+1453
+01:47:16,021 --> 01:47:17,939
+- Ikut aku.
+- Apa?
+
+1454
+01:47:17,940 --> 01:47:19,023
+Menemui Ahli Sihir.
+
+1455
+01:47:19,024 --> 01:47:20,566
+Apa maksudmu?
+
+1456
+01:47:20,567 --> 01:47:22,652
+Naiklah. Nanti kau tertinggal.
+
+1457
+01:47:22,653 --> 01:47:23,945
+Aku tak mau merepotkan.
+
+1458
+01:47:23,946 --> 01:47:25,738
+Tak masalah. Ikut aku.
+
+1459
+01:47:25,739 --> 01:47:28,158
+Tidak. Ini momen pentingmu.
+Aku ikut.
+
+1460
+01:47:46,677 --> 01:47:49,470
+<i>Satu hari yang singkat</i>
+
+1461
+01:47:49,471 --> 01:47:53,683
+<i>Jika kau hanya punya
+Jika kau hanya punya</i>
+
+1462
+01:47:53,684 --> 01:47:59,606
+<i>Satu hari yang singkat</i>
+
+1463
+01:48:00,357 --> 01:48:05,320
+<i>Satu hari yang singkat
+Di Emerald City</i>
+
+1464
+01:48:06,238 --> 01:48:08,406
+<i>Kita tiba di Stasiun Emerald City.</i>
+
+1465
+01:48:08,407 --> 01:48:14,745
+<i>Satu hari yang singkat
+Di Emerald City</i>
+
+1466
+01:48:14,746 --> 01:48:16,372
+<i>- Satu hari yang singkat
+- Satu hari yang singkat</i>
+
+1467
+01:48:16,373 --> 01:48:18,542
+<i>- Satu hari yang singkat
+- Satu hari...</i>
+
+1468
+01:48:18,959 --> 01:48:21,128
+<i>Yang singkat</i>
+
+1469
+01:48:21,587 --> 01:48:28,593
+<i>Di Emerald City</i>
+
+1470
+01:48:28,594 --> 01:48:33,473
+<i>Emerald City</i>
+
+1471
+01:48:33,474 --> 01:48:37,435
+<i>Satu hari yang singkat
+Di Emerald City</i>
+
+1472
+01:48:37,436 --> 01:48:41,397
+<i>Satu hari yang singkat
+Tapi banyak yang dilakukan</i>
+
+1473
+01:48:41,398 --> 01:48:45,151
+<i>Ke mana pun
+Kau memandang di kota ini</i>
+
+1474
+01:48:45,152 --> 01:48:49,113
+<i>Ada sesuatu yang indah
+Yang ingin kau kunjungi</i>
+
+1475
+01:48:49,114 --> 01:48:51,450
+<i>Sebelum hari ini berakhir</i>
+
+1476
+01:48:52,951 --> 01:48:55,119
+<i>Ada bangunan setinggi pohon Quoxwood</i>
+
+1477
+01:48:55,120 --> 01:48:57,330
+<i>- Toko gaun
+- Dan perpustakaan</i>
+
+1478
+01:48:57,331 --> 01:48:58,831
+<i>- Istana
+- Museum</i>
+
+1479
+01:48:58,832 --> 01:49:01,167
+<i>Ada begitu banyak</i>
+
+1480
+01:49:01,168 --> 01:49:03,586
+<i>Ada keajaiban yang belum pernah kulihat</i>
+
+1481
+01:49:03,587 --> 01:49:05,463
+<i>- Semuanya memukau
+- Semuanya hijau</i>
+
+1482
+01:49:05,464 --> 01:49:08,674
+<i>Kurasa kita menemukan
+Tempat yang cocok untuk kita</i>
+
+1483
+01:49:08,675 --> 01:49:13,429
+<i>Aku ingin berada di tengah mereka</i>
+
+1484
+01:49:13,430 --> 01:49:15,473
+<i>Kelak aku akan tinggal di sini</i>
+
+1485
+01:49:15,474 --> 01:49:17,558
+<i>Untuk tinggal dan menjalani hidupku</i>
+
+1486
+01:49:17,559 --> 01:49:23,773
+<i>Tapi untuk hari ini
+Cukup lihat-lihat dan nikmati</i>
+
+1487
+01:49:23,774 --> 01:49:27,777
+<i>Satu hari yang singkat
+Di Emerald City</i>
+
+1488
+01:49:27,778 --> 01:49:31,614
+<i>Satu hari yang singkat
+Untuk kesenangan seumur hidup</i>
+
+1489
+01:49:31,615 --> 01:49:33,115
+<i>Satu hari yang singkat</i>
+
+1490
+01:49:33,116 --> 01:49:35,660
+<i>Kami mengingatkan kota ini</i>
+
+1491
+01:49:35,661 --> 01:49:39,372
+<i>Setelah kami di sini
+Kau akan tahu kami pernah di sini</i>
+
+1492
+01:49:39,373 --> 01:49:42,500
+<i>Sebelum kami pergi</i>
+
+1493
+01:49:42,501 --> 01:49:47,463
+<i>Mempersembahkan kisah nyata
+Ahli Sihir Oz kita yang hebat,</i>
+
+1494
+01:49:47,464 --> 01:49:49,883
+<i>dibintangi para Pemain Emerald City.</i>
+
+1495
+01:49:50,425 --> 01:49:55,680
+<i>Dahulu kala
+Pada masa yang terlupakan</i>
+
+1496
+01:49:55,681 --> 01:50:01,103
+<i>Tinggal di Oz
+Seorang penyihir yang bijak</i>
+
+1497
+01:50:03,438 --> 01:50:06,399
+<i>Seorang penyihir yang bijak</i>
+
+1498
+01:50:06,400 --> 01:50:09,611
+<i>- Paling bijak dari semuanya.
+- Paling bijak dari semuanya.</i>
+
+1499
+01:50:17,703 --> 01:50:22,290
+<i>Kita tidak hidup selamanya
+Itu bisa aku ramalkan</i>
+
+1500
+01:50:22,291 --> 01:50:25,793
+<i>Jadi mari catat semua sihir kita</i>
+
+1501
+01:50:25,794 --> 01:50:28,212
+<i>Dalam bahasa aneh dan rahasia</i>
+
+1502
+01:50:28,213 --> 01:50:29,881
+<i>Dalam sebuah buku</i>
+
+1503
+01:50:29,882 --> 01:50:32,633
+<i>Bernama Grimmerie</i>
+
+1504
+01:50:32,634 --> 01:50:36,429
+<i>Grimmerie</i>
+
+1505
+01:50:36,430 --> 01:50:41,267
+<i>Namun, waktu terus berjalan hari demi hari</i>
+
+1506
+01:50:41,268 --> 01:50:46,272
+<i>Semua yang dapat membacanya
+Sudah tiada</i>
+
+1507
+01:50:46,273 --> 01:50:50,777
+<i>Sampai tidak ada sama sekali</i>
+
+1508
+01:50:51,612 --> 01:50:55,407
+Namun, Yang Bijak
+meninggalkan sebuah ramalan.
+
+1509
+01:50:57,784 --> 01:51:00,329
+<i>Ketika Oz dalam masa paling kelam</i>
+
+1510
+01:51:00,871 --> 01:51:03,372
+<i>Kita tidak tahu kapan</i>
+
+1511
+01:51:03,373 --> 01:51:07,043
+<i>Akan datang seseorang dengan kemampuan</i>
+
+1512
+01:51:07,044 --> 01:51:11,631
+<i>Untuk membaca Grimmerie lagi</i>
+
+1513
+01:51:11,632 --> 01:51:15,134
+<i>Dan Oz yang menyedihkan dan membosankan</i>
+
+1514
+01:51:15,135 --> 01:51:17,596
+<i>Akan kembali menyanyi dengan sukacita</i>
+
+1515
+01:51:22,893 --> 01:51:24,061
+Lihat.
+
+1516
+01:51:26,563 --> 01:51:30,150
+Pria naik balon datang dari langit.
+
+1517
+01:51:30,859 --> 01:51:33,569
+Mungkin dia datang
+untuk memenuhi ramalan,
+
+1518
+01:51:33,570 --> 01:51:36,113
+tetapi apa dia bisa membaca Grimmerie?
+
+1519
+01:51:36,114 --> 01:51:41,286
+<i>Orang yang datang dengan tiba-tiba
+Diakah yang diramalkan?</i>
+
+1520
+01:51:41,995 --> 01:51:45,373
+<i>Ada satu cara untuk membuktikannya</i>
+
+1521
+01:51:45,374 --> 01:51:49,253
+<i>Ambil Grimmerie</i>
+
+1522
+01:51:53,549 --> 01:52:00,096
+"Omaha. Omaha."
+
+1523
+01:52:00,097 --> 01:52:03,392
+Dia bisa membacanya! Dia pasti...
+
+1524
+01:52:04,476 --> 01:52:05,894
+seorang Ahli Sihir.
+
+1525
+01:52:06,478 --> 01:52:09,689
+<i>Ramalan terpenuhi.</i>
+
+1526
+01:52:09,690 --> 01:52:13,067
+<i>Dia akan membawa kebahagiaan</i>
+
+1527
+01:52:13,068 --> 01:52:18,322
+<i>Kini setiap warga Oz
+Mengangkat suara dan bernyanyi</i>
+
+1528
+01:52:18,323 --> 01:52:24,705
+<i>Dan bernyanyi, dan bernyanyi</i>
+
+1529
+01:52:25,998 --> 01:52:27,790
+<i>Siapa penyihir</i>
+
+1530
+01:52:27,791 --> 01:52:32,128
+<i>Yang perjalanannya
+Membuat Oz lebih meriah?</i>
+
+1531
+01:52:32,129 --> 01:52:34,005
+<i>Siapa orang bijak</i>
+
+1532
+01:52:34,006 --> 01:52:38,509
+<i>Yang dengan bijak datang
+Untuk menyelamatkan kita?</i>
+
+1533
+01:52:38,510 --> 01:52:42,138
+<i>Yang antusias naik balon udara</i>
+
+1534
+01:52:42,139 --> 01:52:44,933
+<i>Dan membuat seluruh Oz bahagia?</i>
+
+1535
+01:52:47,394 --> 01:52:51,397
+<i>Bukankah dia hebat?
+Ahli Sihir kita yang hebat?</i>
+
+1536
+01:52:51,398 --> 01:52:54,025
+<i>- Satu hari yang singkat
+- Siapa penyihir yang perjalanannya</i>
+
+1537
+01:52:54,026 --> 01:52:57,987
+<i>- Di Emerald City
+- Membuat seluruh Oz lebih meriah?</i>
+
+1538
+01:52:57,988 --> 01:53:01,240
+<i>- Satu hari yang singkat
+- Siapa orang bijak yang dengan bijak</i>
+
+1539
+01:53:01,241 --> 01:53:04,785
+<i>- Untuk kesenangan seumur hidup
+- Datang untuk menyelamatkan kita?</i>
+
+1540
+01:53:04,786 --> 01:53:10,625
+<i>Ini cara terbaik
+Untuk melihat kota</i>
+
+1541
+01:53:10,626 --> 01:53:12,753
+<i>Banyak orang di mana-mana</i>
+
+1542
+01:53:15,047 --> 01:53:17,633
+<i>Kita akan menyebutnya rumah juga</i>
+
+1543
+01:53:18,926 --> 01:53:23,763
+<i>Lalu, seperti sekarang, kita bisa katakan</i>
+
+1544
+01:53:23,764 --> 01:53:26,516
+<i>Kita hanya dua teman</i>
+
+1545
+01:53:26,517 --> 01:53:29,060
+<i>Dua teman baik</i>
+
+1546
+01:53:29,061 --> 01:53:32,648
+<i>Dua teman terbaik</i>
+
+1547
+01:53:35,651 --> 01:53:37,693
+<i>Berbagi satu hari</i>
+
+1548
+01:53:37,694 --> 01:53:41,406
+<i>Satu hari yang...</i>
+
+1549
+01:53:49,665 --> 01:53:52,543
+UNDANGAN DARI
+AHLI SIHIR OZ YANG HEBAT
+
+1550
+01:53:53,418 --> 01:53:55,629
+Ahli Sihir akan menemuimu sekarang.
+
+1551
+01:53:56,213 --> 01:53:59,842
+<i>Singkat</i>
+
+1552
+01:54:50,517 --> 01:54:51,351
+Halo.
+
+1553
+01:55:16,168 --> 01:55:17,211
+Elphaba Thropp.
+
+1554
+01:55:17,836 --> 01:55:19,337
+Dengarkan.
+
+1555
+01:55:19,338 --> 01:55:20,923
+Kau pasti bisa.
+
+1556
+01:55:21,799 --> 01:55:24,885
+Kau bisa melakukan apa saja.
+
+1557
+01:56:02,339 --> 01:56:04,383
+- Suara apa itu?
+- Aku tidak tahu.
+
+1558
+01:56:06,760 --> 01:56:08,845
+- Tidak.
+- Ayo.
+
+1559
+01:56:08,846 --> 01:56:11,223
+- Ayo. Elphaba.
+- Aku tidak...
+
+1560
+01:56:15,102 --> 01:56:19,814
+Aku adalah Oz.
+
+1561
+01:56:19,815 --> 01:56:21,232
+Elphie.
+
+1562
+01:56:21,233 --> 01:56:26,029
+Aku Oz, Penyihir Yang Hebat dan Dahsyat.
+
+1563
+01:56:27,364 --> 01:56:28,990
+Kau siapa?
+
+1564
+01:56:28,991 --> 01:56:33,327
+Kenapa kau mencariku?
+
+1565
+01:56:33,328 --> 01:56:35,872
+Elphie. Katakan sesuatu.
+
+1566
+01:56:35,873 --> 01:56:37,415
+- Katakan apa?
+- Apa saja.
+
+1567
+01:56:37,416 --> 01:56:39,668
+Katakan sesuatu.
+
+1568
+01:56:40,210 --> 01:56:42,379
+Katakan sesuatu.
+
+1569
+01:56:43,755 --> 01:56:45,340
+Namaku Elphaba Thropp.
+
+1570
+01:56:46,467 --> 01:56:47,467
+Oz Mulia.
+
+1571
+01:56:47,468 --> 01:56:48,843
+Ini...
+
+1572
+01:56:48,844 --> 01:56:50,846
+Elphaba, kaukah itu?
+
+1573
+01:56:54,975 --> 01:56:56,350
+Elphaba Thropp?
+
+1574
+01:56:56,351 --> 01:56:57,435
+Seorang pria.
+
+1575
+01:56:57,436 --> 01:56:59,145
+Elphaba Thropp?
+
+1576
+01:56:59,146 --> 01:57:00,606
+Aku tak tahu itu kau.
+
+1577
+01:57:01,148 --> 01:57:02,649
+Kau datang.
+
+1578
+01:57:04,359 --> 01:57:08,405
+Maaf soal itu.
+Aku tak bermaksud menakutimu.
+
+1579
+01:57:10,115 --> 01:57:13,660
+Aku tak bisa mengenali orang
+dari belakang sana.
+
+1580
+01:57:14,912 --> 01:57:15,996
+Aku senang...
+
+1581
+01:57:16,788 --> 01:57:18,290
+Aku senang bertemu denganmu...
+
+1582
+01:57:22,503 --> 01:57:24,712
+- Senang... Tunggu. Apa itu?
+- Apa?
+
+1583
+01:57:24,713 --> 01:57:26,881
+- Maaf. Boleh?
+- Tentu. Ya.
+
+1584
+01:57:26,882 --> 01:57:28,217
+Tenanglah.
+
+1585
+01:57:31,887 --> 01:57:34,096
+Untukmu. Tamu istimewaku.
+
+1586
+01:57:34,097 --> 01:57:37,809
+Kenang-kenangan
+yang dapat kau hargai seumur hidupmu.
+
+1587
+01:57:37,810 --> 01:57:41,396
+Kau baik sekali, Oz Mulia. Terima kasih.
+
+1588
+01:57:42,147 --> 01:57:45,776
+Ini adalah tambahan tak terduga...
+
+1589
+01:57:46,401 --> 01:57:47,693
+Hai. Siapa namamu?
+
+1590
+01:57:47,694 --> 01:57:49,071
+Glinda.
+
+1591
+01:57:50,197 --> 01:57:51,490
+"Ga" tidak dibaca.
+
+1592
+01:57:52,032 --> 01:57:53,700
+Halo, Belinda.
+
+1593
+01:57:54,701 --> 01:57:56,829
+Kau sedang melihat apa? Oh, ya.
+
+1594
+01:57:57,913 --> 01:58:00,290
+Entahlah. Kurasa agak berlebihan.
+
+1595
+01:58:00,791 --> 01:58:03,501
+Namun, orang mengharapkan
+hal semacam itu.
+
+1596
+01:58:03,502 --> 01:58:05,838
+<i>Dan kau harus memberikan</i>
+
+1597
+01:58:06,880 --> 01:58:08,881
+<i>Yang orang inginkan</i>
+
+1598
+01:58:08,882 --> 01:58:10,716
+Itu bagus. Terima kasih.
+
+1599
+01:58:10,717 --> 01:58:15,221
+Jika menurutmu itu menarik,
+tunggu sampai kau melihat ini.
+
+1600
+01:58:15,222 --> 01:58:19,601
+Kupersembahkan masa depan Oz.
+
+1601
+01:58:25,107 --> 01:58:27,484
+Ya.
+
+1602
+01:58:29,111 --> 01:58:31,320
+Entah apakah matamu sudah melihat
+
+1603
+01:58:31,321 --> 01:58:33,531
+jalan yang panjang dan berliku ini.
+
+1604
+01:58:33,532 --> 01:58:34,615
+Kau lihat itu?
+
+1605
+01:58:34,616 --> 01:58:36,368
+Orang butuh arahan.
+
+1606
+01:58:36,869 --> 01:58:37,869
+Saat semua ini dibangun,
+
+1607
+01:58:37,870 --> 01:58:42,206
+semua akan selalu ingat
+bahwa jika kau mengikuti jalannya...
+
+1608
+01:58:42,207 --> 01:58:43,833
+Ikuti jalannya.
+
+1609
+01:58:43,834 --> 01:58:47,171
+Itu akan menuntunmu kepadaku.
+
+1610
+01:58:48,046 --> 01:58:49,464
+Belakangan ini, aku agak buntu
+
+1611
+01:58:49,465 --> 01:58:52,717
+memikirkan warna apa
+yang cocok untuk batu jalanannya.
+
+1612
+01:58:52,718 --> 01:58:55,219
+Maka, kubuat alat ini,
+
+1613
+01:58:55,220 --> 01:58:57,264
+untuk melakukan itu.
+
+1614
+01:58:58,098 --> 01:59:00,892
+Elphaba, cobalah.
+
+1615
+01:59:00,893 --> 01:59:02,519
+Tentu. Mari kita coba.
+
+1616
+01:59:05,981 --> 01:59:07,774
+Kalau hijau?
+
+1617
+01:59:10,068 --> 01:59:11,653
+Kuning.
+
+1618
+01:59:12,237 --> 01:59:13,739
+Mungkin ungu.
+
+1619
+01:59:14,656 --> 01:59:17,283
+Tunggu. Mundur satu.
+
+1620
+01:59:17,284 --> 01:59:18,743
+Kuning, sungguh?
+
+1621
+01:59:18,744 --> 01:59:19,870
+Ya.
+
+1622
+01:59:20,621 --> 01:59:22,079
+Warna yang cocok untuk jalan.
+
+1623
+01:59:22,080 --> 01:59:23,248
+Coba kulihat.
+
+1624
+01:59:24,124 --> 01:59:25,125
+Dan...
+
+1625
+01:59:26,084 --> 01:59:27,377
+Jalan bata kuning?
+
+1626
+01:59:28,587 --> 01:59:29,922
+Entahlah.
+
+1627
+01:59:30,506 --> 01:59:31,714
+Hei. Kemarilah.
+
+1628
+01:59:31,715 --> 01:59:34,592
+Masuklah ke ruang karyaku.
+
+1629
+01:59:34,593 --> 01:59:36,344
+Naiklah. Lihat ini.
+
+1630
+01:59:36,345 --> 01:59:41,725
+Kita berada di sini,
+kalau kita buka, di dalam...
+
+1631
+01:59:42,559 --> 01:59:43,559
+Itu kau.
+
+1632
+01:59:43,560 --> 01:59:44,769
+Ini aku.
+
+1633
+01:59:44,770 --> 01:59:46,229
+Ya, ini aku.
+
+1634
+01:59:46,230 --> 01:59:47,480
+Aku suka. Mestinya tidak.
+
+1635
+01:59:47,481 --> 01:59:48,940
+Aku sendirian di sini.
+
+1636
+01:59:48,941 --> 01:59:50,484
+Sudahlah. Aku tidak...
+
+1637
+01:59:52,194 --> 01:59:53,194
+Aku lupa.
+
+1638
+01:59:53,195 --> 01:59:55,363
+Jika kepalaku tidak menempel, aku bisa...
+
+1639
+01:59:55,364 --> 01:59:58,407
+Bisa tertinggal di Munchkinland.
+
+1640
+01:59:58,408 --> 02:00:00,702
+Tahu apa yang kubuat? Lihat. Khusus.
+
+1641
+02:00:04,623 --> 02:00:06,040
+Simpanlah.
+
+1642
+02:00:06,041 --> 02:00:08,292
+Aku serius. Simpan untuk selamanya.
+
+1643
+02:00:08,293 --> 02:00:11,379
+Mungkin kelak, siapa yang tahu?
+
+1644
+02:00:11,380 --> 02:00:16,634
+Mungkin kita taruh artefak kecilmu
+persis di sebelah artefak kecilku.
+
+1645
+02:00:16,635 --> 02:00:17,844
+Mungkin suatu hari
+
+1646
+02:00:17,845 --> 02:00:22,057
+kau akan menetap di istana ini.
+
+1647
+02:00:25,060 --> 02:00:26,061
+Elphie.
+
+1648
+02:00:28,522 --> 02:00:30,064
+Dia hijau.
+
+1649
+02:00:30,065 --> 02:00:31,316
+Yah...
+
+1650
+02:00:31,942 --> 02:00:33,860
+tidak harus hijau.
+
+1651
+02:00:33,861 --> 02:00:36,738
+Itukah keinginan hatimu?
+
+1652
+02:00:46,957 --> 02:00:48,000
+Tidak.
+
+1653
+02:00:51,462 --> 02:00:52,504
+Tidak.
+
+1654
+02:00:54,756 --> 02:00:57,134
+Aku ingin kau menolong hewan-hewan.
+
+1655
+02:00:57,843 --> 02:01:00,262
+Sesuatu yang buruk terjadi
+dan mereka butuh kau.
+
+1656
+02:01:01,054 --> 02:01:03,306
+Aku punya firasat
+kau akan mengatakan itu.
+
+1657
+02:01:03,307 --> 02:01:05,349
+Aku setuju sepenuhnya.
+
+1658
+02:01:05,350 --> 02:01:07,727
+Wah, ini luar biasa.
+
+1659
+02:01:07,728 --> 02:01:11,523
+Seakan-akan aku sudah mengenalmu.
+
+1660
+02:01:12,900 --> 02:01:14,318
+Aku tahu kau akan mengerti.
+
+1661
+02:01:15,569 --> 02:01:18,070
+Itu membuatku bahagia.
+
+1662
+02:01:18,071 --> 02:01:22,493
+Itu yang paling kusuka.
+Membuat orang bahagia.
+
+1663
+02:01:25,162 --> 02:01:27,664
+<i>Aku adalah pria yang sentimental</i>
+
+1664
+02:01:28,540 --> 02:01:33,128
+<i>Yang selalu ingin jadi seorang ayah</i>
+
+1665
+02:01:34,379 --> 02:01:38,049
+<i>Itu sebabnya kulakukan yang terbaik</i>
+
+1666
+02:01:38,050 --> 02:01:43,347
+<i>Memperlakukan tiap warga Oz bagai putraku</i>
+
+1667
+02:01:44,181 --> 02:01:45,390
+<i>Atau putriku</i>
+
+1668
+02:01:46,850 --> 02:01:52,396
+<i>Elphaba, aku ingin mengangkatmu tinggi</i>
+
+1669
+02:01:52,397 --> 02:01:59,488
+<i>Karena menurutku semua orang
+Pantas dapat kesempatan untuk terbang</i>
+
+1670
+02:02:04,284 --> 02:02:07,954
+<i>Bisa membantumu untuk sukses</i>
+
+1671
+02:02:07,955 --> 02:02:11,750
+<i>Membuatku merasa seperti...</i>
+
+1672
+02:02:13,752 --> 02:02:15,629
+<i>Orang tua</i>
+
+1673
+02:02:18,590 --> 02:02:24,221
+<i>Karena aku...</i>
+
+1674
+02:02:25,597 --> 02:02:29,893
+<i>Pria yang...</i>
+
+1675
+02:02:33,105 --> 02:02:36,316
+<i>Sentimental</i>
+
+1676
+02:03:03,218 --> 02:03:05,471
+Baiklah, cukup.
+
+1677
+02:03:06,513 --> 02:03:07,556
+Singkirkan bulan.
+
+1678
+02:03:09,641 --> 02:03:10,684
+Itu...
+
+1679
+02:03:13,061 --> 02:03:14,353
+- Benar.
+- Benar.
+
+1680
+02:03:14,354 --> 02:03:17,441
+Madam Morrible, kenapa kau di sini?
+
+1681
+02:03:18,650 --> 02:03:20,651
+Sayang.
+
+1682
+02:03:20,652 --> 02:03:22,738
+Aku tak mau melewatkan momen pentingmu.
+
+1683
+02:03:28,368 --> 02:03:30,662
+Kulihat kau juga tak mau melewatkannya.
+
+1684
+02:03:31,205 --> 02:03:32,206
+Aku...
+
+1685
+02:03:42,841 --> 02:03:43,884
+Aku tak percaya.
+
+1686
+02:03:44,510 --> 02:03:46,011
+Itu Grimmerie?
+
+1687
+02:03:46,887 --> 02:03:47,888
+Ya.
+
+1688
+02:03:49,431 --> 02:03:54,269
+Itu kitab kuno tentang kearifan,
+ilmu sihir, dan ilmu gaib.
+
+1689
+02:04:06,281 --> 02:04:07,616
+Boleh kusentuh?
+
+1690
+02:04:09,034 --> 02:04:10,035
+Tidak.
+
+1691
+02:04:11,829 --> 02:04:13,830
+Tunggu.
+
+1692
+02:04:13,831 --> 02:04:15,498
+Mungkin dia belum siap.
+
+1693
+02:04:15,499 --> 02:04:20,170
+Merapal mantra dengan Grimmerie
+bukan hal mudah.
+
+1694
+02:04:20,963 --> 02:04:22,255
+Aku tahu itu.
+
+1695
+02:04:22,256 --> 02:04:24,298
+Kau benar. Jangan mendesaknya.
+
+1696
+02:04:24,299 --> 02:04:26,259
+Mungkin cukup untuk hari ini.
+
+1697
+02:04:26,260 --> 02:04:27,677
+Tidak.
+
+1698
+02:04:27,678 --> 02:04:28,804
+Kumohon.
+
+1699
+02:04:29,888 --> 02:04:31,056
+Biar kucoba.
+
+1700
+02:04:32,224 --> 02:04:33,684
+Biar kubuktikan diriku.
+
+1701
+02:04:34,852 --> 02:04:35,686
+Yah...
+
+1702
+02:04:59,293 --> 02:05:00,710
+Demi Oz.
+
+1703
+02:05:00,711 --> 02:05:02,671
+Kitabnya terbuka untuk dia.
+
+1704
+02:05:16,268 --> 02:05:18,769
+Kau akan mulai dari mantra apa?
+
+1705
+02:05:18,770 --> 02:05:21,522
+Kami sudah berlatih levitasi.
+
+1706
+02:05:21,523 --> 02:05:25,276
+Levitasi? Itu menarik.
+
+1707
+02:05:25,277 --> 02:05:28,864
+Apa kau tahu bahwa Chistery...
+
+1708
+02:05:29,907 --> 02:05:32,575
+Kalian sudah kenal Chistery,
+
+1709
+02:05:32,576 --> 02:05:35,496
+pemimpin Penjaga Emerald?
+
+1710
+02:05:36,038 --> 02:05:37,330
+Senang berkenalan.
+
+1711
+02:05:37,331 --> 02:05:39,165
+Dia tidak suka mengakuinya.
+
+1712
+02:05:39,166 --> 02:05:40,918
+Dia tak suka bicara tentang dirinya.
+
+1713
+02:05:41,627 --> 02:05:46,589
+Namun, dia sangat suka mengamati burung
+
+1714
+02:05:46,590 --> 02:05:48,258
+setiap pagi.
+
+1715
+02:05:48,801 --> 02:05:49,635
+Burung?
+
+1716
+02:05:51,220 --> 02:05:53,806
+- Bagaimana aku bisa menolongnya?
+- Elphie, lihat.
+
+1717
+02:06:01,522 --> 02:06:02,856
+Itu kata-kata?
+
+1718
+02:06:05,400 --> 02:06:07,318
+Bahasa yang hilang.
+
+1719
+02:06:07,319 --> 02:06:10,239
+Mantra dengan bahasa yang hilang.
+
+1720
+02:06:10,781 --> 02:06:14,201
+Jangan berkecil hati
+jika kau tidak memahaminya.
+
+1721
+02:06:14,993 --> 02:06:18,996
+Aku sendiri hanya bisa
+membaca satu atau dua kata,
+
+1722
+02:06:18,997 --> 02:06:20,749
+itu pun butuh tahunan.
+
+1723
+02:06:26,463 --> 02:06:28,173
+- Oh, Elphie.
+- Terpujilah Oz.
+
+1724
+02:06:47,734 --> 02:06:48,902
+Sudah kubilang.
+
+1725
+02:07:03,417 --> 02:07:04,710
+Chistery, kau baik-baik saja?
+
+1726
+02:07:05,252 --> 02:07:06,503
+Chistery?
+
+1727
+02:07:09,840 --> 02:07:11,757
+Itu karena transisi, Sayang.
+
+1728
+02:07:11,758 --> 02:07:13,510
+Karena transisi.
+
+1729
+02:07:28,775 --> 02:07:30,152
+Itu menyakitinya.
+
+1730
+02:07:31,278 --> 02:07:32,153
+Chistery.
+
+1731
+02:07:32,154 --> 02:07:33,780
+Jangan menggigit.
+
+1732
+02:08:03,936 --> 02:08:05,311
+Menakjubkan.
+
+1733
+02:08:05,312 --> 02:08:08,440
+Kau berhasil. Kau sungguh berhasil.
+
+1734
+02:08:19,451 --> 02:08:20,785
+Dia menderita.
+
+1735
+02:08:20,786 --> 02:08:22,370
+Bagaimana cara membatalkannya?
+
+1736
+02:08:22,371 --> 02:08:24,413
+- Batalkan...
+- Bagaimana cara membatalkannya?
+
+1737
+02:08:24,414 --> 02:08:27,084
+Mantra dari Grimmerie
+tidak dapat dibatalkan.
+
+1738
+02:08:32,256 --> 02:08:34,173
+Elphaba.
+
+1739
+02:08:34,174 --> 02:08:35,676
+Tidak!
+
+1740
+02:08:53,110 --> 02:08:56,112
+Sudah kuduga dia punya kekuatan itu.
+Sudah kubilang.
+
+1741
+02:08:56,113 --> 02:08:57,864
+Elphie, ini menakjubkan.
+
+1742
+02:08:57,865 --> 02:09:00,199
+Ini yang kita mau. Pengawas di langit.
+
+1743
+02:09:00,200 --> 02:09:03,411
+Mereka akan menjadi
+mata-mata yang sempurna.
+
+1744
+02:09:03,412 --> 02:09:04,496
+Mata-mata?
+
+1745
+02:09:06,331 --> 02:09:08,708
+- Elphaba?
+- Tidak.
+
+1746
+02:09:08,709 --> 02:09:11,086
+Elphie?
+
+1747
+02:09:13,172 --> 02:09:14,714
+Kau benar. Itu kata yang kasar.
+
+1748
+02:09:14,715 --> 02:09:17,258
+Kalau "pengintai"?
+Mereka akan terbang keliling Oz
+
+1749
+02:09:17,259 --> 02:09:19,260
+melaporkan setiap pemberontakan hewan...
+
+1750
+02:09:19,261 --> 02:09:21,137
+Pemberontakan hewan? Maksudmu?
+
+1751
+02:09:21,138 --> 02:09:24,183
+Elphie. Aku yakin Ahli Sihir
+punya alasan baik.
+
+1752
+02:09:28,812 --> 02:09:29,938
+Ternyata kau.
+
+1753
+02:09:31,398 --> 02:09:32,774
+Kau di balik semua ini.
+
+1754
+02:09:34,151 --> 02:09:36,527
+Kau yang membuat orang membenci hewan.
+
+1755
+02:09:36,528 --> 02:09:37,946
+Semua karenamu.
+
+1756
+02:09:39,573 --> 02:09:41,365
+Ini demi menjaga rakyat.
+
+1757
+02:09:41,366 --> 02:09:43,410
+Semua untuk kebaikan Oz.
+
+1758
+02:09:43,952 --> 02:09:45,078
+Selama ini kau tahu.
+
+1759
+02:09:46,747 --> 02:09:48,248
+Sejak kau bertemu aku.
+
+1760
+02:09:48,790 --> 02:09:51,459
+Ini demi kebaikanmu juga, Sayang.
+
+1761
+02:09:51,460 --> 02:09:53,753
+- Percayalah.
+- Jangan.
+
+1762
+02:09:53,754 --> 02:09:55,254
+Elphaba.
+
+1763
+02:09:55,255 --> 02:09:58,800
+Saat pertama tiba di sini,
+ada perselisihan.
+
+1764
+02:09:58,801 --> 02:10:00,092
+Ada kebencian.
+
+1765
+02:10:00,093 --> 02:10:02,178
+Di tempat asalku,
+
+1766
+02:10:02,179 --> 02:10:06,642
+semua tahu bahwa cara terbaik
+untuk menyatukan rakyat
+
+1767
+02:10:07,309 --> 02:10:10,813
+adalah memberi mereka musuh yang sama.
+
+1768
+02:10:11,772 --> 02:10:14,357
+Jika ingin mata-mata, kenapa tidak...
+
+1769
+02:10:14,358 --> 02:10:16,401
+kenapa kau tidak melakukannya sendiri?
+
+1770
+02:10:25,577 --> 02:10:26,662
+Elphaba.
+
+1771
+02:10:27,579 --> 02:10:28,664
+Elphaba.
+
+1772
+02:10:29,414 --> 02:10:31,667
+Kau sedang bicara dengan Ahli Sihir Oz.
+
+1773
+02:10:34,211 --> 02:10:35,212
+Bacalah.
+
+1774
+02:10:36,088 --> 02:10:37,256
+Rapal mantranya.
+
+1775
+02:10:37,756 --> 02:10:39,090
+Baca!
+
+1776
+02:10:39,091 --> 02:10:40,509
+- Elphaba.
+- Jangan...
+
+1777
+02:10:45,305 --> 02:10:46,890
+Kau tidak bisa, bukan?
+
+1778
+02:10:49,226 --> 02:10:50,602
+Benar?
+
+1779
+02:10:57,401 --> 02:10:58,943
+Karena itu kau butuh semua ini.
+
+1780
+02:10:58,944 --> 02:11:02,738
+Kau perlu mata-mata, mengurung hewan
+dan seorang musuh.
+
+1781
+02:11:02,739 --> 02:11:04,198
+Kau...
+
+1782
+02:11:04,199 --> 02:11:05,826
+Kau tak punya kekuatan.
+
+1783
+02:11:06,577 --> 02:11:08,286
+Persis.
+
+1784
+02:11:08,287 --> 02:11:09,872
+Itu sebabnya aku membutuhkanmu.
+
+1785
+02:11:10,414 --> 02:11:13,875
+Pikirkan masa depanmu, Sayang.
+
+1786
+02:11:13,876 --> 02:11:15,210
+Mundur.
+
+1787
+02:11:17,963 --> 02:11:19,423
+Elphie, dengarkan mereka.
+
+1788
+02:11:21,592 --> 02:11:22,801
+Kumohon.
+
+1789
+02:11:23,427 --> 02:11:24,844
+Nasihat yang baik, Nona Muda.
+
+1790
+02:11:24,845 --> 02:11:26,387
+Dengarkan, Elphaba,
+
+1791
+02:11:26,388 --> 02:11:31,101
+jika kau bisa melakukan ini
+pada percobaan pertama...
+
+1792
+02:11:32,561 --> 02:11:35,062
+Astaga. Aku tak bisa bayangkan...
+
+1793
+02:11:35,063 --> 02:11:38,483
+Aku serius ingin kau tinggal di sini.
+
+1794
+02:11:38,484 --> 02:11:40,943
+Hanya kau dan aku
+
+1795
+02:11:40,944 --> 02:11:44,113
+dan kalau bisa membuatmu senang,
+
+1796
+02:11:44,114 --> 02:11:47,200
+mungkin temanmu juga.
+
+1797
+02:11:47,201 --> 02:11:48,494
+Benarkah?
+
+1798
+02:11:49,828 --> 02:11:51,038
+Kenapa tidak?
+
+1799
+02:11:52,789 --> 02:11:54,374
+Tidak.
+
+1800
+02:11:56,376 --> 02:11:57,753
+Elphaba.
+
+1801
+02:11:58,462 --> 02:12:01,215
+Kau ingin berguna? Bawa dia kembali.
+
+1802
+02:12:04,426 --> 02:12:06,762
+Elphie. Elphie!
+
+1803
+02:12:13,435 --> 02:12:14,436
+Dengarkan.
+
+1804
+02:12:19,316 --> 02:12:20,526
+Dengarkan!
+
+1805
+02:12:22,069 --> 02:12:24,862
+Jika kau ingin melindungi keluargamu,
+
+1806
+02:12:24,863 --> 02:12:27,741
+kau harus setia kepada Ahli Sihir kita.
+
+1807
+02:12:28,283 --> 02:12:31,160
+Ini ulahnya! Wanita hijau itu.
+
+1808
+02:12:31,161 --> 02:12:33,497
+Jangan sampai dia lolos!
+
+1809
+02:13:20,669 --> 02:13:22,211
+Elphie, kau mau ke mana?
+
+1810
+02:13:22,212 --> 02:13:24,006
+Elphie, apa yang kau lakukan?
+
+1811
+02:13:25,132 --> 02:13:26,133
+Tidak.
+
+1812
+02:13:26,800 --> 02:13:29,344
+Elphaba, kumohon. Kembalilah.
+Mari bicara dengan mereka.
+
+1813
+02:13:30,262 --> 02:13:31,679
+Elphie.
+
+1814
+02:13:31,680 --> 02:13:32,890
+Apa yang kau lakukan?
+
+1815
+02:13:34,475 --> 02:13:35,559
+Ini terlalu.
+
+1816
+02:13:38,604 --> 02:13:39,646
+Ambil saja.
+
+1817
+02:13:41,565 --> 02:13:43,650
+Elphie! Oh! Tidak...
+
+1818
+02:13:58,582 --> 02:14:03,002
+Penjaga.
+
+1819
+02:14:03,003 --> 02:14:07,340
+Ada buronan yang berkeliaran
+di istana ini.
+
+1820
+02:14:07,341 --> 02:14:10,886
+Bawa dia kepadaku.
+
+1821
+02:14:16,099 --> 02:14:17,100
+Ayo.
+
+1822
+02:14:17,935 --> 02:14:20,228
+- Elphaba, apa yang kau lakukan?
+- Ikut aku.
+
+1823
+02:14:20,229 --> 02:14:22,897
+Ke mana? Apa? Kau sudah gila?
+
+1824
+02:14:22,898 --> 02:14:24,649
+Elphaba, tingkahmu konyol.
+
+1825
+02:14:24,650 --> 02:14:26,902
+- Ayo.
+- Kau mau ke mana?
+
+1826
+02:14:27,778 --> 02:14:28,779
+Ke atas.
+
+1827
+02:14:32,366 --> 02:14:34,201
+- Mereka di sini!
+- Itu dia! Wanita hijau.
+
+1828
+02:14:36,036 --> 02:14:38,163
+- Cepat masuk.
+- Ini sungguh...
+
+1829
+02:14:41,375 --> 02:14:42,333
+Cepat. Lompat.
+
+1830
+02:14:42,334 --> 02:14:44,169
+Lompat? Aku?
+
+1831
+02:14:45,045 --> 02:14:47,005
+Cepat. Lompat, Glinda. Sekarang!
+
+1832
+02:14:48,382 --> 02:14:49,257
+Tergelincir...
+
+1833
+02:14:49,258 --> 02:14:50,425
+Pegang tanganku. Ayo!
+
+1834
+02:14:57,933 --> 02:14:59,935
+Ayo. Tangkap!
+
+1835
+02:15:01,186 --> 02:15:02,187
+Turun!
+
+1836
+02:15:03,397 --> 02:15:04,773
+Lepaskan kakiku.
+
+1837
+02:15:05,649 --> 02:15:06,900
+Lepaskan kakiku.
+
+1838
+02:15:09,987 --> 02:15:11,488
+Semuanya, tunggu!
+
+1839
+02:15:33,760 --> 02:15:35,344
+- Ayo!
+- Lebih cepat!
+
+1840
+02:15:35,345 --> 02:15:36,554
+- Dorong!
+- Bantu aku!
+
+1841
+02:15:36,555 --> 02:15:38,015
+Hei! Tidak!
+
+1842
+02:15:43,937 --> 02:15:45,063
+Oh, tidak.
+
+1843
+02:15:48,150 --> 02:15:49,526
+Elphie.
+
+1844
+02:15:51,236 --> 02:15:52,738
+Lebih cepat! Awas!
+
+1845
+02:16:02,956 --> 02:16:04,082
+Cepat! Turun.
+
+1846
+02:16:08,962 --> 02:16:10,379
+Jangan lihat ke belakang!
+
+1847
+02:16:10,380 --> 02:16:12,341
+- Minggir!
+- Awas!
+
+1848
+02:16:17,012 --> 02:16:19,764
+Ini tidak baik.
+
+1849
+02:16:19,765 --> 02:16:21,140
+Elphie.
+
+1850
+02:16:21,141 --> 02:16:22,309
+Elphie!
+
+1851
+02:16:22,893 --> 02:16:25,228
+Tenang. Biarkan dia menjelaskannya.
+
+1852
+02:16:25,229 --> 02:16:26,480
+Langkahi dulu mayatku.
+
+1853
+02:16:27,189 --> 02:16:28,816
+Ini impianmu.
+
+1854
+02:16:36,114 --> 02:16:39,325
+Elphaba, ini lebih penting dari kita.
+
+1855
+02:16:39,326 --> 02:16:41,452
+Kenapa kau tak bisa tenang
+barang sekali saja,
+
+1856
+02:16:41,453 --> 02:16:43,411
+ketimbang harus marah-marah?
+
+1857
+02:16:43,412 --> 02:16:44,789
+Kuharap kau senang!
+
+1858
+02:16:44,790 --> 02:16:46,207
+<i>Kuharap kau senang sekarang</i>
+
+1859
+02:16:46,208 --> 02:16:49,293
+<i>Kuharap kau senang karena
+Sudah merusak tujuanmu</i>
+
+1860
+02:16:49,294 --> 02:16:51,504
+<i>Kuharap kau pikir dirimu pintar</i>
+
+1861
+02:16:51,505 --> 02:16:52,506
+Kuharap kau senang.
+
+1862
+02:16:53,048 --> 02:16:54,423
+<i>Kuharap kau juga senang</i>
+
+1863
+02:16:54,424 --> 02:16:57,969
+<i>Kuharap kau bangga
+Sudah merendahkan nilai dirimu</i>
+
+1864
+02:16:57,970 --> 02:17:00,471
+<i>Demi ambisimu</i>
+
+1865
+02:17:00,472 --> 02:17:04,934
+<i>Meski aku tak bisa membayangkannya</i>
+
+1866
+02:17:04,935 --> 02:17:07,687
+<i>Kuharap kau senang</i>
+
+1867
+02:17:08,230 --> 02:17:12,607
+<i>Saat ini</i>
+
+1868
+02:17:12,608 --> 02:17:14,944
+<i>Warga Oz,</i>
+
+1869
+02:17:14,945 --> 02:17:20,825
+ada seorang musuh
+yang harus ditemukan dan ditangkap.
+
+1870
+02:17:20,826 --> 02:17:24,161
+<i>Jangan percaya kata-katanya.</i>
+
+1871
+02:17:24,162 --> 02:17:27,583
+Dia telah mencuri Grimmerie kita.
+
+1872
+02:17:28,125 --> 02:17:30,877
+<i>Dia jahat,</i>
+
+1873
+02:17:30,878 --> 02:17:36,591
+<i>dia memutilasi monyet-monyet malang
+dan tak bersalah ini.</i>
+
+1874
+02:17:36,592 --> 02:17:37,758
+Tidak.
+
+1875
+02:17:37,759 --> 02:17:41,052
+<i>Kulitnya yang hijau...</i>
+
+1876
+02:17:41,053 --> 02:17:46,852
+<i>adalah manifestasi lahiriah
+dari sifatnya yang menyimpang.</i>
+
+1877
+02:17:48,312 --> 02:17:50,855
+<i>Distorsi ini,</i>
+
+1878
+02:17:50,856 --> 02:17:53,857
+<i>aib ini,</i>
+
+1879
+02:17:53,858 --> 02:17:55,276
+<i>adalah...</i>
+
+1880
+02:17:56,945 --> 02:18:00,032
+<i>Penyihir Jahat.</i>
+
+1881
+02:18:15,756 --> 02:18:17,508
+Jangan takut.
+
+1882
+02:18:20,177 --> 02:18:21,428
+Aku tidak takut.
+
+1883
+02:18:24,181 --> 02:18:26,224
+Ahli Sihir
+yang seharusnya takut kepadaku.
+
+1884
+02:18:29,686 --> 02:18:30,771
+Elphie, dengarkan.
+
+1885
+02:18:31,813 --> 02:18:34,399
+Dengarkan aku. Katakan saja kau menyesal.
+
+1886
+02:18:36,568 --> 02:18:40,821
+<i>Kau masih bisa bersama Ahli Sihir</i>
+
+1887
+02:18:40,822 --> 02:18:45,618
+<i>Semua upayamu dan yang kau nantikan</i>
+
+1888
+02:18:45,619 --> 02:18:51,333
+<i>Semua keinginanmu dapat terwujud</i>
+
+1889
+02:18:55,169 --> 02:18:56,338
+Aku tahu.
+
+1890
+02:18:58,423 --> 02:19:00,467
+<i>Tapi aku tidak menginginkannya</i>
+
+1891
+02:19:02,469 --> 02:19:03,553
+Tidak.
+
+1892
+02:19:04,638 --> 02:19:07,891
+<i>Aku tak bisa menginginkannya</i>
+
+1893
+02:19:09,434 --> 02:19:16,357
+<i>Lagi</i>
+
+1894
+02:19:21,405 --> 02:19:26,117
+<i>Ada sesuatu yang berubah dalam diriku</i>
+
+1895
+02:19:28,161 --> 02:19:31,540
+<i>Ada sesuatu yang tidak sama</i>
+
+1896
+02:19:33,417 --> 02:19:38,504
+<i>Aku sudah muak mengikuti peraturan</i>
+
+1897
+02:19:38,505 --> 02:19:42,384
+<i>Dari permainan orang lain</i>
+
+1898
+02:19:43,427 --> 02:19:46,722
+<i>Sudah terlambat untuk ragu</i>
+
+1899
+02:19:47,514 --> 02:19:52,477
+<i>Terlambat untuk kembali seperti dahulu</i>
+
+1900
+02:19:52,478 --> 02:19:56,647
+<i>Ini saatnya percaya naluriku</i>
+
+1901
+02:19:56,648 --> 02:19:59,902
+<i>Tutup mataku...</i>
+
+1902
+02:20:03,071 --> 02:20:05,781
+<i>Dan melangkah</i>
+
+1903
+02:20:05,782 --> 02:20:11,829
+<i>Ini saatnya melawan gravitasi</i>
+
+1904
+02:20:11,830 --> 02:20:17,960
+<i>Aku akan coba melawan gravitasi</i>
+
+1905
+02:20:17,961 --> 02:20:21,339
+<i>Kau tidak bisa menjatuhkanku</i>
+
+1906
+02:20:21,340 --> 02:20:26,260
+<i>Tidak bisakah aku membuatmu sadar
+Bahwa kau sedang berkhayal?</i>
+
+1907
+02:20:26,261 --> 02:20:29,431
+<i>Aku tidak lagi menerima batasan</i>
+
+1908
+02:20:29,973 --> 02:20:32,267
+<i>Hanya karena orang berkata demikian</i>
+
+1909
+02:20:33,018 --> 02:20:35,353
+<i>Ada hal-hal yang tak bisa aku ubah</i>
+
+1910
+02:20:35,354 --> 02:20:39,273
+<i>Tapi sebelum kucoba, aku tak akan tahu</i>
+
+1911
+02:20:39,274 --> 02:20:42,109
+<i>Terlalu lama aku merasa takut</i>
+
+1912
+02:20:42,110 --> 02:20:45,655
+<i>Kehilangan cinta yang memang sudah sirna</i>
+
+1913
+02:20:45,656 --> 02:20:47,490
+<i>Jika itu cinta</i>
+
+1914
+02:20:47,491 --> 02:20:52,078
+<i>Maka harga yang harus dibayar
+Terlalu mahal</i>
+
+1915
+02:20:52,079 --> 02:20:58,376
+<i>Aku lebih memilih untuk melawan gravitasi</i>
+
+1916
+02:20:58,377 --> 02:21:04,215
+<i>Ucapkan selamat tinggal
+Aku melawan gravitasi</i>
+
+1917
+02:21:04,216 --> 02:21:09,345
+<i>Dan kau tak bisa menjatuhkanku</i>
+
+1918
+02:21:09,346 --> 02:21:10,848
+Mereka di atas sana!
+
+1919
+02:21:14,893 --> 02:21:17,395
+Elphie, apa yang kau lakukan?
+
+1920
+02:21:17,396 --> 02:21:18,605
+Elphaba, kumohon.
+
+1921
+02:21:19,815 --> 02:21:21,233
+Dengarkan. Berhenti.
+
+1922
+02:21:25,237 --> 02:21:27,613
+Tolong, jangan mantra levitasi
+yang buruk itu.
+
+1923
+02:21:27,614 --> 02:21:30,159
+Kau tidak tahu apa yang kau lakukan.
+
+1924
+02:21:30,701 --> 02:21:32,578
+Hentikan!
+
+1925
+02:21:33,287 --> 02:21:34,288
+Hentikan!
+
+1926
+02:21:44,548 --> 02:21:45,799
+Di mana sayapmu?
+
+1927
+02:21:49,470 --> 02:21:52,306
+Mungkin kau tidak sekuat yang kau pikir.
+
+1928
+02:22:06,528 --> 02:22:07,988
+Demi Oz.
+
+1929
+02:22:53,367 --> 02:22:55,452
+Dobrak!
+
+1930
+02:22:59,122 --> 02:23:00,123
+Cepat.
+
+1931
+02:23:01,875 --> 02:23:04,001
+- Naiklah.
+- Apa?
+
+1932
+02:23:04,002 --> 02:23:06,463
+Dobrak!
+
+1933
+02:23:07,005 --> 02:23:08,173
+Dobrak!
+
+1934
+02:23:08,924 --> 02:23:10,550
+Ikut aku.
+
+1935
+02:23:10,551 --> 02:23:13,762
+Pikirkan apa yang bisa
+kita lakukan bersama.
+
+1936
+02:23:16,849 --> 02:23:20,476
+<i>Tidak terbatas</i>
+
+1937
+02:23:20,477 --> 02:23:25,481
+<i>Bersama kita tidak terbatas</i>
+
+1938
+02:23:25,482 --> 02:23:30,278
+<i>Bersama kita akan menjadi tim terbaik
+Yang pernah ada</i>
+
+1939
+02:23:30,279 --> 02:23:32,363
+<i>Glinda</i>
+
+1940
+02:23:32,364 --> 02:23:35,200
+<i>Impian seperti yang kita rencanakan</i>
+
+1941
+02:23:35,742 --> 02:23:38,703
+<i>Asalkan kita bekerja sama</i>
+
+1942
+02:23:38,704 --> 02:23:43,541
+<i>Tidak ada perjuangan
+Yang tidak dapat kita menangkan</i>
+
+1943
+02:23:43,542 --> 02:23:50,548
+<i>Hanya kau dan aku melawan gravitasi</i>
+
+1944
+02:23:50,549 --> 02:23:56,721
+<i>Dengan kau dan aku melawan gravitasi</i>
+
+1945
+02:23:56,722 --> 02:24:01,602
+<i>Mereka tak akan bisa menjatuhkan kita</i>
+
+1946
+02:24:05,272 --> 02:24:06,648
+Kau ikut?
+
+1947
+02:24:20,829 --> 02:24:22,331
+Elphie, kau gemetar.
+
+1948
+02:24:44,144 --> 02:24:45,145
+Ini.
+
+1949
+02:24:46,355 --> 02:24:47,815
+Pakailah ini.
+
+1950
+02:25:49,668 --> 02:25:51,670
+<i>Kuharap kau bahagia</i>
+
+1951
+02:25:53,297 --> 02:25:56,048
+<i>Dengan pilihanmu ini</i>
+
+1952
+02:25:56,049 --> 02:25:57,301
+Kau juga.
+
+1953
+02:25:58,177 --> 02:26:00,678
+<i>Kuharap akan membuatmu bahagia</i>
+
+1954
+02:26:00,679 --> 02:26:03,139
+<i>Sungguh kuharap kau mendapatkannya</i>
+
+1955
+02:26:03,140 --> 02:26:06,350
+<i>Dan kau tidak menyesalinya</i>
+
+1956
+02:26:06,351 --> 02:26:13,107
+<i>Kuharap pada akhirnya kau bahagia</i>
+
+1957
+02:26:13,108 --> 02:26:16,403
+<i>Kuharap kau bahagia</i>
+
+1958
+02:26:16,945 --> 02:26:22,034
+<i>Temanku</i>
+
+1959
+02:26:24,453 --> 02:26:25,495
+Cepat!
+
+1960
+02:26:25,496 --> 02:26:26,663
+- Itu mereka!
+- Tangkap!
+
+1961
+02:26:30,417 --> 02:26:31,417
+Tangkap dia!
+
+1962
+02:26:31,418 --> 02:26:33,002
+Tidak. Jangan sentuh dia.
+
+1963
+02:26:33,003 --> 02:26:35,254
+- Dia tidak bersalah.
+- Lepaskan.
+
+1964
+02:26:35,255 --> 02:26:36,631
+- Tidak!
+- Tangkap mereka!
+
+1965
+02:26:36,632 --> 02:26:37,883
+Elphie!
+
+1966
+02:26:39,885 --> 02:26:42,178
+Tidak! Mundur!
+
+1967
+02:26:42,179 --> 02:26:44,138
+- Elphie! Hentikan!
+- Akulah yang kalian inginkan.
+
+1968
+02:26:44,139 --> 02:26:46,350
+- Akulah yang kalian inginkan.
+- Tidak!
+
+1969
+02:26:47,768 --> 02:26:49,311
+Aku!
+
+1970
+02:26:59,446 --> 02:27:02,406
+<i>- Apa lagi ulahmu sekarang?
+- Elphaba Thropp, warnanya hijau.</i>
+
+1971
+02:27:02,407 --> 02:27:05,117
+<i>Tolong beri tahu dia
+semua orang bisa menciumnya.</i>
+
+1972
+02:27:05,118 --> 02:27:07,663
+<i>Berhenti mengoceh. Patuhi saja.</i>
+
+1973
+02:27:08,163 --> 02:27:11,791
+<i>Pikirkan masa depanmu, Sayang.</i>
+
+1974
+02:27:11,792 --> 02:27:13,669
+<i>Bawa pergi!</i>
+
+1975
+02:27:46,952 --> 02:27:51,205
+<i>Aku!</i>
+
+1976
+02:27:51,206 --> 02:27:54,333
+<i>Jika kau ingin menemukanku</i>
+
+1977
+02:27:54,334 --> 02:27:57,503
+<i>Lihatlah ke langit barat!</i>
+
+1978
+02:27:57,504 --> 02:27:59,964
+<i>Seperti kata seseorang kepadaku:</i>
+
+1979
+02:27:59,965 --> 02:28:05,636
+<i>"Semua orang
+Pantas dapat kesempatan untuk terbang"</i>
+
+1980
+02:28:05,637 --> 02:28:08,473
+<i>Jika aku harus terbang sendirian</i>
+
+1981
+02:28:08,474 --> 02:28:11,350
+<i>Setidaknya aku terbang dengan bebas</i>
+
+1982
+02:28:11,351 --> 02:28:14,061
+<i>Bagi mereka yang coba menahanku</i>
+
+1983
+02:28:14,062 --> 02:28:18,149
+<i>Bawalah kembali sebuah pesan dariku</i>
+
+1984
+02:28:18,150 --> 02:28:24,031
+<i>Katakan bagaimana aku melawan gravitasi</i>
+
+1985
+02:28:24,656 --> 02:28:29,952
+<i>Aku terbang tinggi, melawan gravitasi</i>
+
+1986
+02:28:29,953 --> 02:28:35,334
+<i>Tak lama lagi
+Mereka akan tahu siapa aku</i>
+
+1987
+02:28:46,678 --> 02:28:52,392
+<i>Tak terbatas</i>
+
+1988
+02:28:52,976 --> 02:28:54,728
+<i>Warga Oz,</i>
+
+1989
+02:28:55,646 --> 02:29:00,609
+<i>ada seorang musuh
+yang harus ditemukan dan ditangkap.</i>
+
+1990
+02:29:02,820 --> 02:29:05,363
+<i>Jangan percaya kata-katanya.</i>
+
+1991
+02:29:05,364 --> 02:29:07,949
+<i>Dia telah mencuri Grimmerie kita.</i>
+
+1992
+02:29:07,950 --> 02:29:08,908
+Gubernur?
+
+1993
+02:29:08,909 --> 02:29:11,245
+<i>Dia jahat.</i>
+
+1994
+02:29:12,079 --> 02:29:18,168
+<i>Tak terbatas</i>
+
+1995
+02:29:20,212 --> 02:29:22,464
+<i>Kulitnya yang hijau...</i>
+
+1996
+02:29:23,215 --> 02:29:28,428
+<i>adalah manifestasi lahiriah
+dari sifatnya yang menyimpang.</i>
+
+1997
+02:29:29,972 --> 02:29:32,265
+<i>Distorsi ini,</i>
+
+1998
+02:29:32,266 --> 02:29:35,184
+<i>aib ini,</i>
+
+1999
+02:29:35,185 --> 02:29:36,394
+<i>- adalah...</i>
+- Ayo!
+
+2000
+02:29:36,395 --> 02:29:38,938
+<i>Tak terbatas</i>
+
+2001
+02:29:38,939 --> 02:29:41,525
+<i>...Penyihir Jahat.</i>
+
+2002
+02:29:45,404 --> 02:29:48,365
+<i>Tidak ada satu pun di seluruh Oz</i>
+
+2003
+02:29:49,366 --> 02:29:53,245
+<i>Tak ada Ahli Sihir dahulu dan sekarang</i>
+
+2004
+02:29:53,537 --> 02:30:00,543
+<i>Yang akan bisa menjatuhkanku!</i>
+
+2005
+02:30:00,544 --> 02:30:05,882
+<i>- Kuharap kau bahagia
+- Lihat! Dia Jahat! Bunuh dia!</i>
+
+2006
+02:30:05,883 --> 02:30:09,343
+<i>- Menjatuhkanku
+- Tak seorang pun meratapi Si Jahat</i>
+
+2007
+02:30:09,344 --> 02:30:15,309
+<i>Maka kita harus...</i>
+
+2008
+02:30:22,733 --> 02:30:29,740
+<i>Menjatuhkannya!</i>
+
+2009
+02:30:36,914 --> 02:30:43,253
+<i>Menjatuhkannya!</i>
+
+2010
+02:30:47,633 --> 02:30:50,886
+BERSAMBUNG
+
+2011
+02:40:05,440 --> 02:40:07,442
+ALIH BAHASA: NAZARET SETIABUDI
+
